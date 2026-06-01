@@ -5,7 +5,10 @@
     "ev_network": "LOOP",
     "total_ports": 3564,
     "model_path": "models/prophet_Los_Angeles_LOOP.pkl",
-    "trained_at": "2026-06-01 06:01:05"
+    "trained_at": "2026-06-01 06:01:05",
+    "mae": 184.69,
+    "rmse": 226.4,
+    "evaluated_at": "2026-06-01 05:50:57"
   },
   {
     "label": "Los_Angeles_ChargePoint_Network",
@@ -13,7 +16,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 1583,
     "model_path": "models/prophet_Los_Angeles_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 104.32,
+    "rmse": 123.77,
+    "evaluated_at": "2026-06-01 05:50:57"
   },
   {
     "label": "Irvine_ChargePoint_Network",
@@ -21,7 +27,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 1301,
     "model_path": "models/prophet_Irvine_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 68.76,
+    "rmse": 80.17,
+    "evaluated_at": "2026-06-01 05:50:57"
   },
   {
     "label": "San_Diego_ChargePoint_Network",
@@ -29,7 +38,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 1184,
     "model_path": "models/prophet_San_Diego_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 57.05,
+    "rmse": 71.13,
+    "evaluated_at": "2026-06-01 05:50:57"
   },
   {
     "label": "San_Jose_ChargePoint_Network",
@@ -37,7 +49,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 992,
     "model_path": "models/prophet_San_Jose_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 49.37,
+    "rmse": 61.07,
+    "evaluated_at": "2026-06-01 06:02:25"
   },
   {
     "label": "San_Francisco_ChargePoint_Network",
@@ -45,7 +60,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 827,
     "model_path": "models/prophet_San_Francisco_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 31.22,
+    "rmse": 38.62,
+    "evaluated_at": "2026-06-01 06:02:25"
   },
   {
     "label": "Santa_Clara_ChargePoint_Network",
@@ -53,7 +71,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 674,
     "model_path": "models/prophet_Santa_Clara_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 31.39,
+    "rmse": 37.98,
+    "evaluated_at": "2026-06-01 05:50:58"
   },
   {
     "label": "Sacramento_ChargePoint_Network",
@@ -61,7 +82,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 650,
     "model_path": "models/prophet_Sacramento_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 40.9,
+    "rmse": 47.34,
+    "evaluated_at": "2026-06-01 05:50:58"
   },
   {
     "label": "Menlo_Park_ChargePoint_Network",
@@ -69,7 +93,10 @@
     "ev_network": "ChargePoint Network",
     "total_ports": 540,
     "model_path": "models/prophet_Menlo_Park_ChargePoint_Network.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 22.35,
+    "rmse": 27.03,
+    "evaluated_at": "2026-06-01 05:50:58"
   },
   {
     "label": "San_Diego_POWERFLEX",
@@ -77,6 +104,9 @@
     "ev_network": "POWERFLEX",
     "total_ports": 520,
     "model_path": "models/prophet_San_Diego_POWERFLEX.pkl",
-    "trained_at": "2026-06-01 05:49:38"
+    "trained_at": "2026-06-01 05:49:38",
+    "mae": 37.25,
+    "rmse": 42.7,
+    "evaluated_at": "2026-06-01 05:50:58"
   }
 ]
