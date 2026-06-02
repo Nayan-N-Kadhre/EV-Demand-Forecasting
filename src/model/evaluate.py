@@ -4,13 +4,29 @@ import json
 import joblib
 import numpy as np
 import pandas as pd
-from datetime import datetime
+import psycopg2
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+DB_HOST = os.getenv("DB_HOST", "10.255.255.254")
+DB_PORT = os.getenv("DB_PORT", "5432")
+DB_NAME = os.getenv("DB_NAME", "ev_pipeline")
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "Nayan123@")
+
+def get_connection():
+    return psycopg2.connect(
+        host=DB_HOST,
+        port=DB_PORT,
+        dbname=DB_NAME,
+        user=DB_USER,
+        password=DB_PASSWORD
+    )
 
 def load_registry():
     with open("models/model_registry.json", "r") as f:
@@ -34,7 +50,41 @@ def evaluate_model(model, test_df):
     predicted = forecast["yhat"].values
     mae = np.mean(np.abs(actuals - predicted))
     rmse = np.sqrt(np.mean((actuals - predicted) ** 2))
-    return round(mae, 2), round(rmse, 2)
+    return float(round(mae, 2)), float(round(rmse, 2))
+
+def save_metrics_to_postgres(results):
+    conn = get_connection()
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS mart.model_metrics (
+            label TEXT,
+            city TEXT,
+            ev_network TEXT,
+            total_ports INTEGER,
+            mae NUMERIC,
+            rmse NUMERIC,
+            evaluated_at TEXT
+        )
+    """)
+    cursor.execute("DELETE FROM mart.model_metrics")
+    for entry in results:
+        cursor.execute("""
+            INSERT INTO mart.model_metrics
+            (label, city, ev_network, total_ports, mae, rmse, evaluated_at)
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
+        """, (
+            entry["label"],
+            entry["city"],
+            entry["ev_network"],
+            entry["total_ports"],
+            entry["mae"],
+            entry["rmse"],
+            entry["evaluated_at"]
+        ))
+    conn.commit()
+    cursor.close()
+    conn.close()
+    logger.info("Metrics saved to mart.model_metrics")
 
 def run():
     registry = load_registry()
@@ -53,7 +103,7 @@ def run():
 
         entry["mae"] = mae
         entry["rmse"] = rmse
-        entry["evaluated_at"] = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+        entry["evaluated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 
         results.append(entry)
         logger.info("MAE: " + str(mae) + " | RMSE: " + str(rmse))
@@ -61,7 +111,8 @@ def run():
     with open("models/model_registry.json", "w") as f:
         json.dump(results, f, indent=2)
 
-    logger.info("Evaluation complete. Results saved to models/model_registry.json")
+    save_metrics_to_postgres(results)
+    logger.info("Evaluation complete. Results saved to models/model_registry.json and mart.model_metrics")
 
 if __name__ == "__main__":
     run()
