@@ -14,9 +14,10 @@ DB_NAME = os.getenv("DB_NAME", "ev_pipeline")
 DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASSWORD = os.getenv("DB_PASSWORD", "Nayan123@")
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SQL_FILES = [
-    "sql/staging/stg_stations.sql",
-    "sql/mart/fct_hourly_demand.sql",
+    os.path.join(BASE_DIR, "sql/staging/stg_stations.sql"),
+    os.path.join(BASE_DIR, "sql/mart/fct_hourly_demand.sql"),
 ]
 
 def get_connection():
