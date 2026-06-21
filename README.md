@@ -78,5 +78,6 @@ infrastructure growth, network market share, and capacity demand forecasting.
 - 8-chart Tableau dashboard published
 
 ## Dashboard
-[View on Tableau Public](#) 
+![EV Charging Infrastructure Dashboard](docs/tableau_dashboard.png)
 
+[View on Tableau Public](https://public.tableau.com/views/EVChargingInfrastructureAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
