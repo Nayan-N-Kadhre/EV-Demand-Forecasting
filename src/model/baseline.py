@@ -13,7 +13,7 @@ DB_HOST = os.getenv("DB_HOST", "10.255.255.254")
 DB_PORT = os.getenv("DB_PORT", "5432")
 DB_NAME = os.getenv("DB_NAME", "ev_pipeline")
 DB_USER = os.getenv("DB_USER", "postgres")
-DB_PASSWORD = os.getenv("DB_PASSWORD", "REDACTED_PASSWORD")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
 
 def get_connection():
     return psycopg2.connect(

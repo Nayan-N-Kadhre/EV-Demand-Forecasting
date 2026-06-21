@@ -4,7 +4,7 @@ services:
     environment:
       POSTGRES_DB: ev_pipeline
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: REDACTED_PASSWORD
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
     ports:
       - "5432:5432"
     volumes:
@@ -16,7 +16,7 @@ services:
       - postgres
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:REDACTED_PASSWORD_ENCODED@postgres/ev_pipeline
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:${DB_PASSWORD_ENCODED}@postgres/ev_pipeline
       AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
       AIRFLOW__CORE__LOAD_EXAMPLES: "false"
       _AIRFLOW_DB_MIGRATE: "true"
@@ -24,12 +24,12 @@ services:
       _AIRFLOW_WWW_USER_USERNAME: admin
       _AIRFLOW_WWW_USER_PASSWORD: admin
       _PIP_ADDITIONAL_REQUIREMENTS: "joblib prophet scikit-learn pandas psycopg2-binary python-dotenv requests"
-      NREL_API_KEY: REDACTED_API_KEY
+      NREL_API_KEY: ${NREL_API_KEY}
       DB_HOST: postgres
       DB_PORT: "5432"
       DB_NAME: ev_pipeline
       DB_USER: postgres
-      DB_PASSWORD: "REDACTED_PASSWORD"
+      DB_PASSWORD: ${DB_PASSWORD}
     ports:
       - "8080:8080"
     volumes:
