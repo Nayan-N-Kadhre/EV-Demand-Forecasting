@@ -1,0 +1,3058 @@
+city,state,ev_network,total_stations,total_ports,dc_fast_pct,level2_pct,rolling_avg_ports
+Los Angeles,CA,LOOP,284,3564,1.07,98.93,3564.0
+Los Angeles,CA,ChargePoint Network,980,1583,0.38,99.62,1583.0
+Irvine,CA,ChargePoint Network,763,1301,0.85,99.15,1442.0
+San Diego,CA,ChargePoint Network,686,1184,2.53,97.47,1356.0
+San Jose,CA,ChargePoint Network,531,992,0.6,99.4,1265.0
+San Francisco,CA,ChargePoint Network,475,827,4.59,95.41,1177.4
+Santa Clara,CA,ChargePoint Network,354,674,0.0,100.0,1093.5
+Sacramento,CA,ChargePoint Network,361,650,0.92,99.08,1030.14
+Menlo Park,CA,ChargePoint Network,299,540,5.74,94.26,881.14
+San Diego,CA,POWERFLEX,30,520,0.0,100.0,520.0
+San Mateo,CA,ChargePoint Network,220,418,0.0,100.0,755.0
+Los Angeles,CA,AMPUP,59,416,0.0,100.0,416.0
+San Diego,CA,Tesla,25,402,100.0,0.0,402.0
+Los Angeles,CA,POWERFLEX,19,393,4.58,95.42,456.5
+Los Angeles,CA,Non-Networked,43,389,4.63,87.66,389.0
+Los Angeles,CA,FLO,389,389,0.0,100.0,389.0
+Inglewood,CA,SHELL_RECHARGE,15,384,0.0,100.0,384.0
+Anaheim,CA,ChargePoint Network,202,378,3.97,96.03,639.86
+San Jose,CA,Tesla,21,369,100.0,0.0,385.5
+Redwood City,CA,ChargePoint Network,185,347,0.58,99.42,547.71
+San Jose,CA,POWERFLEX,12,345,5.8,94.2,419.33
+South San Francisco,CA,ChargePoint Network,182,329,0.91,99.09,476.57
+Los Angeles,CA,Blink Network,46,303,0.0,100.0,303.0
+Long Beach,CA,ChargePoint Network,174,299,2.68,97.32,423.0
+Palo Alto,CA,ChargePoint Network,161,273,0.37,99.63,369.14
+Santa Monica,CA,ChargePoint Network,179,272,0.0,100.0,330.86
+Sunnyvale,CA,ChargePoint Network,146,250,0.0,100.0,306.86
+San Bernardino,CA,ChargePoint Network,137,250,1.2,98.8,288.57
+Burlingame,CA,ChargePoint Network,133,247,0.0,100.0,274.29
+Pasadena,CA,Non-Networked,12,240,22.5,77.5,314.5
+Los Angeles,CA,EVCS,26,226,53.1,46.9,226.0
+Sacramento,CA,Non-Networked,21,224,0.0,70.98,284.33
+Oakland,CA,ChargePoint Network,122,220,0.45,99.55,258.71
+Torrance,CA,ChargePoint Network,115,218,0.0,100.0,247.14
+Barstow,CA,Tesla,3,206,100.0,0.0,325.67
+San Jose,CA,Blink Network,27,204,0.0,100.0,253.5
+Fullerton,CA,ChargePoint Network,115,203,0.99,99.01,237.14
+Cupertino,CA,ChargePoint Network,110,198,0.0,100.0,226.57
+La Jolla,CA,POWERFLEX,3,197,0.0,100.0,363.75
+Mountain View,CA,ChargePoint Network,105,192,1.04,98.96,218.29
+Santa Ana,CA,CHARGIE,3,191,0.0,100.0,191.0
+Fremont,CA,ChargePoint Network,107,189,2.12,97.88,209.57
+Los Angeles,CA,Tesla,7,186,100.0,0.0,290.75
+Hayward,CA,ChargePoint Network,102,185,2.7,97.3,200.71
+Ontario,CA,ChargePoint Network,101,182,2.2,97.8,195.29
+Fresno,CA,ChargePoint Network,131,179,5.59,94.41,189.71
+San Diego,CA,Blink Network,49,177,0.0,100.0,228.0
+San Luis Obispo,CA,ChargePoint Network,97,175,4.57,95.43,185.71
+Riverside,CA,ChargePoint Network,94,172,3.49,96.51,182.0
+Burbank,CA,ChargePoint Network,96,171,1.75,98.25,179.0
+Sacramento,CA,Tesla,11,169,100.0,0.0,266.4
+Irvine,CA,NOODOE,4,168,0.0,100.0,168.0
+Newport Beach,CA,ChargePoint Network,97,162,1.85,98.15,175.14
+Oakland,CA,FLASH,7,152,0.0,100.0,152.0
+Napa,CA,ChargePoint Network,83,152,0.66,99.34,170.43
+Los Angeles,CA,EVGATEWAY,10,150,13.33,86.67,150.0
+Costa Mesa,CA,ChargePoint Network,85,146,4.11,95.89,165.29
+City of Industry,CA,ChargePoint Network,76,144,0.69,99.31,160.29
+Elk Grove,CA,ChargePoint Network,81,143,6.99,93.01,155.71
+Saratoga,CA,POWERFLEX,7,140,5.71,94.29,319.0
+Carson,CA,ChargePoint Network,82,138,0.72,99.28,150.86
+Orange,CA,ChargePoint Network,75,137,1.46,98.54,146.0
+San Bernardino,CA,LOOP,5,136,0.0,100.0,1850.0
+Pasadena,CA,POWERFLEX,10,135,16.3,83.7,288.33
+Culver City,CA,ChargePoint Network,69,132,0.0,100.0,141.71
+Los Angeles,CA,Tesla Destination,39,127,0.0,100.0,127.0
+San Mateo,CA,Tesla,7,124,100.0,0.0,242.67
+Anaheim,CA,Tesla,7,124,100.0,0.0,225.71
+Bakersfield,CA,ChargePoint Network,83,122,5.74,94.26,137.43
+Santa Rosa,CA,ChargePoint Network,69,120,1.67,98.33,133.71
+San Diego,CA,Tesla Destination,27,120,0.0,100.0,123.5
+San Francisco,CA,Non-Networked,15,119,0.84,36.97,243.0
+Santa Barbara,CA,ChargePoint Network,62,116,3.45,96.55,129.71
+San Rafael,CA,ChargePoint Network,60,116,0.0,100.0,125.86
+Sacramento,CA,OpConnect,13,115,0.0,100.0,115.0
+Sacramento,CA,EV Connect,7,115,0.0,100.0,115.0
+San Diego,CA,LOOP,9,114,0.0,100.0,1271.33
+Sacramento,CA,eVgo Network,16,110,100.0,0.0,110.0
+Santa Ana,CA,ChargePoint Network,62,109,5.5,94.5,121.71
+Baker,CA,Tesla,2,108,100.0,0.0,183.71
+Stanford,CA,ChargePoint Network,55,108,0.0,100.0,117.57
+Marina Del Rey,CA,POWERFLEX,5,107,0.0,100.0,262.43
+Palo Alto,CA,POWERFLEX,9,107,1.87,98.13,203.43
+West Hollywood,CA,ChargePoint Network,64,106,0.0,100.0,113.86
+El Cajon,CA,ChargePoint Network,61,106,2.83,97.17,111.57
+Universal City,CA,ChargePoint Network,54,106,0.0,100.0,109.57
+Milpitas,CA,Tesla,7,105,100.0,0.0,146.0
+Los Angeles,CA,NOODOE,8,105,0.0,100.0,136.5
+Davis,CA,Non-Networked,22,104,0.96,85.58,215.2
+Lost Hills,CA,Tesla,2,104,100.0,0.0,131.43
+Irvine,CA,Tesla,6,104,100.0,0.0,119.71
+Walnut Creek,CA,ChargePoint Network,55,100,0.0,100.0,107.29
+Culver City,CA,Blink Network,16,100,6.0,94.0,196.0
+Coalinga,CA,Tesla,2,98,100.0,0.0,109.57
+Dublin,CA,ChargePoint Network,57,98,5.1,94.9,104.71
+Berkeley,CA,ChargePoint Network,57,97,0.0,100.0,103.0
+Livermore,CA,Tesla,5,96,100.0,0.0,105.57
+San Diego,CA,EVGATEWAY,2,96,1.04,98.96,123.0
+San Diego,CA,eVgo Network,16,96,97.92,2.08,103.0
+Milpitas,CA,ChargePoint Network,62,95,1.05,98.95,101.14
+Kettleman City,CA,Tesla,2,95,100.0,0.0,101.43
+Beverly Hills,CA,ChargePoint Network,55,95,0.0,100.0,99.57
+Santa Monica,CA,Tesla,3,94,100.0,0.0,99.43
+Pleasanton,CA,ChargePoint Network,61,94,0.0,100.0,97.86
+Pasadena,CA,Tesla,5,92,100.0,0.0,97.57
+Thousand Oaks,CA,EVGATEWAY,4,92,8.7,91.3,112.67
+Ontario,CA,Tesla,5,92,100.0,0.0,95.86
+San Francisco,CA,Blink Network,30,92,0.0,100.0,175.2
+Malibu,CA,ChargePoint Network,53,91,0.0,100.0,95.71
+Long Beach,CA,LOOP,5,91,0.0,100.0,976.25
+Carlsbad,CA,ChargePoint Network,49,90,0.0,100.0,94.29
+Stockton,CA,EVCS,10,89,19.1,80.9,157.5
+San Francisco,CA,Tesla Destination,24,89,0.0,100.0,112.0
+Paso Robles,CA,Tesla Destination,36,88,0.0,100.0,106.0
+Sacramento,CA,LOOP,7,88,2.27,97.73,798.6
+Oceanside,CA,ChargePoint Network,52,88,2.27,97.73,92.86
+San Jose,CA,Non-Networked,8,88,2.27,97.73,194.0
+Santa Monica,CA,FLASH,8,86,0.0,100.0,119.0
+Cypress,CA,ChargePoint Network,50,86,0.0,100.0,91.29
+San Jose,CA,Tesla Destination,12,85,0.0,100.0,101.8
+San Ramon,CA,Tesla,5,84,100.0,0.0,93.0
+Santa Monica,CA,Non-Networked,13,84,2.38,97.62,178.29
+Roseville,CA,Tesla,5,83,100.0,0.0,90.86
+Escondido,CA,LOOP,7,82,0.0,100.0,679.17
+Bakersfield,CA,Tesla,6,82,100.0,0.0,88.86
+Diamond Bar,CA,ChargePoint Network,48,81,0.0,100.0,89.29
+Santa Clarita,CA,ChargePoint Network,49,81,4.94,95.06,87.29
+San Francisco,CA,Tesla,5,80,100.0,0.0,86.71
+Fremont,CA,Tesla,7,80,100.0,0.0,84.71
+Vacaville,CA,Tesla,5,80,100.0,0.0,83.0
+Alameda,CA,ChargePoint Network,41,78,0.0,100.0,85.0
+Pasadena,CA,ChargePoint Network,41,78,0.0,100.0,83.14
+El Segundo,CA,ChargePoint Network,41,77,0.0,100.0,81.29
+San Francisco,CA,eVgo Network,12,77,98.7,1.3,94.33
+Dublin,CA,Tesla,6,76,100.0,0.0,80.71
+Arvin,CA,Tesla,1,76,100.0,0.0,79.57
+Downey,CA,POWERFLEX,3,76,0.0,100.0,158.14
+Campbell,CA,ChargePoint Network,43,75,10.67,89.33,79.43
+Livermore,CA,ChargePoint Network,41,74,0.0,100.0,77.71
+San Ramon,CA,EV Connect,4,74,0.0,100.0,94.5
+Pleasanton,CA,Tesla,5,74,100.0,0.0,78.29
+San Diego,CA,Electrify America,13,74,94.59,5.41,74.0
+Los Altos,CA,Non-Networked,4,74,1.35,98.65,133.29
+San Diego,CA,Non-Networked,11,72,0.0,100.0,109.29
+Brisbane,CA,ChargePoint Network,39,71,0.0,100.0,76.29
+Tustin,CA,ChargePoint Network,39,70,2.86,97.14,74.71
+Moreno Valley,CA,ChargePoint Network,39,70,5.71,94.29,73.57
+Rohnert Park,CA,ChargePoint Network,41,70,8.57,91.43,72.43
+Glendale,CA,ChargePoint Network,37,70,0.0,100.0,71.43
+Gilroy,CA,Tesla,4,68,100.0,0.0,76.29
+Redding,CA,Tesla,3,68,100.0,0.0,74.57
+Costa Mesa,CA,Tesla,4,68,100.0,0.0,72.86
+Chula Vista,CA,Tesla,5,68,100.0,0.0,71.14
+Anaheim,CA,LOOP,9,67,0.0,100.0,591.71
+Manteca,CA,ChargePoint Network,42,67,0.0,100.0,70.29
+San Jose,CA,eVgo Network,12,66,100.0,0.0,87.25
+Temecula,CA,Tesla,5,66,100.0,0.0,69.71
+Mountain View,CA,POWERFLEX,3,66,0.0,100.0,118.29
+Cupertino,CA,POWERFLEX,4,66,12.12,87.88,99.57
+West Covina,CA,LOOP,2,65,3.08,96.92,91.86
+San Clemente,CA,Tesla,2,65,100.0,0.0,68.14
+Fairfield,CA,Tesla,6,64,100.0,0.0,66.71
+Upland,CA,Tesla,1,64,100.0,0.0,66.14
+Oceanside,CA,Tesla,3,64,100.0,0.0,65.57
+Folsom,CA,ChargePoint Network,37,64,3.13,96.88,68.86
+Napa,CA,Tesla Destination,22,64,0.0,100.0,95.5
+Montebello,CA,Tesla,1,64,100.0,0.0,65.0
+Tustin,CA,Tesla,4,63,100.0,0.0,64.29
+Walnut,CA,ChargePoint Network,37,63,0.0,100.0,67.71
+Inglewood,CA,ChargePoint Network,37,63,0.0,100.0,66.71
+Pomona,CA,Non-Networked,2,62,0.0,61.29,86.14
+La Jolla,CA,ChargePoint Network,38,62,16.13,83.87,65.57
+Yermo,CA,Tesla,2,62,100.0,0.0,63.71
+Lebec,CA,Tesla,2,62,100.0,0.0,63.29
+Sacramento,CA,Electrify America,12,62,95.16,4.84,68.0
+Newark,CA,Tesla,4,62,100.0,0.0,63.0
+Sacramento,CA,POWERFLEX,2,62,0.0,100.0,88.43
+Petaluma,CA,POWERFLEX,6,60,0.0,100.0,77.71
+Roseville,CA,ChargePoint Network,33,60,0.0,100.0,64.14
+West Covina,CA,Tesla,3,60,100.0,0.0,62.43
+Walnut Creek,CA,Tesla,4,60,100.0,0.0,61.86
+Commerce,CA,Tesla,2,60,100.0,0.0,61.29
+Irvine,CA,LOOP,10,59,10.17,89.83,80.86
+Fresno,CA,Tesla,5,58,100.0,0.0,60.57
+Dublin,CA,LOOP,1,58,0.0,100.0,72.86
+Los Angeles,CA,AUTEL,2,58,31.03,68.97,58.0
+Westlake Village,CA,ChargePoint Network,33,57,0.0,100.0,62.29
+Larkspur,CA,ChargePoint Network,32,57,0.0,100.0,60.86
+Camarillo,CA,ChargePoint Network,34,57,0.0,100.0,59.86
+Solana Beach,CA,ChargePoint Network,29,57,0.0,100.0,59.0
+Fresno,CA,EVCS,8,57,43.86,56.14,124.0
+Santa Maria,CA,ChargePoint Network,31,57,7.02,92.98,58.14
+Palm Desert,CA,Non-Networked,2,57,0.0,100.0,77.29
+Mojave,CA,Tesla,4,56,100.0,0.0,59.71
+St. Helena,CA,Tesla Destination,25,56,0.0,100.0,89.86
+Vallejo,CA,Tesla,4,56,100.0,0.0,58.86
+Bakersfield,CA,LOOP,11,56,0.0,100.0,67.86
+Firebaugh,CA,Tesla,1,56,100.0,0.0,58.0
+Mountain View,CA,Tesla,3,56,100.0,0.0,57.43
+Oxnard,CA,ChargePoint Network,32,56,8.93,91.07,57.29
+Dunnigan,CA,Tesla,2,56,100.0,0.0,56.86
+Huntington Beach,CA,ChargePoint Network,30,55,1.82,98.18,56.57
+Daly City,CA,Tesla,2,55,100.0,0.0,56.14
+Santa Cruz,CA,ChargePoint Network,30,55,1.82,98.18,56.29
+Escondido,CA,ChargePoint Network,33,55,0.0,100.0,56.0
+Costa Mesa,CA,EVIUM,1,54,0.0,100.0,54.0
+Temecula,CA,Blink Network,1,54,0.0,100.0,155.0
+Chula Vista,CA,ChargePoint Network,35,54,9.26,90.74,55.57
+Glendale,CA,VIALYNK,6,54,0.0,100.0,54.0
+Hanford,CA,ChargePoint Network,38,54,0.0,100.0,55.14
+San Luis Obispo,CA,Tesla,3,54,100.0,0.0,55.57
+Temecula,CA,ChargePoint Network,28,54,0.0,100.0,54.71
+Healdsburg,CA,Tesla Destination,22,53,0.0,100.0,79.29
+Santa Clara,CA,POWERFLEX,2,53,15.09,84.91,70.0
+Santa Clara,CA,Blink Network,3,53,0.0,100.0,140.43
+Glendale,CA,Tesla,3,52,100.0,0.0,55.0
+Buena Park,CA,Tesla,2,52,100.0,0.0,54.43
+Victorville,CA,Tesla,3,52,100.0,0.0,53.86
+San Bruno,CA,Tesla,3,52,100.0,0.0,53.29
+Claremont,CA,ChargePoint Network,28,52,0.0,100.0,54.14
+Simi Valley,CA,Tesla,3,52,100.0,0.0,52.71
+SF,CA,Blink Network,12,52,0.0,100.0,104.57
+El Centro,CA,Tesla,3,52,100.0,0.0,52.29
+Burbank,CA,Tesla,3,52,100.0,0.0,52.0
+Santa Monica,CA,Tesla Destination,14,51,0.0,100.0,69.43
+Palm Springs,CA,ChargePoint Network,32,51,13.73,86.27,53.57
+Fairfield,CA,ChargePoint Network,28,51,3.92,96.08,53.0
+Bakersfield,CA,WATT_EV,1,50,100.0,0.0,50.0
+Sunnyvale,CA,Tesla,4,50,100.0,0.0,51.71
+Carlsbad,CA,Tesla,3,50,100.0,0.0,51.43
+Salinas,CA,ChargePoint Network,29,49,8.16,91.84,52.14
+San Jose,CA,Electrify America,11,49,89.8,10.2,61.67
+Santa Ana,CA,Tesla,2,48,100.0,0.0,50.86
+Manteca,CA,Tesla,3,48,100.0,0.0,50.29
+Novato,CA,ChargePoint Network,30,48,18.75,81.25,51.29
+Inglewood,CA,BP_PULSE,1,48,100.0,0.0,48.0
+Hayward,CA,Tesla,3,48,100.0,0.0,49.71
+Santa Maria,CA,Tesla,3,48,100.0,0.0,49.14
+Redwood City,CA,Blink Network,2,47,0.0,100.0,82.14
+Sun Village,CA,LOOP,1,47,0.0,100.0,62.0
+Colton,CA,Non-Networked,3,47,87.23,12.77,69.14
+Dublin,CA,NOODOE,11,46,0.0,100.0,106.33
+Folsom,CA,Tesla,3,46,100.0,0.0,48.29
+Vallejo,CA,ChargePoint Network,26,46,6.52,93.48,50.14
+Salinas,CA,Tesla,3,46,100.0,0.0,47.71
+Ventura,CA,ChargePoint Network,25,46,0.0,100.0,49.0
+Indio,CA,Tesla,1,46,100.0,0.0,47.14
+Marina,CA,ChargePoint Network,28,46,8.7,91.3,48.14
+Redding,CA,ChargePoint Network,31,45,37.78,62.22,47.29
+San Mateo,CA,POWERFLEX,3,45,0.0,100.0,61.14
+Millbrae,CA,ChargePoint Network,24,45,0.0,100.0,46.43
+Visalia,CA,ChargePoint Network,33,45,22.22,77.78,45.86
+Murrieta,CA,ChargePoint Network,29,45,17.78,82.22,45.43
+Ojai,CA,EVGATEWAY,3,45,0.0,100.0,95.75
+Thousand Oaks,CA,ChargePoint Network,24,45,0.0,100.0,45.29
+Union City,CA,ChargePoint Network,24,45,0.0,100.0,45.14
+Loma Linda,CA,ChargePoint Network,23,44,0.0,100.0,44.86
+Brea,CA,Tesla,2,44,100.0,0.0,46.57
+Ukiah,CA,ChargePoint Network,25,44,4.55,95.45,44.71
+Hoopa,CA,EVGATEWAY,5,44,18.18,81.82,85.4
+Camarillo,CA,Tesla,2,44,100.0,0.0,46.0
+Thousand Oaks,CA,Tesla,2,44,100.0,0.0,45.43
+Beaumont,CA,Tesla,2,44,100.0,0.0,44.86
+Palmdale,CA,Tesla,2,44,100.0,0.0,44.57
+Hawaiian Gardens,CA,Tesla,2,44,100.0,0.0,44.29
+Sunnyvale,CA,POWERFLEX,3,44,0.0,100.0,56.57
+Napa,CA,Tesla,3,44,100.0,0.0,44.0
+Palmdale,CA,EVCS,7,43,27.91,72.09,103.75
+Tracy,CA,ChargePoint Network,29,43,16.28,83.72,44.43
+Foster City,CA,ChargePoint Network,22,43,0.0,100.0,44.14
+Martinez,CA,ChargePoint Network,33,43,0.0,100.0,43.86
+Malibu,CA,POWERFLEX,1,43,0.0,100.0,53.29
+Truckee,CA,Tesla,4,43,100.0,0.0,43.86
+Vacaville,CA,ChargePoint Network,25,42,4.76,95.24,43.43
+National City,CA,ChargePoint Network,24,42,4.76,95.24,43.0
+Citrus Heights,CA,LOOP,2,42,0.0,100.0,56.29
+San Luis Obispo,CA,Blink Network,2,42,0.0,100.0,62.86
+Cerritos,CA,ChargePoint Network,23,42,4.76,95.24,42.71
+San Marcos,CA,ChargePoint Network,25,42,4.76,95.24,42.43
+San Rafael,CA,Non-Networked,2,42,0.0,100.0,62.57
+Sacramento,CA,Blink Network,11,41,4.88,95.12,54.43
+Valencia,CA,Tesla,2,40,100.0,0.0,43.29
+Long Beach,CA,Tesla,3,40,100.0,0.0,42.71
+Diamond Bar,CA,Tesla,2,40,100.0,0.0,42.14
+Riverside,CA,Tesla,2,40,100.0,0.0,41.57
+Fresno,CA,Non-Networked,5,40,10.0,35.0,56.29
+Santa Clarita,CA,Tesla,2,40,100.0,0.0,41.0
+Pomona,CA,Tesla,2,40,100.0,0.0,40.43
+East Palo Alto,CA,Tesla,2,40,100.0,0.0,40.0
+Redlands,CA,Tesla,2,40,100.0,0.0,40.0
+Alhambra,CA,Tesla,3,40,100.0,0.0,40.0
+West Sacramento,CA,ChargePoint Network,27,40,22.5,77.5,42.0
+Lake Forest,CA,ChargePoint Network,21,40,0.0,100.0,41.57
+Sherman Oaks,CA,Tesla,1,40,100.0,0.0,40.0
+Ontario,CA,VIALYNK,1,40,0.0,100.0,47.0
+Panorama City,CA,EVIUM,1,40,0.0,100.0,47.0
+Vista,CA,Tesla,2,40,100.0,0.0,40.0
+Inglewood,CA,Tesla,2,40,100.0,0.0,40.0
+San Francisco,CA,CHARGIE,1,40,0.0,100.0,115.5
+Huntington Beach,CA,NOODOE,1,39,0.0,100.0,89.5
+Rancho Cordova,CA,ChargePoint Network,22,39,10.26,89.74,41.0
+Modesto,CA,ChargePoint Network,23,39,17.95,82.05,40.57
+Whittier,CA,EVRANGE,2,39,17.95,82.05,39.0
+Stockton,CA,ChargePoint Network,22,39,0.0,100.0,40.14
+Stockton,CA,Blink Network,3,39,0.0,100.0,46.86
+Torrance,CA,Blink Network,14,39,12.82,87.18,44.71
+Healdsburg,CA,ChargePoint Network,28,39,0.0,100.0,39.71
+Palo Alto,CA,Tesla,2,39,100.0,0.0,39.86
+Skyforest,CA,EVGATEWAY,1,39,0.0,100.0,77.67
+West Hollywood,CA,AMPUP,1,39,0.0,100.0,227.5
+Mission Viejo,CA,ChargePoint Network,21,38,0.0,100.0,39.14
+San Diego,CA,OpConnect,2,38,0.0,100.0,76.5
+Palm Springs,CA,Tesla Destination,13,38,0.0,100.0,62.14
+Brisbane,CA,Blink Network,1,38,0.0,100.0,42.57
+Agoura Hills,CA,LOOP,2,38,0.0,100.0,52.14
+Lincoln,CA,ChargePoint Network,20,38,0.0,100.0,38.86
+Cupertino,CA,Tesla,2,38,100.0,0.0,39.57
+Oakland,CA,eVgo Network,6,38,100.0,0.0,77.4
+Lodi,CA,ChargePoint Network,23,37,13.51,86.49,38.43
+Lake Elsinore,CA,Tesla,2,37,100.0,0.0,39.14
+Los Angeles,CA,EPIC_CHARGING,2,37,0.0,100.0,37.0
+Los Altos Hills,CA,ChargePoint Network,20,37,0.0,100.0,38.14
+Sacramento,CA,Tesla Destination,7,37,0.0,100.0,54.86
+Corona,CA,ChargePoint Network,26,37,40.54,59.46,37.86
+Hesperia,CA,Tesla,2,36,100.0,0.0,38.57
+Menifee,CA,Tesla,2,36,100.0,0.0,38.0
+Los Altos,CA,Tesla,2,36,100.0,0.0,37.43
+Santa Barbara,CA,POWERFLEX,4,36,0.0,100.0,49.0
+Pasadena,CA,LOOP,6,36,0.0,100.0,48.0
+Hollister,CA,Tesla,2,36,100.0,0.0,36.86
+Atascadero,CA,Tesla,3,36,100.0,0.0,36.43
+Calistoga,CA,Tesla Destination,18,36,0.0,100.0,47.86
+Palo Alto,CA,Non-Networked,8,36,5.56,91.67,50.86
+Torrance,CA,Tesla,2,36,100.0,0.0,36.14
+Fontana,CA,ChargePoint Network,25,36,8.33,91.67,37.43
+Santa Monica,CA,eVgo Network,4,36,100.0,0.0,70.5
+Bishop,CA,Tesla,2,36,100.0,0.0,36.0
+Auburn,CA,Tesla,3,36,100.0,0.0,36.0
+Sacramento,CA,EVCS,4,36,44.44,55.56,90.2
+Los Angeles,CA,eVgo Network,7,36,97.22,2.78,65.57
+South San Francisco,CA,Tesla,2,36,100.0,0.0,36.0
+Paso Robles,CA,Tesla,2,36,100.0,0.0,36.0
+Modesto,CA,Tesla,3,36,100.0,0.0,36.0
+Oakland,CA,POWERFLEX,1,36,0.0,100.0,45.29
+Tehachapi,CA,EVCS,3,36,44.44,55.56,81.17
+Davis,CA,Tesla,2,36,100.0,0.0,36.0
+San Fernando,CA,Tesla,2,36,100.0,0.0,36.0
+El Monte,CA,Tesla,2,36,100.0,0.0,36.0
+San Francisco,CA,Electrify America,5,35,94.29,5.71,55.0
+Concord,CA,Tesla,2,35,100.0,0.0,35.86
+Placerville,CA,Non-Networked,9,35,0.0,100.0,45.57
+Hayward,CA,EV Connect,7,35,0.0,100.0,74.67
+San Diego,CA,DIRT_ROAD,8,35,14.29,85.71,35.0
+Milpitas,CA,EVGATEWAY,1,35,0.0,100.0,71.57
+Highland,CA,ChargePoint Network,19,35,8.57,91.43,36.86
+Brentwood,CA,ChargePoint Network,23,35,0.0,100.0,36.43
+Davis,CA,ChargePoint Network,19,35,2.86,97.14,36.0
+Redlands,CA,SYNERGEV,4,35,5.71,94.29,35.0
+Woodland Hills,CA,LOOP,2,35,0.0,100.0,44.57
+Petaluma,CA,ChargePoint Network,19,35,0.0,100.0,35.71
+Gilroy,CA,ChargePoint Network,21,35,5.71,94.29,35.43
+Rocklin,CA,ChargePoint Network,19,34,11.76,88.24,35.0
+Montebello,CA,Blink Network,1,34,0.0,100.0,40.0
+Chico,CA,ChargePoint Network,26,34,11.76,88.24,34.71
+Palm Springs,CA,Non-Networked,17,34,0.0,100.0,41.57
+Yosemite Valley,CA,RIVIAN_WAYPOINTS,3,34,0.0,100.0,34.0
+Grand Terrace,CA,LOOP,2,34,0.0,100.0,41.14
+Anaheim,CA,Blink Network,8,34,0.0,100.0,38.14
+Rancho Cucamonga,CA,ChargePoint Network,19,34,26.47,73.53,34.57
+Watsonville,CA,ChargePoint Network,17,34,0.0,100.0,34.43
+South San Francisco,CA,CHARGELAB,1,33,0.0,100.0,33.0
+Manhattan Beach,CA,Non-Networked,11,33,0.0,100.0,38.14
+Lancaster,CA,ChargePoint Network,27,33,0.0,100.0,34.14
+San Francisco,CA,CHARGELAB,4,33,0.0,100.0,33.0
+Santa Monica,CA,LOOP,8,33,12.12,87.88,37.86
+Glendora,CA,ChargePoint Network,19,33,3.03,96.97,33.86
+Santa Rosa,CA,AUTEL,4,33,0.0,100.0,45.5
+Folsom,CA,FLO,3,32,0.0,100.0,210.5
+Garden Grove,CA,Tesla,1,32,100.0,0.0,35.29
+South Lake Tahoe,CA,Tesla,3,32,100.0,0.0,34.71
+Tracy,CA,Tesla,2,32,100.0,0.0,34.14
+Culver City,CA,Tesla,3,32,100.0,0.0,33.57
+Patterson,CA,Tesla,2,32,100.0,0.0,33.0
+Laguna Hills,CA,Tesla,2,32,100.0,0.0,32.43
+Hawthorne,CA,Tesla,2,32,100.0,0.0,32.0
+Bakersfield,CA,NOODOE,5,32,25.0,75.0,78.0
+Santa Clara,CA,Tesla,2,32,100.0,0.0,32.0
+Goleta,CA,ChargePoint Network,27,32,0.0,100.0,33.43
+Santa Barbara,CA,Tesla Destination,10,32,0.0,100.0,43.29
+Torrance,CA,POWERFLEX,2,32,0.0,100.0,41.29
+Murrieta,CA,Tesla,2,32,100.0,0.0,32.0
+Chino,CA,Tesla,2,32,100.0,0.0,32.0
+City of Industry,CA,Tesla,2,32,100.0,0.0,32.0
+Montebello,CA,ChargePoint Network,25,32,3.13,96.88,33.14
+Woodland,CA,EVGATEWAY,4,32,100.0,0.0,54.71
+Sunnyvale,CA,eVgo Network,7,32,100.0,0.0,54.43
+Oakland,CA,EV Connect,1,31,100.0,0.0,63.75
+Rancho Mirage,CA,ChargePoint Network,17,31,6.45,93.55,32.71
+Pleasant Hill,CA,ChargePoint Network,16,31,0.0,100.0,32.29
+Visalia,CA,Tesla,2,31,100.0,0.0,31.86
+Napa,CA,LOOP,4,31,0.0,100.0,35.57
+Agoura Hills,CA,Tesla,1,31,100.0,0.0,31.71
+Santee,CA,ChargePoint Network,18,31,0.0,100.0,31.86
+El Cajon,CA,POWERFLEX,3,31,0.0,100.0,38.14
+Concord,CA,ChargePoint Network,16,31,0.0,100.0,31.57
+San Jose,CA,EVGATEWAY,4,30,60.0,40.0,45.29
+Livermore,CA,eVgo Network,4,30,100.0,0.0,45.0
+Mountain View,CA,EV Connect,8,30,0.0,100.0,57.0
+San Carlos,CA,ChargePoint Network,18,30,0.0,100.0,31.14
+Corning,CA,EVGATEWAY,1,30,0.0,100.0,36.43
+Camarillo,CA,EV Connect,1,30,0.0,100.0,52.5
+Arvin,CA,AMPUP,5,30,13.33,86.67,161.67
+Rocklin,CA,Tesla,2,30,100.0,0.0,31.43
+Concord,CA,eVgo Network,4,30,100.0,0.0,38.29
+Pleasanton,CA,AMPUP,1,30,0.0,100.0,128.75
+Bakersfield,CA,eVgo Network,4,30,100.0,0.0,33.14
+San Gabriel,CA,EVCS,5,30,86.67,13.33,73.86
+Camarillo,CA,LOOP,2,30,0.0,100.0,33.86
+Long Beach,CA,SWTCH,1,30,0.0,100.0,30.0
+Suisun City,CA,EVCS,1,30,66.67,33.33,45.86
+El Monte,CA,ChargePoint Network,16,30,0.0,100.0,30.86
+Santa Maria,CA,POWERFLEX,2,30,0.0,100.0,36.0
+Compton,CA,ChargePoint Network,17,29,6.9,93.1,30.43
+Chico,CA,Tesla Destination,5,29,0.0,100.0,39.43
+Carlsbad,CA,LOOP,2,29,0.0,100.0,32.57
+Los Angeles,CA,CHARGELAB,3,29,0.0,100.0,31.67
+Hayward,CA,Blink Network,4,29,0.0,100.0,36.29
+Santee,CA,Blink Network,5,29,0.0,100.0,34.57
+Barstow,CA,Tesla Destination,1,29,0.0,100.0,36.0
+Los Angeles,CA,VIALYNK,3,29,0.0,100.0,41.0
+Glendale,CA,LOOP,3,29,0.0,100.0,31.57
+Sunnyvale,CA,SYNERGEV,4,29,0.0,100.0,32.0
+Chula Vista,CA,Blink Network,5,29,0.0,100.0,33.14
+Auburn,CA,ChargePoint Network,20,29,31.03,68.97,30.14
+South San Francisco,CA,Blink Network,5,29,6.9,93.1,31.71
+Torrance,CA,EVGATEWAY,1,29,0.0,100.0,34.14
+Downey,CA,ChargePoint Network,16,29,10.34,89.66,29.86
+Vista,CA,Blink Network,6,29,13.79,86.21,30.43
+Richmond,CA,ChargePoint Network,16,28,10.71,89.29,29.43
+Arcadia,CA,ChargePoint Network,18,28,0.0,100.0,29.0
+Elk Grove,CA,Tesla,2,28,100.0,0.0,30.86
+Carson,CA,Tesla,2,28,100.0,0.0,30.29
+Cabazon,CA,Tesla,2,28,100.0,0.0,29.71
+Los Gatos,CA,Tesla,2,28,100.0,0.0,29.14
+American Canyon,CA,ChargePoint Network,17,28,0.0,100.0,28.71
+Fountain Valley,CA,Tesla,2,28,100.0,0.0,28.71
+Redlands,CA,ChargePoint Network,20,28,35.71,64.29,28.43
+La Mirada,CA,ChargePoint Network,14,28,0.0,100.0,28.29
+Vallery Center,CA,Non-Networked,1,28,42.86,57.14,35.43
+Whittier,CA,Tesla,2,28,100.0,0.0,28.29
+Oakland,CA,Non-Networked,5,28,0.0,85.71,33.43
+Chino Hills,CA,LOOP,3,28,0.0,100.0,30.57
+Brea,CA,Tesla Destination,2,28,0.0,100.0,32.71
+Needles,CA,Tesla,3,28,100.0,0.0,28.0
+Richmond,CA,Tesla,2,28,100.0,0.0,28.0
+Novato,CA,Tesla,2,28,100.0,0.0,28.0
+Sunnyvale,CA,Blink Network,4,28,0.0,100.0,29.57
+Oakland,CA,Tesla,2,28,100.0,0.0,28.0
+Woodland,CA,ChargePoint Network,14,28,0.0,100.0,28.14
+Fullerton,CA,Tesla,2,28,100.0,0.0,28.0
+Arcata,CA,ChargePoint Network,15,28,7.14,92.86,28.0
+Encinitas,CA,Tesla,2,28,100.0,0.0,28.0
+Los Altos,CA,POWERFLEX,1,28,7.14,92.86,33.71
+Encinitas,CA,ChargePoint Network,15,28,0.0,100.0,28.0
+Signal Hill,CA,Tesla,1,28,100.0,0.0,28.0
+San Mateo,CA,eVgo Network,5,28,100.0,0.0,31.71
+Newark,CA,ChargePoint Network,15,28,3.57,96.43,28.0
+Santa Barbara,CA,Tesla,2,28,100.0,0.0,28.0
+Rancho Cordova,CA,SWTCH,1,27,0.0,100.0,28.5
+Palo Alto,CA,Blink Network,6,27,7.41,92.59,28.57
+San Leandro,CA,ChargePoint Network,15,27,0.0,100.0,27.86
+Tustin,CA,Non-Networked,8,27,62.96,37.04,31.57
+San Anselmo,CA,ChargePoint Network,15,27,0.0,100.0,27.71
+Anaheim,CA,EVCS,3,27,100.0,0.0,37.0
+Pomona,CA,ChargePoint Network,19,27,18.52,81.48,27.57
+San Luis Obispo,CA,Non-Networked,8,27,3.7,96.3,30.29
+Los Angeles,CA,EV Connect,7,27,14.81,85.19,48.86
+Victorville,CA,ChargePoint Network,17,27,14.81,85.19,27.43
+Torrance,CA,LOOP,5,27,0.0,100.0,29.57
+Beverly Hills,CA,Tesla Destination,7,27,0.0,100.0,31.14
+Palm Desert,CA,Tesla Destination,6,27,0.0,100.0,29.71
+Manhattan Beach,CA,ChargePoint Network,17,27,0.0,100.0,27.29
+Vacaville,CA,Non-Networked,10,27,0.0,96.3,29.14
+La Quinta,CA,Tesla Destination,5,26,0.0,100.0,28.29
+Whittier,CA,ChargePoint Network,14,26,0.0,100.0,27.0
+Merced,CA,Blink Network,2,26,0.0,100.0,28.14
+Northridge,CA,Non-Networked,11,26,0.0,100.0,28.0
+Antioch,CA,eVgo Network,3,26,100.0,0.0,30.29
+Pittsburg,CA,ChargePoint Network,15,26,7.69,92.31,26.71
+Fremont,CA,Blink Network,4,26,0.0,100.0,27.71
+West Hollywood,CA,LOOP,3,26,0.0,100.0,28.57
+Modesto,CA,POWERFLEX,1,26,61.54,38.46,31.29
+Buttonwillow,CA,Tesla,2,26,100.0,0.0,27.71
+Ventura,CA,EVGATEWAY,2,26,0.0,100.0,31.57
+San Bernardino,CA,Tesla,2,26,100.0,0.0,27.43
+Long Beach,CA,WATT_EV,1,26,100.0,0.0,38.0
+Ontario,CA,Blink Network,2,26,0.0,100.0,27.29
+Palo Alto,CA,Tesla Destination,6,26,0.0,100.0,27.43
+Los Gatos,CA,ChargePoint Network,14,26,0.0,100.0,26.57
+Woodland,CA,Non-Networked,7,25,32.0,68.0,26.86
+Berkeley,CA,CHARGELAB,1,25,0.0,100.0,30.0
+San Mateo,CA,Tesla Destination,1,25,0.0,100.0,26.86
+Indian Wells,CA,Blink Network,1,25,0.0,100.0,26.71
+San Ramon,CA,ChargePoint Network,14,25,0.0,100.0,26.29
+Walnut Creek,CA,Blink Network,4,25,0.0,100.0,26.14
+Madera,CA,ChargePoint Network,13,25,16.0,84.0,26.0
+Los Gatos,CA,Tesla Destination,5,25,0.0,100.0,26.29
+Emeryville,CA,ChargePoint Network,15,25,0.0,100.0,25.71
+Malibu,CA,Tesla,3,25,100.0,0.0,27.0
+La Quinta,CA,Tesla,2,24,100.0,0.0,26.43
+Palm Springs,CA,Tesla,1,24,100.0,0.0,25.86
+Vista,CA,LOOP,3,24,8.33,91.67,27.57
+Westminster,CA,Tesla,1,24,100.0,0.0,25.29
+Granada Hills,CA,Tesla,1,24,100.0,0.0,24.71
+Chino Hills,CA,ChargePoint Network,13,24,0.0,100.0,25.29
+San Bernardino,CA,WATT_EV,1,24,100.0,0.0,33.33
+Fontana,CA,Tesla,1,24,100.0,0.0,24.43
+Covina,CA,ChargePoint Network,14,24,0.0,100.0,25.0
+Modesto,CA,EV Connect,4,24,25.0,75.0,35.86
+Chico,CA,Non-Networked,3,24,33.33,66.67,26.29
+Manhattan Beach,CA,Tesla,1,24,100.0,0.0,24.14
+Placerville,CA,ChargePoint Network,13,24,8.33,91.67,24.71
+Turlock,CA,Tesla,2,24,100.0,0.0,24.0
+Norwalk,CA,ChargePoint Network,12,24,0.0,100.0,24.43
+Emeryville,CA,Tesla,2,24,100.0,0.0,24.0
+Weed,CA,Tesla,2,24,100.0,0.0,24.0
+Rancho Mirage,CA,Tesla,1,24,100.0,0.0,24.0
+Citrus Heights,CA,Tesla,1,24,100.0,0.0,24.0
+Lake Forest,CA,Tesla,1,24,100.0,0.0,24.0
+Fresno,CA,eVgo Network,5,24,100.0,0.0,28.57
+Aliso Viejo,CA,ChargePoint Network,12,24,0.0,100.0,24.29
+Santa Cruz,CA,Tesla Destination,4,24,0.0,100.0,25.71
+Los Angeles,CA,SWTCH,4,24,0.0,100.0,27.0
+Anaheim,CA,Tesla Destination,1,24,0.0,100.0,25.29
+Westlake Village,CA,Tesla,1,24,100.0,0.0,24.0
+Stockton,CA,Tesla,2,24,100.0,0.0,24.0
+Culver City,CA,LOOP,2,24,0.0,100.0,26.71
+Torrance,CA,SHELL_RECHARGE,1,24,100.0,0.0,204.0
+Huntington Beach,CA,Tesla,1,24,100.0,0.0,24.0
+Northridge,CA,Tesla,1,24,100.0,0.0,24.0
+Santa Barbara,CA,Blink Network,2,24,0.0,100.0,25.57
+Fresno,CA,Electrify America,6,24,91.67,8.33,48.8
+Duarte,CA,BP_PULSE,1,24,100.0,0.0,36.0
+Downey,CA,Tesla,2,24,100.0,0.0,24.0
+Berkeley,CA,Blink Network,3,23,0.0,100.0,25.0
+Los Angeles,CA,ABM,2,23,8.7,91.3,23.0
+Salinas,CA,eVgo Network,4,23,100.0,0.0,27.29
+Palm Desert,CA,ChargePoint Network,15,23,17.39,82.61,24.0
+Turlock,CA,ChargePoint Network,13,23,0.0,100.0,23.71
+Porterville,CA,Blink Network,4,23,17.39,82.61,24.57
+Fallbrook,CA,ChargePoint Network,14,23,8.7,91.3,23.57
+Bellflower,CA,ChargePoint Network,13,23,4.35,95.65,23.43
+Winchester,CA,Blink Network,4,23,0.0,100.0,24.14
+San Diego,CA,ABM,4,23,0.0,100.0,23.0
+Bakersfield,CA,Electrify America,7,22,63.64,36.36,44.33
+Palm Springs,CA,LOOP,1,22,0.0,100.0,25.71
+Kentfield,CA,Blink Network,1,22,0.0,100.0,23.57
+Shafter,CA,EVGATEWAY,1,22,0.0,100.0,29.14
+Campbell,CA,Blink Network,6,22,0.0,100.0,23.14
+Mammoth Lakes,CA,Tesla Destination,5,22,0.0,100.0,24.57
+Merced,CA,NAYAX_ENERGY,1,22,100.0,0.0,22.0
+Pasadena,CA,EVGATEWAY,2,22,0.0,100.0,27.29
+Lompoc,CA,POWERFLEX,1,22,0.0,100.0,29.29
+Stanton,CA,EVCS,2,22,100.0,0.0,32.0
+Tracy,CA,Blink Network,2,22,9.09,90.91,22.71
+Moreno Valley,CA,EVGATEWAY,2,22,0.0,100.0,25.86
+Lakeside,CA,ChargePoint Network,12,22,4.55,95.45,23.14
+Blythe,CA,EVGATEWAY,2,22,0.0,100.0,24.71
+South Lake Tahoe,CA,Blink Network,3,22,0.0,100.0,22.43
+Fairfield,CA,EVCS,3,22,100.0,0.0,29.0
+Monterey,CA,ChargePoint Network,13,22,18.18,81.82,22.86
+Vista,CA,ChargePoint Network,15,22,0.0,100.0,22.57
+El Segundo,CA,EV Connect,3,22,0.0,100.0,28.43
+Yosemite National Park,CA,RIVIAN_WAYPOINTS,3,22,0.0,100.0,28.0
+Indio,CA,ChargePoint Network,13,21,14.29,85.71,22.29
+Pleasanton,CA,Electrify America,4,21,95.24,4.76,41.0
+Thousand Oaks,CA,NOODOE,6,21,0.0,100.0,68.5
+Palo Alto,CA,EVGATEWAY,1,21,0.0,100.0,23.43
+Lost Hills,CA,Non-Networked,2,21,4.76,95.24,25.29
+City of Fairfield,CA,EVCS,1,21,57.14,42.86,26.86
+Stockton,CA,Non-Networked,6,21,42.86,57.14,24.43
+Roseville,CA,LOOP,3,21,0.0,100.0,24.57
+Roseville,CA,POWERFLEX,2,21,0.0,100.0,27.14
+Westlake Village,CA,Blink Network,2,21,0.0,100.0,22.14
+Oakley,CA,ChargePoint Network,13,21,0.0,100.0,22.0
+Napa,CA,Blink Network,3,21,0.0,100.0,21.86
+Santa Rosa,CA,Tesla Destination,8,21,0.0,100.0,23.86
+Carmel-by-the-Sea,CA,ChargePoint Network,11,21,0.0,100.0,21.71
+San Jose,CA,LOOP,1,20,0.0,100.0,23.43
+Clovis,CA,ChargePoint Network,10,20,0.0,100.0,21.29
+Oceanside,CA,eVgo Network,4,20,100.0,0.0,25.86
+Pacific Grove,CA,ChargePoint Network,11,20,10.0,90.0,21.0
+San Gabriel,CA,Tesla,1,20,100.0,0.0,23.43
+Galt,CA,Tesla,1,20,100.0,0.0,22.86
+Menlo Park,CA,POWERFLEX,1,20,0.0,100.0,25.43
+Jurupa Valley,CA,Tesla,1,20,100.0,0.0,22.29
+Carlsbad,CA,Blink Network,4,20,0.0,100.0,21.43
+Brisbane,CA,CHARGIE,2,20,0.0,100.0,83.67
+Woodland,CA,Tesla,2,20,100.0,0.0,21.71
+Burlingame,CA,Tesla,1,20,100.0,0.0,21.14
+Fairfield,CA,Non-Networked,5,20,25.0,75.0,23.43
+Inglewood,CA,Blink Network,1,20,0.0,100.0,21.14
+Capitola,CA,Non-Networked,1,20,40.0,60.0,22.43
+Calabasas,CA,Tesla,1,20,100.0,0.0,20.57
+San Marcos,CA,Tesla,1,20,100.0,0.0,20.0
+San Leandro,CA,Tesla Destination,2,20,0.0,100.0,23.0
+Buellton,CA,Tesla,1,20,100.0,0.0,20.0
+Coarsegold,CA,Tesla Destination,2,20,0.0,100.0,22.29
+Fountain Valley,CA,ChargePoint Network,12,20,0.0,100.0,20.71
+Cerritos,CA,Tesla,1,20,100.0,0.0,20.0
+Ukiah,CA,Tesla,2,20,100.0,0.0,20.0
+Eureka,CA,Tesla,2,20,100.0,0.0,20.0
+Milpitas,CA,Non-Networked,2,20,0.0,100.0,21.57
+Carmichael,CA,eVgo Network,2,20,100.0,0.0,24.43
+Red Bluff,CA,Tesla,2,20,100.0,0.0,20.0
+Mammoth Lakes,CA,Tesla,2,20,100.0,0.0,20.0
+Petaluma,CA,Tesla,1,20,100.0,0.0,20.0
+Lakewood,CA,Tesla,1,20,100.0,0.0,20.0
+Irvine,CA,ABM,1,20,0.0,100.0,22.0
+Gardena,CA,Tesla,1,20,100.0,0.0,20.0
+Hermosa Beach,CA,Tesla,1,20,100.0,0.0,20.0
+Ventura,CA,Tesla,2,20,100.0,0.0,20.0
+Hercules,CA,ChargePoint Network,10,20,0.0,100.0,20.43
+Rancho Cucamonga,CA,Tesla,2,20,100.0,0.0,20.0
+Santa Monica,CA,Electrify America,1,20,100.0,0.0,33.29
+Stockton,CA,EVGATEWAY,1,20,50.0,50.0,22.14
+San Bruno,CA,ChargePoint Network,10,20,0.0,100.0,20.29
+Moreno Valley,CA,eVgo Network,3,20,100.0,0.0,23.0
+Escondido,CA,Tesla,1,20,100.0,0.0,20.0
+Santa Rosa,CA,Tesla,1,20,100.0,0.0,20.0
+Corona,CA,Tesla,1,20,100.0,0.0,20.0
+Grover Beach,CA,Tesla,1,20,100.0,0.0,20.0
+Temecula,CA,Non-Networked,5,20,0.0,100.0,20.86
+Milpitas,CA,INTERTIE,2,20,0.0,100.0,20.0
+San Mateo,CA,Blink Network,1,20,0.0,100.0,20.86
+Grass Valley,CA,ChargePoint Network,11,20,10.0,90.0,20.14
+Paramount,CA,ChargePoint Network,11,20,0.0,100.0,20.0
+Ontario,CA,SYNERGEV,4,20,0.0,100.0,28.0
+Costa Mesa,CA,EVGATEWAY,1,20,0.0,100.0,21.29
+Tuolumne Meadows,CA,RIVIAN_WAYPOINTS,1,20,0.0,100.0,25.33
+Roseville,CA,Electrify America,4,20,80.0,20.0,27.29
+Placerville,CA,Tesla,2,20,100.0,0.0,20.0
+Oxnard,CA,Tesla,1,20,100.0,0.0,20.0
+Indian Wells,CA,ChargePoint Network,14,20,0.0,100.0,20.0
+Anaheim,CA,EVRANGE,2,20,0.0,100.0,29.5
+Costa Mesa,CA,ROVE,1,20,100.0,0.0,20.0
+Palo Alto,CA,LOOP,2,20,0.0,100.0,22.43
+Heber,CA,Blink Network,1,20,100.0,0.0,20.57
+Morgan Hill,CA,ChargePoint Network,13,20,0.0,100.0,20.0
+Mt. Shasta,CA,Tesla,2,20,100.0,0.0,20.0
+Riverside,CA,EV Connect,3,20,0.0,100.0,26.29
+Bakersfield,CA,EVGATEWAY,1,19,42.11,57.89,20.86
+Lancaster,CA,POWERFLEX,1,19,0.0,100.0,23.71
+Fresno,CA,Blink Network,6,19,0.0,100.0,20.14
+Campbell,CA,EVMATCH,5,19,0.0,100.0,19.0
+San Juan Capistrano,CA,Tesla,2,19,100.0,0.0,19.86
+Fremont,CA,eVgo Network,3,19,100.0,0.0,21.71
+San Pablo,CA,ChargePoint Network,10,19,0.0,100.0,19.86
+Lancaster,CA,LOOP,3,19,0.0,100.0,21.43
+Vernon,CA,ChargePoint Network,19,19,100.0,0.0,19.71
+Pomona,CA,EVCS,1,19,0.0,100.0,24.43
+West Hollywood,CA,Tesla Destination,4,19,0.0,100.0,21.43
+Laguna Hills,CA,Non-Networked,1,19,0.0,0.0,20.14
+Costa Mesa,CA,Blink Network,3,19,0.0,100.0,19.86
+San Carlos,CA,Tesla,1,19,100.0,0.0,19.71
+Long Beach,CA,Tesla Destination,4,19,0.0,100.0,20.71
+San Francisco,CA,POWERFLEX,1,19,0.0,100.0,22.14
+Yorba Linda,CA,ChargePoint Network,11,19,0.0,100.0,19.57
+Tehachapi,CA,ChargePoint Network,11,19,10.53,89.47,19.43
+Santa Ana,CA,eVgo Network,4,18,100.0,0.0,20.57
+Clovis,CA,SWTCH,2,18,0.0,100.0,24.75
+Laguna Niguel,CA,ChargePoint Network,10,18,5.56,94.44,19.14
+Rancho Cordova,CA,Tesla,1,18,100.0,0.0,19.43
+Marina Del Rey,CA,Tesla,2,18,100.0,0.0,19.14
+Elk Grove,CA,OpConnect,1,18,0.0,100.0,57.0
+Watsonville,CA,Tesla,1,18,100.0,0.0,18.86
+Mission Viejo,CA,Tesla,2,18,100.0,0.0,18.57
+Long Beach,CA,eVgo Network,4,18,100.0,0.0,19.71
+Dana Point,CA,ChargePoint Network,10,18,0.0,100.0,18.86
+Hawthorne,CA,ChargePoint Network,11,18,0.0,100.0,18.57
+Citrus Heights,CA,eVgo Network,2,18,100.0,0.0,19.0
+Tulare,CA,EV Connect,2,18,0.0,100.0,24.43
+Rancho Cordova,CA,eVgo Network,2,18,100.0,0.0,18.71
+Whittier,CA,eVgo Network,2,18,100.0,0.0,18.43
+South Lake Tahoe,CA,Tesla Destination,7,18,0.0,100.0,19.86
+Chula Vista,CA,DIRT_ROAD,1,18,0.0,100.0,26.5
+San Clemente,CA,ChargePoint Network,13,18,44.44,55.56,18.43
+Anaheim,CA,NOODOE,3,18,0.0,100.0,61.29
+Menlo Park,CA,Tesla,1,18,100.0,0.0,18.29
+Fairfield,CA,eVgo Network,3,18,100.0,0.0,18.14
+Rancho Mirage,CA,eVgo Network,2,18,100.0,0.0,18.0
+Gardena,CA,NOODOE,1,18,0.0,100.0,39.86
+Pacific Palisades,CA,Non-Networked,3,18,11.11,77.78,19.71
+Elk Grove,CA,EVGATEWAY,3,18,77.78,22.22,20.29
+Brentwood,CA,EVGATEWAY,1,18,0.0,100.0,19.71
+Big Bear Lake,CA,Tesla,2,18,100.0,0.0,18.14
+Mendocino,CA,Tesla Destination,5,18,0.0,100.0,19.29
+Hayward,CA,eVgo Network,2,18,100.0,0.0,18.0
+Buena Park,CA,EVGATEWAY,2,18,44.44,55.56,19.14
+Modesto,CA,NAYAX_ENERGY,1,18,100.0,0.0,20.0
+Burbank,CA,Electrify America,3,18,94.44,5.56,22.86
+Chico,CA,Tesla,1,18,100.0,0.0,18.0
+Riverside,CA,Blink Network,3,18,0.0,100.0,19.43
+Carson,CA,EVRANGE,1,18,0.0,100.0,25.67
+Folsom,CA,OpConnect,1,18,0.0,100.0,47.25
+Palmdale,CA,ChargePoint Network,13,18,11.11,88.89,18.29
+San Luis Obispo,CA,Tesla Destination,5,17,0.0,100.0,18.71
+Los Angeles,CA,Electrify America,5,17,100.0,0.0,20.29
+Westminster,CA,ChargePoint Network,11,17,5.88,94.12,18.0
+Mission Hills,CA,Blink Network,2,17,0.0,100.0,19.0
+Irvine,CA,SWTCH,2,17,0.0,100.0,23.2
+Redondo Beach,CA,ChargePoint Network,9,17,5.88,94.12,17.71
+Truckee,CA,Tesla Destination,5,17,0.0,100.0,18.29
+Ventura,CA,Non-Networked,6,17,5.88,94.12,19.14
+Perris,CA,ChargePoint Network,10,17,0.0,100.0,17.57
+La Quinta,CA,CHARGELAB,5,17,0.0,100.0,27.4
+Antioch,CA,ChargePoint Network,9,17,0.0,100.0,17.43
+Goleta,CA,POWERFLEX,1,17,0.0,100.0,20.57
+Laguna Beach,CA,Tesla Destination,4,17,0.0,100.0,17.86
+El Segundo,CA,Tesla Destination,3,17,0.0,100.0,17.57
+Ukiah,CA,NOODOE,2,17,0.0,100.0,27.29
+Riverside,CA,Non-Networked,8,17,0.0,100.0,18.71
+Eastvale,CA,Tesla,1,16,100.0,0.0,17.71
+Lakewood,CA,eVgo Network,3,16,100.0,0.0,17.71
+Yorba Linda,CA,Tesla,2,16,100.0,0.0,17.43
+Cathedral City,CA,EVCS,1,16,0.0,100.0,22.43
+Vista,CA,CHAEVI,1,16,100.0,0.0,16.0
+Mountain View,CA,EVMATCH,2,16,0.0,100.0,17.5
+Menlo Park,CA,Non-Networked,1,16,0.0,100.0,18.14
+Eureka,CA,ChargePoint Network,8,16,0.0,100.0,17.14
+Vernon,CA,Tesla,2,16,100.0,0.0,17.14
+El Segundo,CA,LOOP,1,16,0.0,100.0,20.29
+Danville,CA,Tesla,1,16,100.0,0.0,16.86
+Newbury Park,CA,Tesla,1,16,100.0,0.0,16.57
+Monterey Park,CA,EV Connect,2,16,0.0,100.0,22.43
+Baldwin Park,CA,Tesla,1,16,100.0,0.0,16.29
+La Jolla,CA,Tesla,1,16,100.0,0.0,16.0
+Palm Desert,CA,LOOP,3,16,0.0,100.0,19.14
+Folsom,CA,Blink Network,3,16,0.0,100.0,18.43
+Fremont,CA,Tesla Destination,4,16,0.0,100.0,17.14
+Alamo,CA,Tesla,1,16,100.0,0.0,16.0
+Lancaster,CA,Tesla,1,16,100.0,0.0,16.0
+Alpine,CA,Tesla,1,16,100.0,0.0,16.0
+Brentwood,CA,Tesla,1,16,100.0,0.0,16.0
+San Jose,CA,IONNA,2,16,100.0,0.0,16.0
+Westminster,CA,CHARGIE,1,16,0.0,100.0,66.75
+Baldwin Park,CA,EVCS,1,16,25.0,75.0,20.43
+Lone Pine,CA,Tesla,1,16,100.0,0.0,16.0
+Paso Robles,CA,Blink Network,1,16,0.0,100.0,17.86
+Olancha,CA,Tesla,1,16,100.0,0.0,16.0
+Altos Hills,CA,POWERFLEX,1,16,0.0,100.0,19.14
+Truckee,CA,ChargePoint Network,11,16,12.5,87.5,16.86
+Hawthorne,CA,Tesla Destination,3,16,0.0,100.0,16.86
+South San Francisco,CA,Non-Networked,1,16,75.0,25.0,17.57
+Traver,CA,Tesla,1,16,100.0,0.0,16.0
+Campbell,CA,Tesla,1,16,100.0,0.0,16.0
+La Mesa,CA,ChargePoint Network,9,16,0.0,100.0,16.57
+Torrance,CA,NOODOE,1,16,0.0,100.0,23.0
+Santa Fe Springs,CA,EV Connect,1,16,87.5,12.5,20.43
+Covina,CA,Tesla,1,16,100.0,0.0,16.0
+La Verne,CA,Tesla,1,16,100.0,0.0,16.0
+Downey,CA,Non-Networked,4,16,12.5,87.5,17.0
+King City,CA,Tesla,1,16,100.0,0.0,16.0
+West Sacramento,CA,Tesla,1,16,100.0,0.0,16.0
+Inyokern,CA,Tesla,2,16,100.0,0.0,16.0
+Azusa,CA,Tesla,1,16,100.0,0.0,16.0
+Highland,CA,Tesla,2,16,100.0,0.0,16.0
+Colton,CA,EVMATCH,1,16,0.0,100.0,17.0
+Buena Park,CA,ChargePoint Network,8,16,37.5,62.5,16.43
+Anaheim,CA,EVGATEWAY,2,16,0.0,100.0,18.43
+Norwalk,CA,Tesla,1,16,100.0,0.0,16.0
+Santa Rosa,CA,LOOP,2,16,0.0,100.0,18.29
+Selma,CA,Tesla,1,16,100.0,0.0,16.0
+Marin City,CA,Tesla,1,16,100.0,0.0,16.0
+Pleasanton,CA,eVgo Network,4,16,56.25,43.75,17.43
+Madera,CA,Tesla,1,16,100.0,0.0,16.0
+Cypress,CA,Tesla,1,16,100.0,0.0,16.0
+Santa Maria,CA,Tesla Destination,3,16,0.0,100.0,16.57
+San Dimas,CA,ChargePoint Network,8,16,0.0,100.0,16.29
+Pinole,CA,Tesla,1,16,100.0,0.0,16.0
+Oakhurst,CA,Tesla,2,16,100.0,0.0,16.0
+Yucca Valley,CA,Tesla,1,16,100.0,0.0,16.0
+Moorpark,CA,ChargePoint Network,8,16,0.0,100.0,16.14
+Pleasanton,CA,OpConnect,2,16,0.0,100.0,41.0
+Martinez,CA,Tesla,1,16,100.0,0.0,16.0
+Covina,CA,eVgo Network,1,16,100.0,0.0,17.14
+La Verne,CA,ChargePoint Network,9,16,0.0,100.0,16.0
+Brentwood,CA,eVgo Network,2,16,100.0,0.0,16.86
+Sierra Madre,CA,Tesla,1,16,100.0,0.0,16.0
+Capitola,CA,Tesla,1,16,100.0,0.0,16.0
+Scott's Valley,CA,Tesla,1,16,100.0,0.0,16.0
+Huntington Beach,CA,EVGATEWAY,1,16,0.0,100.0,17.86
+Santa Cruz,CA,Tesla,1,16,100.0,0.0,16.0
+Redding,CA,BP_PULSE,2,16,100.0,0.0,29.33
+Sacramento,CA,EVGATEWAY,2,16,100.0,0.0,17.29
+Vista,CA,Electrify America,4,16,93.75,6.25,19.14
+Chino Hills,CA,Tesla,1,16,100.0,0.0,16.0
+Benicia,CA,Tesla,1,16,100.0,0.0,16.0
+Delano,CA,EVGATEWAY,2,16,0.0,100.0,16.86
+Lathrop,CA,EVCS,2,15,80.0,20.0,18.71
+Carson,CA,Blink Network,3,15,0.0,100.0,17.14
+Carmel,CA,Tesla Destination,4,15,0.0,100.0,16.29
+Berkeley,CA,eVgo Network,3,15,93.33,6.67,16.43
+Santa Ana,CA,EV Connect,2,15,80.0,20.0,18.71
+Watsonville,CA,Blink Network,6,15,0.0,100.0,16.57
+Baywood-Los Osos,CA,Tesla,1,15,100.0,0.0,15.86
+Hercules,CA,Electrify America,2,15,93.33,6.67,18.14
+Big Bear Lake,CA,ChargePoint Network,5,15,6.67,93.33,15.86
+Blue Lake,CA,ChargePoint Network,8,15,0.0,100.0,15.71
+Sunnyvale,CA,EVMATCH,3,15,0.0,100.0,16.5
+Adelanto,CA,EVGATEWAY,1,15,0.0,100.0,16.43
+Folsom,CA,eVgo Network,2,15,93.33,6.67,16.0
+Agoura Hills,CA,ChargePoint Network,9,15,0.0,100.0,15.57
+Monrovia,CA,OpConnect,2,15,0.0,100.0,36.67
+Sonoma,CA,ChargePoint Network,13,15,33.33,66.67,15.43
+Blythe,CA,ChargePoint Network,9,15,13.33,86.67,15.29
+Livermore,CA,Non-Networked,3,15,0.0,100.0,16.43
+Long Beach,CA,Blink Network,4,15,0.0,100.0,16.0
+San Dimas,CA,Non-Networked,5,15,0.0,100.0,16.0
+Roseville,CA,EV Connect,2,15,80.0,20.0,17.43
+Murrieta,CA,Electrify America,2,15,93.33,6.67,17.29
+Santa Clarita,CA,POWERFLEX,2,15,0.0,100.0,18.14
+Daly City,CA,Blink Network,1,15,0.0,100.0,15.57
+Soledad,CA,Tesla,2,15,100.0,0.0,15.71
+Valley Village,CA,NOODOE,1,15,0.0,100.0,19.57
+Millbrae,CA,eVgo Network,4,15,100.0,0.0,15.57
+Roseville,CA,Blink Network,5,14,14.29,85.71,15.14
+Templeton,CA,Tesla Destination,6,14,0.0,100.0,15.86
+Napa,CA,Electrify America,2,14,100.0,0.0,16.43
+Irvine,CA,Non-Networked,6,14,7.14,92.86,15.57
+Signal Hill,CA,ChargePoint Network,10,14,0.0,100.0,15.0
+Sand City,CA,ChargePoint Network,7,14,0.0,100.0,14.71
+Bellflower,CA,eVgo Network,2,14,100.0,0.0,15.29
+Clovis,CA,Non-Networked,5,14,0.0,100.0,15.14
+Hermosa Beach,CA,TURNONGREEN,1,14,0.0,100.0,14.0
+Morgan Hill,CA,Tesla,1,14,100.0,0.0,15.43
+Merced,CA,ChargePoint Network,9,14,7.14,92.86,14.57
+Oakland,CA,VIALYNK,1,14,0.0,100.0,34.25
+Greenbrae,CA,Tesla,1,14,100.0,0.0,15.14
+San Francisco,CA,RIVIAN_WAYPOINTS,5,14,0.0,100.0,22.5
+Oak Park,CA,Tesla Destination,1,14,0.0,100.0,15.43
+Healdsburg,CA,Non-Networked,3,14,0.0,100.0,14.86
+Chino,CA,ChargePoint Network,12,14,0.0,100.0,14.43
+Madera,CA,Non-Networked,2,14,100.0,0.0,14.57
+Monterey,CA,Tesla,1,14,100.0,0.0,14.86
+Seaside,CA,ChargePoint Network,7,14,0.0,100.0,14.29
+Anaheim,CA,eVgo Network,3,14,92.86,7.14,15.0
+Fairfield,CA,NOODOE,1,14,28.57,71.43,17.0
+Playa Vista,CA,Tesla,1,14,100.0,0.0,14.57
+Pismo Beach,CA,Tesla Destination,7,14,0.0,100.0,15.0
+Pismo Beach,CA,ChargePoint Network,7,14,0.0,100.0,14.14
+South Pasadena,CA,ChargePoint Network,8,14,0.0,100.0,14.0
+Saratoga,CA,ChargePoint Network,8,14,7.14,92.86,14.0
+Carson,CA,Non-Networked,5,14,7.14,92.86,14.29
+Temecula,CA,Tesla Destination,4,14,0.0,100.0,14.71
+Bakersfield,CA,EVCS,2,14,92.86,7.14,17.57
+Chico,CA,AMPUP,1,14,0.0,100.0,105.8
+El Cerrito,CA,Tesla,1,14,100.0,0.0,14.29
+Costa Mesa,CA,Tesla Destination,4,14,0.0,100.0,14.43
+Chula Vista,CA,Tesla Destination,4,14,0.0,100.0,14.14
+Salinas,CA,Blink Network,2,14,0.0,100.0,14.86
+Carlsbad,CA,Non-Networked,1,14,0.0,100.0,14.14
+Larkspur,CA,IONNA,1,14,100.0,0.0,15.0
+Pauma Valley,CA,CHARGELAB,2,14,28.57,71.43,25.17
+Mountain View,CA,eVgo Network,3,14,100.0,0.0,14.71
+Loomis,CA,Electrify America,1,14,100.0,0.0,15.57
+San Clemente,CA,SHELL_RECHARGE,1,14,100.0,0.0,140.67
+Corona,CA,Tesla Destination,4,14,0.0,100.0,14.0
+La Habra,CA,ChargePoint Network,8,14,14.29,85.71,14.0
+Apple Valley,CA,ChargePoint Network,7,14,0.0,100.0,14.0
+Manhattan Beach,CA,eVgo Network,4,14,100.0,0.0,14.43
+Oakland,CA,Blink Network,3,14,0.0,100.0,14.57
+Belvedere Tiburon,CA,ChargePoint Network,7,14,0.0,100.0,14.0
+Manteca,CA,eVgo Network,2,14,100.0,0.0,14.29
+Sebastopol,CA,ChargePoint Network,9,14,0.0,100.0,14.0
+Windsor,CA,Tesla Destination,4,14,0.0,100.0,14.0
+Hollywood,CA,Non-Networked,3,14,57.14,42.86,14.0
+San Fernando,CA,ChargePoint Network,7,14,0.0,100.0,14.0
+Santa Clara,CA,Electrify America,1,14,100.0,0.0,15.0
+Seaside,CA,Tesla,2,14,100.0,0.0,14.14
+Sylmar,CA,POWERFLEX,1,14,0.0,100.0,17.14
+Irvine,CA,Electrify America,3,14,100.0,0.0,14.57
+San Bernardino,CA,EVGATEWAY,2,14,0.0,100.0,15.86
+Anaheim,CA,Electrify America,2,14,100.0,0.0,14.29
+Indian Wells,CA,Tesla Destination,4,13,0.0,100.0,13.86
+Woodland,CA,LOOP,3,13,0.0,100.0,17.14
+San Simeon,CA,Tesla Destination,2,13,0.0,100.0,13.71
+Half Moon Bay,CA,ChargePoint Network,7,13,0.0,100.0,13.86
+Carmichael,CA,LOOP,2,13,0.0,100.0,16.14
+Cambria,CA,Tesla Destination,6,13,0.0,100.0,13.57
+San Diego,CA,EVCS,4,13,69.23,30.77,16.29
+McFarland,CA,ChargePoint Network,6,13,30.77,69.23,13.71
+Los Angeles,CA,EVMATCH,3,13,0.0,100.0,15.8
+Santa Maria,CA,EVCS,2,13,69.23,30.77,15.14
+Plymouth,CA,Tesla Destination,5,13,0.0,100.0,13.43
+Livermore,CA,Electrify America,2,13,100.0,0.0,14.0
+Moraga,CA,ChargePoint Network,7,13,0.0,100.0,13.57
+Colton,CA,VIALYNK,5,13,0.0,100.0,30.0
+Petaluma,CA,EV Connect,2,13,0.0,100.0,16.14
+Brea,CA,Non-Networked,2,13,0.0,100.0,13.86
+Truckee,CA,EVRANGE,3,13,30.77,69.23,22.5
+Sunnyvale,CA,EVGATEWAY,1,13,0.0,100.0,15.14
+Ontario,CA,Tesla Destination,2,13,0.0,100.0,13.29
+Emeryville,CA,Electrify America,2,13,100.0,0.0,13.71
+Carmichael,CA,ChargePoint Network,7,13,0.0,100.0,13.43
+Huntington Beach,CA,Blink Network,5,13,0.0,100.0,14.29
+Newport Beach,CA,Blink Network,4,13,0.0,100.0,14.0
+Monterey,CA,Tesla Destination,6,13,0.0,100.0,13.14
+Bakersfield,CA,EV Connect,2,13,0.0,100.0,15.14
+Redding,CA,LOOP,2,13,0.0,100.0,15.14
+Laguna Woods,CA,ChargePoint Network,8,13,23.08,76.92,13.29
+Victorville,CA,eVgo Network,2,13,92.31,7.69,14.0
+Fullerton,CA,LOOP,2,13,0.0,100.0,14.29
+La Cañada Flintridge,CA,ChargePoint Network,9,13,0.0,100.0,13.14
+Downey,CA,eVgo Network,3,13,92.31,7.69,13.71
+Lake Forest,CA,LOOP,1,13,0.0,100.0,13.86
+Irwindale,CA,Blink Network,1,13,0.0,100.0,13.71
+Menlo Park,CA,Tesla Destination,2,13,0.0,100.0,13.0
+Calexico,CA,CHAEVI,1,12,66.67,33.33,14.0
+El Cajon,CA,eVgo Network,2,12,100.0,0.0,13.43
+Cameron Park,CA,Tesla,1,12,100.0,0.0,13.71
+Rialto,CA,eVgo Network,2,12,100.0,0.0,13.14
+Arcata,CA,Tesla,1,12,100.0,0.0,13.43
+Ojai,CA,Tesla,1,12,100.0,0.0,13.14
+Lakeside,CA,Tesla,1,12,100.0,0.0,12.86
+Pismo Beach,CA,Tesla,1,12,100.0,0.0,12.57
+Mill Valley,CA,Tesla,1,12,100.0,0.0,12.29
+Cerritos,CA,LOOP,1,12,16.67,83.33,13.29
+Lomita,CA,POWERFLEX,2,12,0.0,100.0,16.0
+El Cerrito,CA,eVgo Network,1,12,100.0,0.0,12.86
+Elk Grove,CA,eVgo Network,2,12,100.0,0.0,12.57
+Ripon,CA,Tesla,1,12,100.0,0.0,12.0
+Newport Beach,CA,Tesla,1,12,100.0,0.0,12.0
+Oakville,CA,Tesla Destination,5,12,0.0,100.0,12.86
+Mountain View,CA,FLO,2,12,0.0,100.0,144.33
+Valley Springs,CA,Tesla,1,12,100.0,0.0,12.0
+Gardena,CA,WATT_EV,1,12,100.0,0.0,28.0
+Olympic Valley,CA,EVRANGE,1,12,0.0,100.0,20.4
+Coronado,CA,Non-Networked,1,12,0.0,100.0,13.57
+Rocklin,CA,RIVIAN_ADVENTURE,1,12,100.0,0.0,12.0
+Yreka,CA,Tesla,1,12,100.0,0.0,12.0
+Newport Beach,CA,Tesla Destination,5,12,0.0,100.0,12.71
+Sebastopol,CA,Tesla,1,12,100.0,0.0,12.0
+Union City,CA,Tesla,1,12,100.0,0.0,12.0
+Perris,CA,Tesla,1,12,100.0,0.0,12.0
+Valley Center,CA,ChargePoint Network,7,12,0.0,100.0,12.86
+West Covina,CA,ChargePoint Network,7,12,0.0,100.0,12.71
+Pico Rivera,CA,EVGATEWAY,1,12,0.0,100.0,14.57
+Gonzales,CA,Blink Network,1,12,0.0,100.0,13.29
+Clovis,CA,Tesla,1,12,100.0,0.0,12.0
+Bridgeport,CA,Tesla,1,12,100.0,0.0,12.0
+Valencia,CA,ChargePoint Network,8,12,8.33,91.67,12.57
+Cotati,CA,Tesla,1,12,100.0,0.0,12.0
+Aliso Viejo,CA,Blink Network,4,12,0.0,100.0,13.0
+Universal City,CA,Tesla Destination,2,12,0.0,100.0,12.57
+Del Mar,CA,ChargePoint Network,7,12,0.0,100.0,12.43
+Soda Springs,CA,Tesla,1,12,100.0,0.0,12.0
+Santa Nella,CA,Tesla,1,12,100.0,0.0,12.0
+Atwater,CA,Tesla,1,12,100.0,0.0,12.0
+Moreno Valley,CA,Tesla,1,12,100.0,0.0,12.0
+Livingston,CA,BP_PULSE,1,12,100.0,0.0,25.0
+Roseville,CA,Non-Networked,4,12,8.33,91.67,13.29
+San Francisco,CA,SHELL_RECHARGE,1,12,100.0,0.0,108.5
+Redwood City,CA,EVGATEWAY,1,12,0.0,100.0,14.0
+Alameda,CA,Tesla,1,12,100.0,0.0,12.0
+Fort Bragg,CA,Tesla,1,12,100.0,0.0,12.0
+Pacifica,CA,Tesla,1,12,100.0,0.0,12.0
+Alhambra,CA,EVCS,2,12,0.0,100.0,14.14
+Portola Valley,CA,POWERFLEX,1,12,100.0,0.0,15.0
+Pacific Grove,CA,Tesla,1,12,100.0,0.0,12.0
+San Juan Bautista,CA,NAYAX_ENERGY,1,12,100.0,0.0,17.33
+Panorama City,CA,Blink Network,1,12,0.0,100.0,12.71
+Santa Ana,CA,ROVE,1,12,100.0,0.0,16.0
+Carlsbad,CA,Tesla Destination,2,12,0.0,100.0,12.43
+Cathedral City,CA,ChargePoint Network,6,12,0.0,100.0,12.29
+Burbank,CA,Tesla Destination,1,12,0.0,100.0,12.29
+Universal City,CA,NOODOE,2,12,16.67,83.33,15.71
+Mountain House,CA,Blink Network,1,12,0.0,100.0,12.43
+Goleta,CA,Tesla,1,12,100.0,0.0,12.0
+Rancho Murieta,CA,Tesla,1,12,100.0,0.0,12.0
+West Sacramento,CA,NAYAX_ENERGY,1,12,100.0,0.0,16.0
+Chula Vista,CA,GO_TO_U,1,12,100.0,0.0,12.0
+Marina,CA,Tesla,1,12,100.0,0.0,12.0
+Los Altos,CA,Tesla Destination,1,12,0.0,100.0,12.14
+Atascadero,CA,ChargePoint Network,7,12,0.0,100.0,12.14
+Azusa,CA,ChargePoint Network,6,12,0.0,100.0,12.0
+San Francisco,CA,BP_PULSE,1,12,100.0,0.0,22.4
+Northridge,CA,ChargePoint Network,6,12,0.0,100.0,12.0
+Scotts Valley,CA,ChargePoint Network,6,12,0.0,100.0,12.0
+Artesia,CA,LOOP,1,12,0.0,100.0,12.71
+Inglewood,CA,eVgo Network,3,12,100.0,0.0,12.29
+Agoura Hills,CA,EV Connect,1,12,0.0,100.0,14.29
+St. Helena,CA,Tesla,1,12,100.0,0.0,12.0
+Dixon,CA,Tesla,1,12,100.0,0.0,12.0
+Calimesa,CA,Tesla,1,12,100.0,0.0,12.0
+Baker,CA,Electrify America,1,12,100.0,0.0,13.43
+Mariposa,CA,Tesla,1,12,100.0,0.0,12.0
+Daly City,CA,ChargePoint Network,8,12,0.0,100.0,12.0
+La Mesa,CA,Tesla,1,12,100.0,0.0,12.0
+Grass Valley,CA,Tesla,1,12,100.0,0.0,12.0
+Yucca Valley,CA,Blink Network,4,12,0.0,100.0,12.29
+Pasadena,CA,EVCS,1,12,66.67,33.33,13.57
+Chowchilla,CA,Tesla,1,12,100.0,0.0,12.0
+Gustine,CA,Tesla,1,12,100.0,0.0,12.0
+Norwalk,CA,Tesla Destination,1,12,0.0,100.0,12.0
+Temecula,CA,LOOP,2,12,0.0,100.0,12.57
+Walnut Creek,CA,eVgo Network,2,12,100.0,0.0,12.14
+Manteca,CA,Electrify America,2,12,83.33,16.67,13.14
+Copperopolis,CA,Tesla,1,12,100.0,0.0,12.0
+Santa Ana,CA,Electrify America,3,12,75.0,25.0,12.86
+Perris,CA,LOOP,2,12,0.0,100.0,12.43
+Williams,CA,Tesla,1,12,100.0,0.0,12.0
+Burlingame,CA,POWERFLEX,2,12,100.0,0.0,14.0
+Kerman,CA,ChargePoint Network,8,12,0.0,100.0,12.0
+Clovis,CA,EVCS,2,12,100.0,0.0,13.0
+Rohnert Park,CA,Tesla,1,12,100.0,0.0,12.0
+Palo Alto,CA,EVMATCH,1,12,0.0,100.0,15.17
+Santa Cruz,CA,Blink Network,5,12,0.0,100.0,12.14
+Moorpark,CA,eVgo Network,2,12,100.0,0.0,12.0
+Carmichael CA,CA,eVgo Network,1,12,100.0,0.0,12.0
+Desert Hot Springs,CA,ChargePoint Network,6,12,0.0,100.0,12.0
+Rolling Hills Estates,CA,EV Connect,1,12,0.0,100.0,13.71
+Newport Beach,CA,LOOP,2,12,0.0,100.0,12.29
+Greenfield,CA,Tesla,1,12,100.0,0.0,12.0
+Las Banos,CA,EV Connect,1,12,0.0,100.0,13.14
+Temecula,CA,RIVIAN_ADVENTURE,1,12,100.0,0.0,12.0
+Corning,CA,BP_PULSE,1,12,100.0,0.0,20.67
+Murrieta,CA,Blink Network,1,12,0.0,100.0,12.0
+Lindsay,CA,EV Connect,1,12,0.0,100.0,12.71
+Merced,CA,Tesla,1,12,100.0,0.0,12.0
+Paso Robles,CA,EVRANGE,2,12,83.33,16.67,19.0
+Milpitas,CA,Electrify America,3,12,100.0,0.0,12.57
+San Leandro,CA,Tesla,1,12,100.0,0.0,12.0
+El Dorado Hills,CA,Tesla,1,12,100.0,0.0,12.0
+Sand City,CA,Tesla,1,12,100.0,0.0,12.0
+Joshua Tree,CA,RIVIAN_ADVENTURE,1,12,100.0,0.0,12.0
+Hacienda Heights,CA,Tesla,1,12,100.0,0.0,12.0
+Santa Rosa,CA,Blink Network,3,12,0.0,100.0,12.0
+Lompoc,CA,Tesla,1,12,100.0,0.0,12.0
+Huntington Park,CA,Tesla,1,12,100.0,0.0,12.0
+Orange,CA,RIVIAN_ADVENTURE,1,12,100.0,0.0,12.0
+Cottonwood,CA,Tesla,1,12,100.0,0.0,12.0
+Valencia,CA,eVgo Network,3,12,100.0,0.0,12.0
+Windsor,CA,Tesla,1,12,100.0,0.0,12.0
+Pollock Pines,CA,Tesla,1,12,100.0,0.0,12.0
+Ventura,CA,Electrify America,2,12,100.0,0.0,12.29
+Rancho Mirage,CA,Tesla Destination,4,12,0.0,100.0,12.0
+Castaic,CA,Tesla,1,12,100.0,0.0,12.0
+San Ardo,CA,Tesla,1,12,100.0,0.0,12.0
+Tulare,CA,ChargePoint Network,6,11,36.36,63.64,11.86
+Rancho Mission Viejo,CA,ChargePoint Network,7,11,0.0,100.0,11.71
+San Bruno,CA,Tesla Destination,2,11,0.0,100.0,11.86
+Costa Mesa,CA,LOOP,2,11,0.0,100.0,12.0
+Universal City,CA,Non-Networked,1,11,0.0,90.91,12.86
+Irvine,CA,Tesla Destination,2,11,0.0,100.0,11.71
+Cupertino,CA,Tesla Destination,3,11,0.0,100.0,11.57
+Wilmington,CA,Non-Networked,3,11,54.55,45.45,12.43
+Vacaville,CA,eVgo Network,3,11,90.91,9.09,11.86
+Clovis,CA,CHARGELAB,1,11,0.0,100.0,23.14
+Brea,CA,ChargePoint Network,9,11,36.36,63.64,11.57
+Diamond Bar,CA,eVgo Network,3,11,100.0,0.0,11.71
+Lathrop,CA,Tesla,1,11,100.0,0.0,11.86
+Milpitas,CA,Blink Network,3,11,0.0,100.0,11.86
+Calabasas,CA,ChargePoint Network,6,11,0.0,100.0,11.43
+Fortuna,CA,ChargePoint Network,6,11,0.0,100.0,11.29
+Tarzana,CA,Blink Network,1,11,0.0,100.0,11.71
+El Segundo,CA,SYNERGEV,2,11,0.0,100.0,23.75
+Mendota,CA,ChargePoint Network,7,11,0.0,100.0,11.14
+Barstow,CA,ChargePoint Network,8,11,27.27,72.73,11.0
+Lathrop,CA,ChargePoint Network,8,11,9.09,90.91,11.0
+Eureka,CA,Tesla Destination,3,11,0.0,100.0,11.43
+Laguna Beach,CA,ChargePoint Network,6,11,0.0,100.0,11.0
+Atwater,CA,EVCS,2,11,18.18,81.82,12.43
+Simi Valley,CA,Blink Network,2,11,9.09,90.91,11.57
+Petaluma,CA,eVgo Network,2,11,90.91,9.09,11.57
+Fremont,CA,Non-Networked,2,11,0.0,100.0,12.0
+El Monte,CA,LOOP,1,11,0.0,100.0,11.71
+Thousand Oaks,CA,eVgo Network,2,11,90.91,9.09,11.43
+Placerville,CA,Tesla Destination,3,11,0.0,100.0,11.29
+North Hollywood,CA,Blink Network,2,11,0.0,100.0,11.43
+Ladera Ranch,CA,ChargePoint Network,6,11,0.0,100.0,11.0
+South Pasadena,CA,Tesla,1,11,100.0,0.0,11.71
+Chula Vista,CA,LOOP,3,11,0.0,100.0,11.57
+Monrovia,CA,ChargePoint Network,10,11,63.64,36.36,11.0
+Anaheim,CA,Non-Networked,2,11,0.0,90.91,11.57
+Coronado,CA,ChargePoint Network,11,11,0.0,100.0,11.0
+Westlake Village,CA,LOOP,3,11,0.0,100.0,11.43
+Sacramento,CA,NOODOE,1,11,0.0,100.0,14.71
+San Jose,CA,EV Connect,1,11,0.0,100.0,12.14
+Menifee,CA,EV Connect,1,11,0.0,100.0,11.86
+Santa Clarita,CA,EV Connect,1,10,0.0,100.0,11.43
+Auburn,CA,Non-Networked,5,10,0.0,100.0,11.14
+Ridgecrest,CA,EVGATEWAY,1,10,100.0,0.0,13.14
+Palm Desert,CA,EV Connect,2,10,0.0,100.0,11.14
+Tracy,CA,EVCS,1,10,20.0,80.0,11.86
+Rialto,CA,ChargePoint Network,6,10,0.0,100.0,10.86
+Bakersfield,CA,Blink Network,2,10,0.0,100.0,11.14
+Murrieta,CA,eVgo Network,1,10,100.0,0.0,11.14
+Huntington Beach,CA,Electrify America,2,10,90.0,10.0,11.86
+Arvin,CA,Non-Networked,1,10,0.0,100.0,10.86
+San Luis Obispo,CA,Electrify America,1,10,100.0,0.0,11.43
+Ontario,CA,LOOP,2,10,0.0,100.0,11.14
+Fresno,CA,RIVIAN_ADVENTURE,1,10,100.0,0.0,11.6
+Sunnyvale,CA,Non-Networked,3,10,0.0,100.0,10.57
+Visalia,CA,UNIVERSAL,1,10,0.0,100.0,10.0
+Gustine,CA,Non-Networked,1,10,0.0,0.0,10.43
+Manhattan Beach,CA,EV Connect,1,10,0.0,100.0,10.86
+West Puente Valley,CA,EVCS,1,10,0.0,100.0,11.43
+Montebello,CA,Non-Networked,2,10,0.0,100.0,10.29
+Redding,CA,AMPUP,1,10,0.0,100.0,89.83
+El Dorado Hills,CA,ChargePoint Network,6,10,0.0,100.0,10.71
+Vista,CA,IONNA,1,10,100.0,0.0,13.33
+Fresno,CA,INTERTIE,1,10,0.0,100.0,15.0
+Wildomar,CA,Blink Network,1,10,0.0,100.0,10.86
+Daly City,CA,eVgo Network,3,10,80.0,20.0,10.86
+Pleasanton,CA,Non-Networked,1,10,0.0,100.0,10.14
+Claremont,CA,Blink Network,4,10,0.0,100.0,10.57
+Barstow,CA,Blink Network,1,10,0.0,100.0,10.43
+Oakdale,CA,ChargePoint Network,6,10,20.0,80.0,10.57
+Seal Beach,CA,ChargePoint Network,7,10,0.0,100.0,10.43
+Port Hueneme,CA,ChargePoint Network,6,10,0.0,100.0,10.29
+Murrieta,CA,AMPUP,1,10,0.0,100.0,78.43
+Santa Barbara,CA,TURNONGREEN,2,10,0.0,100.0,12.0
+Barstow,CA,EVGATEWAY,1,10,0.0,100.0,12.29
+Chatsworth Lake Manor,CA,LOOP,1,10,0.0,100.0,10.86
+National City,CA,Electrify America,2,10,90.0,10.0,11.14
+Cypress,CA,eVgo Network,2,10,100.0,0.0,10.57
+Napa,CA,AUTEL,1,10,0.0,100.0,33.67
+Pebble Beach,CA,Tesla Destination,2,10,0.0,100.0,11.0
+Palo Alto,CA,Electrify America,2,10,100.0,0.0,10.86
+McClellan Park,CA,ChargePoint Network,5,10,0.0,100.0,10.14
+Hesperia,CA,Electrify America,1,10,100.0,0.0,10.57
+Hanford,CA,CHARGIE,1,10,0.0,100.0,55.4
+West Sacramento,CA,Non-Networked,1,10,0.0,100.0,10.0
+Simi Valley,CA,Non-Networked,4,10,20.0,80.0,10.0
+San Gabriel,CA,ChargePoint Network,1,10,0.0,100.0,10.0
+Newbury Park,CA,Non-Networked,4,10,0.0,50.0,10.0
+Lake Forest,CA,Non-Networked,3,10,0.0,100.0,10.0
+Pleasanton,CA,POWERFLEX,1,10,0.0,100.0,13.0
+Geyserville,CA,INTERTIE,1,10,80.0,20.0,13.33
+La Jolla,CA,eVgo Network,2,10,100.0,0.0,10.43
+Mill Valley,CA,ChargePoint Network,6,10,0.0,100.0,10.0
+San Diego Country Estates,CA,EVGATEWAY,1,10,100.0,0.0,11.57
+Richmond,CA,AMPUP,1,10,0.0,100.0,20.43
+San Marcos,CA,LOOP,1,10,0.0,100.0,10.57
+Duarte,CA,EVGATEWAY,1,10,0.0,100.0,11.0
+Highland,CA,Electrify America,1,10,100.0,0.0,10.29
+Modesto,CA,EVCS,2,10,20.0,80.0,11.0
+Trona,CA,EVGATEWAY,1,10,0.0,100.0,10.57
+Santa Rosa,CA,CHARGENET,1,10,100.0,0.0,10.0
+Escondido,CA,Electrify America,2,10,90.0,10.0,10.0
+Visalia,CA,CHARGIE,1,10,0.0,100.0,47.83
+Yuba City,CA,Tesla,1,10,100.0,0.0,11.43
+Santa Ynez,CA,Non-Networked,1,10,0.0,100.0,10.0
+Calexico,CA,ChargePoint Network,7,10,0.0,100.0,10.0
+Lancaster,CA,Electrify America,1,10,100.0,0.0,10.0
+Kettleman City,CA,Electrify America,1,10,100.0,0.0,10.0
+Arroyo Grande,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Milpitas,CA,LOOP,1,10,0.0,100.0,10.43
+Stockton,CA,Electrify America,2,10,80.0,20.0,10.0
+los Angeles,CA,ABM,2,10,20.0,80.0,19.0
+Santa Ynez,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Paradise,CA,EVCS,1,10,80.0,20.0,10.71
+Redondo Beach,CA,eVgo Network,2,10,100.0,0.0,10.29
+Lost Hills,CA,NOODOE,1,10,0.0,100.0,13.57
+Camarillo,CA,Electrify America,1,10,100.0,0.0,10.0
+Vacaville,CA,Electrify America,2,10,80.0,20.0,10.0
+Foster City,CA,Electrify America,1,10,100.0,0.0,10.0
+Torrance,CA,Electrify America,2,10,90.0,10.0,10.0
+Chino Hills,CA,Electrify America,1,10,100.0,0.0,10.0
+El Cajon,CA,Electrify America,2,10,100.0,0.0,10.0
+Antioch,CA,Tesla,1,10,100.0,0.0,11.14
+Redding,CA,EVCS,1,10,0.0,100.0,10.43
+Mettler,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Lompoc,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Pittsburg,CA,FLO,1,10,0.0,100.0,110.75
+Newark,CA,SYNERGEV,1,10,0.0,100.0,21.0
+Fort Bragg,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Mission Viejo,CA,Electrify America,2,10,100.0,0.0,10.0
+San Bruno,CA,EPIC_CHARGING,1,10,0.0,100.0,23.5
+Rialto,CA,EVGATEWAY,1,10,0.0,100.0,10.29
+Corte Madera,CA,Tesla,1,10,100.0,0.0,10.86
+Hollister,CA,ChargePoint Network,8,10,30.0,70.0,10.0
+Santa Rosa,CA,eVgo Network,2,10,100.0,0.0,10.14
+San Clemente,CA,eVgo Network,1,10,100.0,0.0,10.0
+Los Banos,CA,Tesla,1,10,100.0,0.0,10.57
+San Bernardino,CA,eVgo Network,2,10,100.0,0.0,10.0
+Santa Paula,CA,ChargePoint Network,6,10,20.0,80.0,10.0
+Hollywood,CA,EVCS,1,10,100.0,0.0,10.14
+Rancho Palos Verdes,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Ahwahnee,CA,Tesla Destination,1,10,0.0,100.0,10.71
+South San Francisco,CA,Tesla Destination,1,10,0.0,100.0,10.57
+Oceanside,CA,Electrify America,1,10,100.0,0.0,10.0
+La Mesa,CA,POWERFLEX,1,10,0.0,100.0,12.14
+Eureka,CA,EVCS,2,10,0.0,100.0,10.0
+Rosemead,CA,EVGATEWAY,1,10,0.0,100.0,10.0
+San Jose,CA,CHAEVI,1,10,100.0,0.0,12.67
+Berkeley,CA,EV Connect,1,10,100.0,0.0,10.57
+Sonoma,CA,Tesla Destination,3,10,0.0,100.0,10.43
+Lakeside,CA,eVgo Network,1,10,100.0,0.0,10.0
+Rohnert Park,CA,Tesla Destination,2,10,0.0,100.0,10.29
+Ojai,CA,Blink Network,2,10,0.0,100.0,10.29
+Industry,CA,LOOP,1,10,0.0,100.0,10.29
+Culver City,CA,Electrify America,1,10,100.0,0.0,10.0
+Torrance,CA,FLIPTURN,1,10,40.0,60.0,10.0
+Ramona,CA,ChargePoint Network,5,10,0.0,100.0,10.0
+Folsom,CA,LOOP,1,10,0.0,100.0,10.14
+Arcadia,CA,Electrify America,2,10,90.0,10.0,10.0
+Pleasant Hill,CA,eVgo Network,2,10,100.0,0.0,10.0
+Escondido,CA,Blink Network,4,10,0.0,100.0,10.14
+Geyserville,CA,Tesla Destination,5,10,0.0,100.0,10.14
+San Marcos,CA,Tesla Destination,4,10,0.0,100.0,10.0
+Hollister,CA,eVgo Network,1,10,100.0,0.0,10.0
+Visalia,CA,Electrify America,1,10,100.0,0.0,10.0
+Torrance,CA,eVgo Network,3,10,100.0,0.0,10.0
+Santa Clara,CA,FLASH,1,9,0.0,100.0,82.33
+Buttonwillow,CA,RIVIAN_ADVENTURE,1,9,100.0,0.0,11.17
+Mount Shasta,CA,ChargePoint Network,5,9,33.33,66.67,9.86
+Oceanside,CA,Blink Network,2,9,22.22,77.78,9.86
+Alameda,CA,eVgo Network,1,9,100.0,0.0,9.86
+Lancaster,CA,Blink Network,2,9,0.0,100.0,9.71
+Fowler,CA,Non-Networked,3,9,0.0,100.0,9.86
+Rutherford,CA,Tesla Destination,3,9,0.0,100.0,9.86
+Glendale,CA,Blink Network,2,9,0.0,100.0,9.57
+Shafter,CA,Non-Networked,1,9,0.0,100.0,9.71
+La Jolla,CA,Blink Network,2,9,0.0,100.0,9.43
+Anaheim,CA,EV Connect,2,9,0.0,100.0,10.14
+Turlock,CA,Non-Networked,4,9,0.0,100.0,9.57
+San Bernardino,CA,EV Connect,1,9,0.0,100.0,9.86
+Orange,CA,Electrify America,2,9,88.89,11.11,9.86
+South San Francisco,CA,eVgo Network,2,9,100.0,0.0,9.71
+Tustin,CA,eVgo Network,2,9,88.89,11.11,9.57
+Dublin,CA,EV Connect,1,9,0.0,100.0,9.57
+Brentwood,CA,Tesla Destination,2,9,0.0,100.0,9.71
+Danville,CA,EVCS,4,9,11.11,88.89,9.86
+Santa Clara,CA,Non-Networked,3,9,22.22,77.78,9.43
+Gold River,CA,LOOP,1,9,0.0,100.0,9.86
+Oroville,CA,EVCS,1,9,88.89,11.11,9.71
+Redding,CA,TURNONGREEN,2,9,0.0,100.0,11.0
+Mountain View,CA,Blink Network,2,9,0.0,100.0,9.29
+Valencia,CA,EV Connect,1,9,0.0,100.0,9.43
+Ontario,CA,Non-Networked,2,9,0.0,100.0,9.29
+San Pedro,CA,Non-Networked,5,9,0.0,100.0,9.14
+Imperial,CA,ChargePoint Network,5,9,0.0,100.0,9.71
+Cupertino,CA,eVgo Network,3,9,66.67,33.33,9.43
+Walnut Creek,CA,Electrify America,2,9,88.89,11.11,9.71
+Big Sur,CA,Tesla Destination,3,9,0.0,100.0,9.57
+Santa Barbara,CA,eVgo Network,3,9,100.0,0.0,9.29
+Cotati,CA,ChargePoint Network,6,9,0.0,100.0,9.57
+San Bernardino,CA,RIVIAN_ADVENTURE,1,9,100.0,0.0,10.86
+Sherman Oaks,CA,eVgo Network,2,9,100.0,0.0,9.14
+Poway,CA,ChargePoint Network,6,9,0.0,100.0,9.43
+Esparto,CA,ChargePoint Network,5,9,0.0,100.0,9.29
+Camarillo,CA,Non-Networked,3,9,0.0,100.0,9.0
+Irvine,CA,eVgo Network,3,9,100.0,0.0,9.0
+Santa Monica,CA,Blink Network,5,9,0.0,100.0,9.14
+Los Alamitos,CA,Blink Network,1,9,0.0,100.0,9.0
+Petaluma,CA,Tesla Destination,2,9,0.0,100.0,9.43
+Irvine,CA,AMPUP,1,9,0.0,100.0,16.14
+Castro Valley,CA,ChargePoint Network,6,9,0.0,100.0,9.14
+Laguna Hills,CA,NOODOE,1,9,0.0,100.0,12.43
+Red Bluff,CA,ChargePoint Network,6,9,33.33,66.67,9.0
+Lake Elsinore,CA,Non-Networked,2,8,0.0,100.0,8.86
+Richmond,CA,Electrify America,2,8,100.0,0.0,9.43
+South San Francisco,CA,REVEL,1,8,100.0,0.0,8.0
+Folsom,CA,Non-Networked,2,8,0.0,100.0,8.71
+Solvang,CA,TURNONGREEN,2,8,0.0,100.0,10.25
+HERMOSA BEACH,CA,EVGATEWAY,1,8,0.0,100.0,9.71
+Lemon Grove,CA,eVgo Network,1,8,100.0,0.0,8.86
+Vallejo,CA,EVCS,1,8,100.0,0.0,9.43
+Hawhorne,CA,eVgo Network,1,8,100.0,0.0,8.71
+Wilmington,CA,EVCS,1,8,100.0,0.0,9.14
+Poway,CA,eVgo Network,1,8,100.0,0.0,8.57
+Ventura,CA,RIVIAN_ADVENTURE,1,8,100.0,0.0,10.29
+Santa Maria,CA,eVgo Network,1,8,100.0,0.0,8.43
+Santa Ana,CA,EVCS,1,8,100.0,0.0,8.86
+Roseville,CA,EVGATEWAY,1,8,0.0,100.0,9.43
+Visalia,CA,FLO,1,8,0.0,100.0,90.2
+Laytonville,CA,Tesla,1,8,100.0,0.0,10.0
+Hayward,CA,EVGATEWAY,1,8,100.0,0.0,9.14
+Sacramento,CA,IONNA,1,8,100.0,0.0,12.0
+Redwood Valley,CA,FLO,1,8,0.0,100.0,76.5
+Newark,CA,Tesla Destination,3,8,0.0,100.0,9.14
+Marina,CA,eVgo Network,1,8,100.0,0.0,8.29
+Orland,CA,eVgo Network,2,8,100.0,0.0,8.14
+Carlsbad,CA,CHARGELAB,1,8,0.0,100.0,19.57
+Lake Arrowhead,CA,Tesla,1,8,100.0,0.0,9.57
+Orange,CA,Blink Network,2,8,0.0,100.0,8.86
+St. Helena,CA,ChargePoint Network,5,8,0.0,100.0,8.86
+Jackson,CA,Tesla,1,8,100.0,0.0,9.14
+Pomona,CA,eVgo Network,1,8,100.0,0.0,8.0
+Jamul,CA,Non-Networked,1,8,0.0,100.0,8.57
+Emeryville,CA,Blink Network,1,8,0.0,100.0,8.71
+Morgan Hill,CA,Tesla Destination,2,8,0.0,100.0,8.86
+Chula Vista,CA,ELECTRIC_ERA,1,8,100.0,0.0,8.0
+Newport Beach,CA,Electrify America,1,8,100.0,0.0,9.14
+Van Nuys,CA,AMPUP,8,8,0.0,100.0,13.0
+Livermore,CA,EVGATEWAY,1,8,100.0,0.0,8.86
+Yountville,CA,Tesla Destination,3,8,0.0,100.0,8.57
+Glendora,CA,NAYAX_ENERGY,1,8,100.0,0.0,14.4
+Fontana,CA,Blink Network,2,8,0.0,100.0,8.57
+Oakhurst,CA,ChargePoint Network,5,8,25.0,75.0,8.71
+Irvine,CA,EV Connect,1,8,0.0,100.0,9.14
+North Hollywood,CA,EV Connect,2,8,50.0,50.0,8.86
+Santa Monica,CA,CHARGELAB,1,8,0.0,100.0,16.0
+Redlands,CA,Tesla Destination,2,8,0.0,100.0,8.43
+Morro Bay,CA,Tesla,1,8,100.0,0.0,8.86
+Oxnard,CA,eVgo Network,1,8,100.0,0.0,8.0
+Corte Madera,CA,Blink Network,2,8,0.0,100.0,8.43
+Ventura,CA,Tesla Destination,3,8,0.0,100.0,8.29
+Tracy,CA,LOOP,1,8,0.0,100.0,9.57
+Alturas,CA,Tesla,1,8,100.0,0.0,8.57
+Kirkwood,CA,Tesla Destination,1,8,0.0,100.0,8.14
+San Leandro,CA,Non-Networked,1,8,0.0,100.0,8.43
+Hesperia,CA,eVgo Network,1,8,100.0,0.0,8.0
+Big Sur,CA,Tesla,1,8,100.0,0.0,8.29
+San Leandro,CA,eVgo Network,2,8,100.0,0.0,8.0
+Covina,CA,NAYAX_ENERGY,1,8,100.0,0.0,13.33
+Costa Mesa,CA,Non-Networked,4,8,12.5,87.5,8.29
+Yreka,CA,ELECTRIC_ERA,1,8,100.0,0.0,8.0
+Santa Maria,CA,EVGATEWAY,1,8,100.0,0.0,8.57
+Atascadero,CA,AMPUP,1,8,0.0,100.0,9.86
+Susanville,CA,Tesla,1,8,100.0,0.0,8.0
+McFarland,CA,Tesla,1,8,100.0,0.0,8.0
+Cathedral City,CA,Tesla,1,8,100.0,0.0,8.0
+Palm Springs,CA,DIRT_ROAD,2,8,0.0,100.0,20.33
+Rancho Santa Margarita,CA,eVgo Network,1,8,100.0,0.0,8.0
+El Portal,CA,Tesla,1,8,100.0,0.0,8.0
+El Centro,CA,Non-Networked,1,8,0.0,100.0,8.14
+Benicia,CA,ChargePoint Network,5,8,0.0,100.0,8.57
+El Segundo,CA,CHARGELAB,1,8,0.0,100.0,13.0
+SANTA MARIA,CA,ChargePoint Network,4,8,0.0,100.0,8.43
+Escondido,CA,eVgo Network,2,8,100.0,0.0,8.0
+Fresno,CA,LOOP,1,8,0.0,100.0,9.29
+Manteca,CA,AMPUP,1,8,0.0,100.0,9.0
+West Hollywood,CA,Blink Network,1,8,0.0,100.0,8.29
+Farmersville,CA,ChargePoint Network,5,8,0.0,100.0,8.29
+Novato,CA,Electrify America,1,8,100.0,0.0,8.86
+Lemoore,CA,CHARGELAB,1,8,0.0,100.0,10.57
+Santa Ana,CA,EVGATEWAY,1,8,100.0,0.0,8.29
+Hesperia,CA,ChargePoint Network,5,8,25.0,75.0,8.14
+San Rafael,CA,Tesla,1,8,100.0,0.0,8.0
+Ontario,CA,Electrify America,1,8,100.0,0.0,8.57
+San Diego,CA,CHARGELAB,1,8,0.0,100.0,9.29
+"Lake Forest,",CA,Blink Network,1,8,0.0,100.0,8.14
+Lancaster,CA,CIRCLE_K,2,8,100.0,0.0,8.0
+Lompoc,CA,CHARGIE,1,8,0.0,100.0,42.14
+Carmel Valley,CA,Blink Network,2,8,0.0,100.0,8.0
+Portola,CA,EVRANGE,1,8,100.0,0.0,17.43
+Santa Ana,CA,Non-Networked,1,8,0.0,100.0,8.0
+Burlingame,CA,eVgo Network,1,8,100.0,0.0,8.0
+Fountain Valley,CA,EVCS,1,8,100.0,0.0,8.57
+Santa Clara,CA,EVGATEWAY,1,8,100.0,0.0,8.0
+Ladera Ranch,CA,eVgo Network,1,8,100.0,0.0,8.0
+San Leandro,CA,Electrify America,2,8,87.5,12.5,8.29
+Novato,CA,Non-Networked,5,8,0.0,100.0,8.0
+Santa Barbara,CA,Non-Networked,4,8,0.0,100.0,8.0
+Buena Park,CA,Non-Networked,2,8,62.5,37.5,8.0
+Baldwin Park,CA,eVgo Network,1,8,100.0,0.0,8.0
+Burney,CA,Tesla,1,8,100.0,0.0,8.0
+Campo,CA,ChargePoint Network,5,8,0.0,100.0,8.0
+Menlo Park,CA,CHARGELAB,1,8,0.0,100.0,8.43
+Portola Valley,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Twentynine Palms,CA,Tesla,1,8,100.0,0.0,8.0
+Big Bear Lake,CA,Tesla Destination,2,8,0.0,100.0,8.0
+Placerville,CA,RIVIAN_ADVENTURE,1,8,100.0,0.0,9.71
+San Ramon,CA,Tesla Destination,2,8,0.0,100.0,8.0
+Sonoma,CA,Tesla,1,8,100.0,0.0,8.0
+Valley Village,CA,eVgo Network,1,8,100.0,0.0,8.0
+Joshua Tree,CA,TURNONGREEN,2,8,0.0,100.0,9.8
+Moffett Field,CA,Non-Networked,1,8,100.0,0.0,8.0
+Daly City,CA,IONNA,1,8,100.0,0.0,11.2
+Laguna Hills,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Simi Valley,CA,TURNONGREEN,1,8,0.0,100.0,9.5
+Colusa,CA,Tesla Destination,1,8,0.0,100.0,8.0
+Porterville,CA,CHAEVI,2,8,75.0,25.0,11.5
+Bodega Bay,CA,EVCS,1,8,100.0,0.0,8.29
+San Mateo,CA,Electrify America,2,8,100.0,0.0,8.14
+Calexico,CA,EVRANGE,1,8,100.0,0.0,13.0
+Santa Monica,CA,EV Connect,1,8,0.0,100.0,8.57
+Arroyo Grande,CA,Tesla,1,8,100.0,0.0,8.0
+Arcadia,CA,EV Connect,2,8,0.0,100.0,8.43
+Long Beach,CA,Electrify America,1,8,100.0,0.0,8.0
+Lawndale,CA,Tesla,1,8,100.0,0.0,8.0
+Rowland Heights,CA,Tesla,1,8,100.0,0.0,8.0
+La Jolla,CA,Tesla Destination,2,8,0.0,100.0,8.0
+Lancaster,CA,Tesla Destination,1,8,0.0,100.0,8.0
+Santee,CA,CHAEVI,1,8,100.0,0.0,10.8
+San Anselmo,CA,Tesla,1,8,100.0,0.0,8.0
+Half Moon Bay,CA,eVgo Network,1,8,100.0,0.0,8.0
+Santa Ynez,CA,Tesla,1,8,100.0,0.0,8.0
+Quincy,CA,Tesla,1,8,100.0,0.0,8.0
+Redding,CA,eVgo Network,1,8,100.0,0.0,8.0
+West Hollywood,CA,Tesla,1,8,100.0,0.0,8.0
+La Puente,CA,eVgo Network,2,8,100.0,0.0,8.0
+Chico,CA,LOOP,2,8,0.0,100.0,9.0
+Montclair,CA,ChargePoint Network,5,8,0.0,100.0,8.0
+Pacific Palisades,CA,Tesla,1,8,100.0,0.0,8.0
+Los Alamos,CA,Tesla,1,8,100.0,0.0,8.0
+Agoura Hills,CA,Blink Network,2,8,0.0,100.0,8.0
+Montecito,CA,Tesla,1,8,100.0,0.0,8.0
+Hermosa Beach,CA,EV Connect,1,8,0.0,100.0,8.29
+Los Banos,CA,ChargePoint Network,5,8,0.0,100.0,8.0
+Yucaipa,CA,Blink Network,2,8,0.0,100.0,8.0
+Firebaugh,CA,Electrify America,2,8,75.0,25.0,8.0
+West Hills,CA,FLO,1,8,0.0,100.0,66.71
+West Covina,CA,NAYAX_ENERGY,1,8,100.0,0.0,12.57
+Beverly Hills,CA,Non-Networked,1,8,0.0,100.0,8.0
+Torrance,CA,Non-Networked,5,8,12.5,87.5,8.0
+Concord,CA,Electrify America,2,8,87.5,12.5,8.0
+Salinas,CA,EVRANGE,1,8,100.0,0.0,11.29
+Alpine,CA,Tesla Destination,2,8,0.0,100.0,8.0
+Calipatria,CA,EVRANGE,1,8,100.0,0.0,9.86
+Universal City,CA,Tesla,1,8,100.0,0.0,8.0
+Marina,CA,EVBOLT,2,8,0.0,100.0,8.0
+Costa Mesa,CA,eVgo Network,2,8,100.0,0.0,8.0
+Bell,CA,Tesla,1,8,100.0,0.0,8.0
+Rolling Hills Estates,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Van Nuys,CA,Tesla,1,8,100.0,0.0,8.0
+West Hollywood,CA,EVCS,1,8,100.0,0.0,8.14
+Redondo Beach,CA,Tesla,1,8,100.0,0.0,8.0
+San Jose,CA,ABM,1,8,0.0,100.0,16.8
+Stinson Beach,CA,Non-Networked,2,8,0.0,100.0,8.0
+Solana Beach,CA,Blink Network,4,8,0.0,100.0,8.0
+Anderson,CA,Tesla,1,8,100.0,0.0,8.0
+Mission Viejo,CA,LOOP,2,8,0.0,100.0,8.71
+Seal Beach,CA,Electrify America,2,8,100.0,0.0,8.0
+Oroville,CA,Tesla,1,8,100.0,0.0,8.0
+Garden Grove,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Santa Clara,CA,Tesla Destination,3,8,0.0,100.0,8.0
+Weed,CA,ELECTRIC_ERA,1,8,100.0,0.0,8.0
+Upper Lake,CA,Tesla,1,8,100.0,0.0,8.0
+Carlsbad,CA,eVgo Network,2,8,100.0,0.0,8.0
+Solana Beach,CA,Tesla,1,8,100.0,0.0,8.0
+LANCASTER,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Westlake Village,CA,Tesla Destination,2,8,0.0,100.0,8.0
+Berkeley,CA,Electrify America,1,8,100.0,0.0,8.0
+Chatsworth,CA,Tesla,1,8,100.0,0.0,8.0
+Thousand Oaks,CA,Blink Network,4,8,0.0,100.0,8.0
+Union City,CA,eVgo Network,2,8,100.0,0.0,8.0
+Loomis,CA,Tesla,1,8,100.0,0.0,8.0
+Concord,CA,EVCS,1,8,25.0,75.0,8.0
+Santa Rosa,CA,OpConnect,1,8,0.0,100.0,32.57
+Brawley,CA,EVRANGE,1,8,100.0,0.0,9.14
+Santa Clara,CA,TURNONGREEN,1,8,0.0,100.0,9.29
+Madera,CA,eVgo Network,2,8,100.0,0.0,8.0
+San Jose,CA,7CHARGE,2,8,100.0,0.0,8.0
+Fallbrook,CA,Non-Networked,1,8,100.0,0.0,8.0
+Santa Ysabel,CA,Tesla,1,8,100.0,0.0,8.0
+Gilroy,CA,Electrify America,1,8,100.0,0.0,8.0
+Palm Springs,CA,Blink Network,3,8,50.0,50.0,8.0
+Riverside,CA,Electrify America,3,8,50.0,50.0,8.0
+Santa Ana,CA,LOOP,1,8,0.0,100.0,8.43
+Milpitas,CA,eVgo Network,1,8,100.0,0.0,8.0
+San Juan Capistrano,CA,eVgo Network,1,8,100.0,0.0,8.0
+Baker,CA,EVGATEWAY,1,8,100.0,0.0,8.0
+Garden Grove,CA,Tesla Destination,1,8,0.0,100.0,8.0
+El Centro,CA,EVRANGE,1,8,100.0,0.0,8.57
+Tuolumne,CA,Tesla Destination,1,8,0.0,100.0,8.0
+Monterey Park,CA,FLITWAY,1,8,0.0,100.0,8.0
+Lincoln,CA,Tesla,1,8,100.0,0.0,8.0
+Lynwood,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Marysville,CA,Tesla,1,8,100.0,0.0,8.0
+Corning,CA,Tesla,1,8,100.0,0.0,8.0
+Van Nuys,CA,EVCS,1,8,0.0,100.0,8.0
+Diamond Bar,CA,NOODOE,3,8,0.0,100.0,11.29
+SAN CARLOS,CA,eVgo Network,1,8,100.0,0.0,8.0
+Dana Point,CA,Tesla Destination,3,8,0.0,100.0,8.0
+Mount Shasta,CA,ELECTRIC_ERA,1,8,100.0,0.0,8.0
+Woodlake,CA,ChargePoint Network,5,8,0.0,100.0,8.0
+Arnold,CA,Tesla,1,8,100.0,0.0,8.0
+Firebaugh,CA,RIVIAN_ADVENTURE,1,8,100.0,0.0,9.14
+Rancho Santa Fe,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Alameda,CA,Blink Network,3,8,0.0,100.0,8.0
+Redwood City,CA,Tesla,1,8,100.0,0.0,8.0
+Sonora,CA,Tesla,1,8,100.0,0.0,8.0
+Williams,CA,ELECTRIC_ERA,1,8,100.0,0.0,8.0
+Irvine,CA,EVCS,1,8,100.0,0.0,8.0
+Beverly Hills,CA,AMPUP,1,8,0.0,100.0,8.71
+Rosemead,CA,Electrify America,2,8,100.0,0.0,8.0
+Rancho Mirage,CA,EVCS,2,8,0.0,100.0,8.0
+Delano,CA,Electrify America,1,8,100.0,0.0,8.0
+Redlands,CA,eVgo Network,1,8,100.0,0.0,8.0
+Fair Oaks,CA,ChargePoint Network,5,8,0.0,100.0,8.0
+Victorville,CA,CIRCLE_K,2,8,100.0,0.0,8.0
+Pleasanton,CA,EVGATEWAY,1,8,100.0,0.0,8.0
+Yountville,CA,ChargePoint Network,4,8,0.0,100.0,8.0
+Half Moon Bay,CA,Tesla Destination,1,8,0.0,100.0,8.0
+Folsom,CA,Electrify America,3,8,50.0,50.0,8.0
+Cloverdale,CA,ChargePoint Network,5,8,25.0,75.0,8.0
+Sacramento,CA,RIVIAN_ADVENTURE,1,8,100.0,0.0,8.57
+Tustin,CA,Blink Network,1,8,100.0,0.0,8.0
+Sunnyvale,CA,Electrify America,2,8,87.5,12.5,8.0
+Weaverville,CA,Tesla,1,8,100.0,0.0,8.0
+Orange,CA,LOOP,1,8,0.0,100.0,8.14
+Barstow,CA,Electrify America,1,8,100.0,0.0,8.0
+Fish Camp,CA,Tesla,1,8,100.0,0.0,8.0
+South San Francisco,CA,EVGATEWAY,1,8,100.0,0.0,8.0
+San Ramon,CA,EVPASSPORT,2,8,50.0,50.0,8.0
+Burbank,CA,EV Connect,2,7,0.0,100.0,8.0
+Rancho Cucamonga,CA,Blink Network,2,7,0.0,100.0,7.86
+Brea,CA,Blink Network,1,7,0.0,100.0,7.71
+Ukiah,CA,Non-Networked,2,7,0.0,100.0,7.86
+Bakersfield,CA,Non-Networked,3,7,14.29,85.71,7.71
+Torrance,CA,EV Connect,3,7,0.0,100.0,7.71
+Murphys,CA,Tesla Destination,3,7,0.0,100.0,7.86
+Sonora,CA,ChargePoint Network,4,7,0.0,100.0,7.86
+Petaluma,CA,Non-Networked,2,7,28.57,71.43,7.57
+Rancho Santa Margarita,CA,LOOP,1,7,0.0,100.0,7.86
+Brawley,CA,DIRT_ROAD,1,7,28.57,71.43,17.0
+Huntington Beach,CA,LOOP,1,7,28.57,71.43,7.71
+Long Beach,CA,EV Connect,2,7,100.0,0.0,7.57
+Northridge,CA,AMPUP,7,7,0.0,100.0,8.29
+Encinitas,CA,eVgo Network,2,7,100.0,0.0,7.86
+Coronado,CA,OpConnect,2,7,0.0,100.0,17.14
+Thousand Oaks,CA,Non-Networked,4,7,14.29,85.71,7.43
+Groveland,CA,ChargePoint Network,5,7,42.86,57.14,7.71
+North Hollywood,CA,FLO,7,7,0.0,100.0,12.14
+Solana Beach,CA,Tesla Destination,2,7,0.0,100.0,7.71
+Elk Grove,CA,Non-Networked,4,7,57.14,42.86,7.29
+Carmel Valley,CA,Tesla Destination,2,7,0.0,100.0,7.57
+Sonoma,CA,SYNERGEV,1,7,0.0,100.0,18.67
+Fremont,CA,Electrify America,2,7,85.71,14.29,7.86
+Santee,CA,Non-Networked,1,7,0.0,100.0,7.14
+Calabasas,CA,eVgo Network,3,7,100.0,0.0,7.71
+Lincoln,CA,Blink Network,1,7,0.0,100.0,7.57
+Yuba City,CA,EVCS,1,7,0.0,100.0,7.86
+Calimesa,CA,EV Connect,1,7,0.0,100.0,7.43
+Redwood City,CA,eVgo Network,2,7,85.71,14.29,7.57
+Coalinga,CA,ChargePoint Network,6,7,42.86,57.14,7.57
+Van Nuys,CA,Tesla Destination,2,7,0.0,100.0,7.43
+Windsor,CA,ChargePoint Network,5,7,0.0,100.0,7.43
+Huntington Beach,CA,eVgo Network,2,7,85.71,14.29,7.43
+Beaumont,CA,ChargePoint Network,6,7,71.43,28.57,7.29
+Pleasanton,CA,LOOP,2,7,0.0,100.0,7.57
+Groveland,CA,Tesla,1,7,100.0,0.0,7.86
+Lamont,CA,LOOP,2,7,0.0,100.0,7.43
+Glendora,CA,LOOP,1,7,0.0,100.0,7.29
+Rialto,CA,LOOP,1,7,0.0,100.0,7.14
+Oakhurst,CA,Tesla Destination,3,7,0.0,100.0,7.29
+Glendale,CA,Electrify America,2,7,85.71,14.29,7.71
+Wasco,CA,EVCS,3,7,14.29,85.71,7.71
+Redding,CA,Tesla Destination,3,7,0.0,100.0,7.14
+Mojave,CA,EV Connect,2,7,14.29,85.71,7.29
+Santa Fe Springs,CA,ChargePoint Network,4,7,0.0,100.0,7.14
+Ventura,CA,Blink Network,3,7,0.0,100.0,7.43
+Chatsworth,CA,Non-Networked,5,7,0.0,100.0,7.0
+Lemoore,CA,ChargePoint Network,4,7,14.29,85.71,7.0
+Coronado,CA,NOODOE,1,7,0.0,100.0,10.14
+Van Nuys,CA,POWERFLEX,1,7,0.0,100.0,11.0
+Hollister,CA,EVCS,2,7,28.57,71.43,7.57
+Sacramento,CA,TURNONGREEN,1,7,0.0,100.0,8.29
+Richmond,CA,Blink Network,4,7,0.0,100.0,7.29
+Olympic Valley,CA,Tesla Destination,1,7,0.0,100.0,7.0
+Lebec,CA,ChargePoint Network,5,7,42.86,57.14,7.0
+Pasadena,CA,Blink Network,3,7,14.29,85.71,7.14
+Paso Robles,CA,AMPUP,1,7,0.0,100.0,7.86
+Oregon House,CA,AMPUP,1,7,0.0,100.0,7.57
+San Rafael,CA,Blink Network,1,7,0.0,100.0,7.0
+Corona,CA,CIRCLE_K,1,7,100.0,0.0,7.67
+Corning,CA,CHARGELAB,1,7,0.0,100.0,7.86
+El Cajon,CA,LOOP,1,7,28.57,71.43,7.0
+El Dorado Hills,CA,Non-Networked,3,7,0.0,100.0,7.0
+Mendocino,CA,Non-Networked,2,7,0.0,100.0,7.0
+Bloomington,CA,ChargePoint Network,6,7,0.0,100.0,7.0
+Thousand Oaks,CA,Electrify America,1,6,100.0,0.0,7.43
+Cabazon,CA,eVgo Network,1,6,66.67,33.33,7.14
+Coalinga,CA,Electrify America,1,6,100.0,0.0,7.14
+Borrego Springs,CA,ChargePoint Network,4,6,0.0,100.0,6.86
+Suisun City,CA,Electrify America,1,6,100.0,0.0,6.86
+Goleta,CA,Electrify America,1,6,100.0,0.0,6.57
+Rosemead,CA,ChargePoint Network,3,6,0.0,100.0,6.71
+El Monte,CA,eVgo Network,2,6,100.0,0.0,6.86
+Temple City,CA,ChargePoint Network,3,6,0.0,100.0,6.57
+Redwood City,CA,SYNERGEV,1,6,0.0,100.0,16.86
+Orange,CA,EVGATEWAY,1,6,100.0,0.0,7.71
+Santa Rosa,CA,Electrify America,1,6,100.0,0.0,6.29
+Corona,CA,EVCS,1,6,100.0,0.0,7.29
+Chino Hills,CA,EVCS,1,6,100.0,0.0,7.0
+Los Angeles,CA,SHELL_RECHARGE,2,6,100.0,0.0,88.0
+Cathedral City,CA,Non-Networked,1,6,66.67,33.33,6.86
+Emeryville,CA,Tesla Destination,2,6,0.0,100.0,6.86
+Montclair,CA,LOOP,1,6,0.0,100.0,6.86
+Suisun City,CA,ChargePoint Network,3,6,0.0,100.0,6.43
+Covina,CA,Electrify America,1,6,100.0,0.0,6.14
+Chino Hills,CA,eVgo Network,1,6,100.0,0.0,6.57
+Redlands,CA,Blink Network,2,6,33.33,66.67,6.86
+Forestville,CA,ChargePoint Network,4,6,0.0,100.0,6.29
+Dixon,CA,ChargePoint Network,4,6,33.33,66.67,6.14
+Colton,CA,Electrify America,1,6,100.0,0.0,6.0
+San Clemente,CA,LOOP,1,6,0.0,100.0,6.71
+Tahoe City,CA,Tesla,1,6,100.0,0.0,7.57
+Borrego Springs,CA,EVGATEWAY,1,6,100.0,0.0,7.43
+Ceres,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Santa Cruz,CA,Electrify America,1,6,100.0,0.0,6.0
+Porterville,CA,EV Connect,1,6,0.0,100.0,7.0
+Yreka,CA,ChargePoint Network,4,6,33.33,66.67,6.0
+South El Monte,CA,EV Connect,2,6,50.0,50.0,6.71
+Coarsegold,CA,Non-Networked,2,6,0.0,100.0,6.71
+Sacramento,CA,SWTCH,3,6,33.33,66.67,20.33
+Simi Valley,CA,EVCS,1,6,66.67,33.33,6.71
+Pinole,CA,eVgo Network,1,6,100.0,0.0,6.43
+Soledad,CA,Blink Network,1,6,16.67,83.33,6.71
+Chula Vista,CA,Non-Networked,3,6,0.0,100.0,6.57
+McKinleyville,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Lafayette,CA,ChargePoint Network,4,6,0.0,100.0,6.0
+Barstow,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,8.0
+Oakland,CA,INTERTIE,1,6,0.0,100.0,11.5
+Alameda,CA,Electrify America,1,6,100.0,0.0,6.0
+Petaluma,CA,Blink Network,2,6,33.33,66.67,6.57
+Huntington Park,CA,eVgo Network,1,6,100.0,0.0,6.29
+Elk Grove,CA,SWTCH,1,6,0.0,100.0,18.29
+Santa Clarita,CA,Electrify America,1,6,100.0,0.0,6.0
+Modesto,CA,Tesla Destination,2,6,0.0,100.0,6.71
+Fallbrook,CA,SWTCH,2,6,16.67,83.33,14.86
+Sacramento,CA,AMPUP,1,6,0.0,100.0,7.29
+Mount Shasta,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,7.57
+Ojai,CA,Tesla Destination,1,6,0.0,100.0,6.57
+El Cerrito,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Marina del Rey,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Monrovia,CA,CHAEVI,2,6,100.0,0.0,10.0
+Selma,CA,Electrify America,2,6,66.67,33.33,6.0
+Atherton,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Oakland,CA,Tesla Destination,2,6,0.0,100.0,6.43
+Mojave,CA,ChargePoint Network,5,6,66.67,33.33,6.0
+Whittier,CA,EVGATEWAY,3,6,0.0,100.0,7.14
+Santa Nella,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,7.14
+March Air Reserve Base,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Apple Valley,CA,eVgo Network,1,6,100.0,0.0,6.14
+Corona,CA,Electrify America,2,6,66.67,33.33,6.0
+Fontana,CA,EVGATEWAY,2,6,66.67,33.33,6.86
+Brea,CA,LOOP,2,6,0.0,100.0,6.57
+Santa Maria,CA,TURNONGREEN,1,6,0.0,100.0,7.71
+Beaumont,CA,Blink Network,1,6,0.0,100.0,6.43
+Van Nuys,CA,eVgo Network,1,6,100.0,0.0,6.0
+Santa Rosa,CA,Non-Networked,2,6,0.0,100.0,6.43
+Buena Park,CA,Electrify America,1,6,100.0,0.0,6.0
+East Palo Alto,CA,Electrify America,1,6,100.0,0.0,6.0
+Culver City,CA,eVgo Network,2,6,100.0,0.0,6.0
+Rohnert Park,CA,CHARGENET,1,6,100.0,0.0,8.0
+Lemon Grove,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Fairfield,CA,EV Connect,1,6,33.33,66.67,6.57
+Bishop,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.86
+Stockton,CA,SWTCH,1,6,0.0,100.0,11.86
+Bishop,CA,Tesla Destination,1,6,0.0,100.0,6.29
+Hermosa Beach,CA,Electrify America,1,6,100.0,0.0,6.0
+Piedmont,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Westminster,CA,AMPUP,1,6,0.0,100.0,7.0
+Soquel,CA,eVgo Network,1,6,100.0,0.0,6.0
+Alpine,CA,eVgo Network,1,6,100.0,0.0,6.0
+Rocklin,CA,Blink Network,2,6,0.0,100.0,6.29
+Marina Del Rey,CA,EV Connect,2,6,0.0,100.0,6.43
+Porterville,CA,EVCS,1,6,0.0,100.0,6.43
+Palo Alto,CA,NOODOE,1,6,0.0,100.0,9.0
+Sacramento,CA,SHELL_RECHARGE,1,6,100.0,0.0,74.33
+Cathedral City,CA,Tesla Destination,2,6,0.0,100.0,6.14
+Irvine,CA,Blink Network,2,6,0.0,100.0,6.14
+Lee Vining,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.57
+Del Monte Forest,CA,ChargePoint Network,4,6,33.33,66.67,6.0
+Huntington Beach,CA,Tesla Destination,2,6,0.0,100.0,6.0
+Sylmar,CA,AMPUP,6,6,0.0,100.0,6.71
+Citrus Heights,CA,Electrify America,1,6,100.0,0.0,6.0
+Crescent City,CA,Tesla,1,6,100.0,0.0,7.29
+LaQuinta,CA,Electrify America,1,6,100.0,0.0,6.0
+Duarte,CA,eVgo Network,1,6,100.0,0.0,6.0
+Sanger,CA,EV Connect,1,6,0.0,100.0,6.29
+San Martin,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Riverside,CA,FLASH,2,6,0.0,100.0,63.25
+Norwalk,CA,eVgo Network,1,6,100.0,0.0,6.0
+Buttonwillow,CA,Non-Networked,1,6,100.0,0.0,6.29
+South Lake Tahoe,CA,ChargePoint Network,4,6,33.33,66.67,6.0
+Shoshone,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.29
+Lodi,CA,Non-Networked,2,6,0.0,100.0,6.14
+Mammoth Lakes,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Ukiah,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Oxnard,CA,Electrify America,1,6,100.0,0.0,6.0
+Chico,CA,Blink Network,2,6,0.0,100.0,6.0
+San Fernando,CA,Tesla Destination,2,6,0.0,100.0,6.0
+Newport Beach,CA,Non-Networked,2,6,0.0,100.0,6.0
+Lakeside,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Laguna Niguel,CA,LOOP,1,6,0.0,100.0,6.43
+Valencia,CA,Electrify America,1,6,100.0,0.0,6.0
+Corral de Tierra,CA,POWERPORT_EVC,1,6,0.0,100.0,6.0
+Boonville,CA,Non-Networked,1,6,0.0,100.0,6.0
+Norco,CA,Blink Network,1,6,100.0,0.0,6.0
+Kirkwood,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+El Centro,CA,EVGATEWAY,1,6,100.0,0.0,6.57
+Truckee,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Corte Madera,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Chula Vista,CA,EV Connect,1,6,0.0,100.0,6.14
+Barstow,CA,Non-Networked,1,6,100.0,0.0,6.0
+Santa Clara,CA,EVMATCH,1,6,0.0,100.0,13.86
+Mountain View,CA,Electrify America,1,6,100.0,0.0,6.0
+Gardena,CA,eVgo Network,2,6,100.0,0.0,6.0
+Crescent City,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Crescent City,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Lemoore,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Wasco,CA,Non-Networked,1,6,0.0,100.0,6.0
+Costa Mesa,CA,Electrify America,1,6,100.0,0.0,6.0
+Newport Beach,CA,AMPUP,1,6,0.0,100.0,6.43
+Stanton,CA,ChargePoint Network,5,6,16.67,83.33,6.0
+Rocklin,CA,Electrify America,1,6,100.0,0.0,6.0
+BELLFLOWER,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Yucca Valley,CA,eVgo Network,1,6,100.0,0.0,6.0
+Hanford,CA,eVgo Network,1,6,100.0,0.0,6.0
+Moreno Valley,CA,EV Connect,1,6,0.0,100.0,6.0
+Long Beach,CA,Non-Networked,4,6,0.0,100.0,6.0
+San Rafael,CA,LOOP,1,6,0.0,100.0,6.29
+E. Palo Alto,CA,Blink Network,1,6,0.0,100.0,6.0
+Ojai,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Winters,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Solvang,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Santa Cruz,CA,EVGATEWAY,1,6,0.0,100.0,6.29
+Malibu,CA,Tesla Destination,2,6,0.0,100.0,6.0
+Lake Elsinore,CA,Electrify America,1,6,100.0,0.0,6.0
+Orange,CA,FORD_CHARGE,1,6,100.0,0.0,6.0
+Moreno Valley,CA,Blink Network,1,6,0.0,100.0,6.0
+Oxnard,CA,Non-Networked,5,6,0.0,100.0,6.0
+Alpine,CA,Non-Networked,1,6,0.0,100.0,6.0
+Olema,CA,Tesla,1,6,100.0,0.0,7.0
+Manteca,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+San Francisco,CA,VIALYNK,1,6,0.0,100.0,26.0
+Santa Cruz,CA,AMPUP,1,6,0.0,100.0,6.29
+Pismo Beach,CA,SWTCH,1,6,0.0,100.0,9.29
+Fontana,CA,EV Connect,1,6,0.0,100.0,6.0
+Campbell,CA,Non-Networked,1,6,0.0,100.0,6.0
+Chula Vista,CA,eVgo Network,2,6,100.0,0.0,6.0
+South San Francisco,CA,CHARGENET,1,6,100.0,0.0,7.33
+San Lorenzo,CA,ChargePoint Network,4,6,0.0,100.0,6.0
+Joshua Tree,CA,SWTCH,2,6,0.0,100.0,7.57
+Manhattan Beach,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Salinas,CA,Non-Networked,1,6,0.0,100.0,6.0
+San Francisco,CA,REVEL,1,6,100.0,0.0,7.0
+Sherman Oaks,CA,EV Connect,1,6,0.0,100.0,6.0
+Chino,CA,EVCS,1,6,100.0,0.0,6.29
+San Juan Capistrano,CA,Blink Network,2,6,0.0,100.0,6.0
+Madera,CA,Electrify America,1,6,100.0,0.0,6.0
+Lindsay,CA,eVgo Network,1,6,100.0,0.0,6.0
+Pismo Beach,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Vallejo,CA,eVgo Network,1,6,100.0,0.0,6.0
+Marina del Rey,CA,Tesla Destination,2,6,0.0,100.0,6.0
+Montebello,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Monterey Park,CA,NOODOE,1,6,0.0,100.0,8.14
+Willits,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Gardena,CA,EV Connect,1,6,0.0,100.0,6.0
+Geyserville,CA,Non-Networked,1,6,66.67,33.33,6.0
+Lakewood,CA,ChargePoint Network,5,6,0.0,100.0,6.0
+San Francisco,CA,INTERTIE,2,6,0.0,100.0,10.4
+Carmel-By-The-Sea,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Fortuna,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Cardiff by the Sea,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+San Bernadino,CA,SHELL_RECHARGE,1,6,100.0,0.0,64.57
+Canoga Park,CA,Electrify America,1,6,100.0,0.0,6.0
+Carmel,CA,ChargePoint Network,3,6,0.0,100.0,6.0
+Ridgecrest,CA,eVgo Network,1,6,100.0,0.0,6.0
+Point Reyes Station,CA,Tesla Destination,1,6,0.0,100.0,6.0
+Lodi,CA,eVgo Network,1,6,100.0,0.0,6.0
+Rocklin,CA,eVgo Network,1,6,100.0,0.0,6.0
+Arleta,CA,eVgo Network,1,6,100.0,0.0,6.0
+Los Altos,CA,Blink Network,1,6,0.0,100.0,6.0
+Inyokern,CA,RIVIAN_ADVENTURE,1,6,100.0,0.0,6.0
+Newark,CA,CHARGENET,1,6,100.0,0.0,7.0
+Brawley,CA,eVgo Network,1,6,100.0,0.0,6.0
+Malibu,CA,EV Connect,1,6,0.0,100.0,6.0
+Lindsay,CA,ChargePoint Network,4,6,0.0,100.0,6.0
+Fresno,CA,Tesla Destination,3,5,0.0,100.0,5.86
+Mountain View,CA,Tesla Destination,2,5,0.0,100.0,5.71
+Lompoc,CA,Tesla Destination,3,5,0.0,100.0,5.57
+Avila Beach,CA,Tesla Destination,2,5,0.0,100.0,5.43
+Signal Hill,CA,Blink Network,1,5,0.0,100.0,5.86
+Santa Barbara,CA,FLASH,2,5,0.0,100.0,51.6
+Little River,CA,Non-Networked,2,5,0.0,100.0,5.86
+Groveland,CA,RIVIAN_ADVENTURE,1,5,100.0,0.0,5.86
+Hemet,CA,Non-Networked,2,5,0.0,60.0,5.71
+Santa Maria,CA,Non-Networked,3,5,20.0,80.0,5.57
+Santa Barbara,CA,LOOP,1,5,0.0,100.0,6.0
+Point Arena,CA,FLO,1,5,0.0,100.0,8.29
+Oceanside,CA,Tesla Destination,1,5,0.0,100.0,5.29
+Carlsbad,CA,AMPUP,2,5,0.0,100.0,6.0
+Hesperia,CA,LOOP,1,5,0.0,100.0,5.71
+Fillmore,CA,EVCS,1,5,20.0,80.0,6.0
+Porter Ranch,CA,OpConnect,1,5,0.0,100.0,12.43
+Dublin,CA,Non-Networked,1,5,20.0,80.0,5.43
+Delano,CA,ChargePoint Network,5,5,0.0,100.0,5.86
+Los Altos,CA,eVgo Network,2,5,80.0,20.0,5.86
+Napa Valley,CA,Tesla Destination,1,5,0.0,100.0,5.14
+Garberville,CA,ChargePoint Network,3,5,20.0,80.0,5.71
+Jamestown,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Placentia,CA,ChargePoint Network,3,5,20.0,80.0,5.57
+Moreno Valley,CA,ENVIROSPARK,1,5,0.0,100.0,5.0
+Santa Clarita,CA,LOOP,2,5,0.0,100.0,5.57
+San Dimas,CA,POWERFLEX,1,5,0.0,100.0,9.71
+Fulton,CA,Tesla Destination,3,5,0.0,100.0,5.0
+Vernon,CA,WATT_EV,1,5,100.0,0.0,23.4
+Granite Bay,CA,ChargePoint Network,3,5,0.0,100.0,5.43
+Los Gatos,CA,Non-Networked,1,5,0.0,100.0,5.29
+Sutter Creek,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Delhi,CA,EVCS,1,5,40.0,60.0,5.71
+Bell,CA,ChargePoint Network,5,5,100.0,0.0,5.29
+Middletown,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Somerset,CA,Non-Networked,3,5,0.0,80.0,5.14
+South Lake Tahoe,CA,Non-Networked,2,5,0.0,100.0,5.0
+Fresno,CA,SYNERGEV,1,5,100.0,0.0,12.57
+Madera,CA,EVCS,2,5,60.0,40.0,5.57
+Westminster,CA,LOOP,1,5,20.0,80.0,5.43
+Riverside,CA,EVCS,2,5,100.0,0.0,5.43
+Buttonwillow,CA,ChargePoint Network,4,5,60.0,40.0,5.14
+Elk Grove,CA,Tesla Destination,1,5,0.0,100.0,5.0
+Fontana,CA,LOOP,1,5,0.0,100.0,5.29
+Ukiah,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Lake Elsinore,CA,ChargePoint Network,5,5,100.0,0.0,5.0
+Victorville,CA,Non-Networked,2,5,0.0,100.0,5.0
+Delhi,CA,EV Connect,1,5,40.0,60.0,5.86
+Chico,CA,eVgo Network,2,5,80.0,20.0,5.71
+Santa Ynez,CA,Tesla Destination,3,5,0.0,100.0,5.0
+Little River,CA,Tesla Destination,3,5,0.0,100.0,5.0
+Los Altos,CA,ChargePoint Network,3,5,20.0,80.0,5.0
+Ukiah,CA,Blink Network,4,5,0.0,100.0,5.71
+King City,CA,ChargePoint Network,4,5,60.0,40.0,5.0
+Napa,CA,RED_E,1,5,0.0,100.0,5.0
+Newark,CA,Blink Network,1,5,0.0,100.0,5.57
+Bel Air,CA,TURNONGREEN,1,5,0.0,100.0,7.14
+Tahoe City,CA,Non-Networked,3,5,0.0,100.0,5.0
+New Cuyama,CA,POWERFLEX,1,5,0.0,100.0,8.71
+Coalinga,CA,INTERTIE,1,5,0.0,100.0,9.5
+Hopland,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Sherman Oaks,CA,TURNONGREEN,1,5,0.0,100.0,6.71
+Paso Robles,CA,Non-Networked,4,5,0.0,100.0,5.0
+Davis,CA,Blink Network,2,5,0.0,100.0,5.43
+Novato,CA,TURNONGREEN,1,5,0.0,100.0,6.29
+Twentynine Palms,CA,ChargePoint Network,4,5,60.0,40.0,5.0
+Del Mar,CA,Tesla Destination,2,5,0.0,100.0,5.0
+Novato,CA,eVgo Network,1,5,80.0,20.0,5.57
+Yermo,CA,ChargePoint Network,4,5,60.0,40.0,5.0
+Lost Hills,CA,LOOP,1,5,0.0,100.0,5.14
+Brooks,CA,Non-Networked,1,5,0.0,100.0,5.0
+Capitola,CA,EVCS,2,5,100.0,0.0,5.29
+Paso Robles,CA,ChargePoint Network,5,5,40.0,60.0,5.0
+Apple Valley,CA,LOOP,2,5,0.0,100.0,5.0
+Coronado,CA,Blink Network,3,5,0.0,100.0,5.29
+Lancaster,CA,EV Connect,1,5,20.0,80.0,5.71
+Yorba Linda,CA,EVCS,1,5,80.0,20.0,5.14
+CATHEDRAL CITY,CA,EV Connect,1,5,40.0,60.0,5.57
+Newport Coast,CA,EV Connect,1,5,0.0,100.0,5.43
+Guerneville,CA,Tesla Destination,2,5,0.0,100.0,5.0
+St. Helena,CA,Non-Networked,3,5,0.0,100.0,5.0
+Gardena,CA,ChargePoint Network,3,5,0.0,100.0,5.0
+Cabazon,CA,Electrify America,1,4,100.0,0.0,5.71
+Loleta,CA,ChargePoint Network,3,4,50.0,50.0,4.86
+Monterey Park,CA,Blink Network,1,4,0.0,100.0,5.0
+Mineral,CA,Non-Networked,2,4,0.0,100.0,4.86
+Poway,CA,Electrify America,1,4,75.0,25.0,5.43
+Pomona,CA,Blink Network,1,4,0.0,100.0,4.71
+Pico Rivera,CA,eVgo Network,1,4,100.0,0.0,5.29
+South Pasadena,CA,LOOP,1,4,0.0,100.0,4.86
+Leggett,CA,SHELL_RECHARGE,1,4,50.0,50.0,10.29
+Encino,CA,Electrify America,1,4,100.0,0.0,5.14
+Valley Center,CA,Blink Network,1,4,0.0,100.0,4.57
+Palmdale,CA,Blink Network,2,4,0.0,100.0,4.43
+Imperial Beach,CA,ChargePoint Network,3,4,0.0,100.0,4.71
+Lost Hills,CA,Electrify America,1,4,100.0,0.0,4.86
+Rohnert Park,CA,Electrify America,1,4,100.0,0.0,4.57
+Watsonville,CA,Electrify America,1,4,100.0,0.0,4.29
+Rohnert Park,CA,eVgo Network,1,4,100.0,0.0,5.0
+Willits,CA,Electrify America,1,4,100.0,0.0,4.0
+Tehachapi,CA,eVgo Network,1,4,100.0,0.0,4.71
+Pleasanton,CA,Blink Network,2,4,0.0,100.0,4.29
+Gardena,CA,Electrify America,1,4,75.0,25.0,4.0
+Eureka,CA,SHELL_RECHARGE,1,4,50.0,50.0,7.43
+Pittsburg,CA,Blink Network,1,4,0.0,100.0,4.14
+La Mirada,CA,Electrify America,1,4,75.0,25.0,4.0
+Tahoe City,CA,INTERTIE,1,4,0.0,100.0,8.71
+Los Alamos,CA,Tesla Destination,2,4,0.0,100.0,4.86
+Crescent City,CA,Electrify America,1,4,100.0,0.0,4.0
+Azusa,CA,SYNERGEV,1,4,0.0,100.0,9.0
+San Martin,CA,Blink Network,1,4,0.0,100.0,4.0
+Carpinteria,CA,TURNONGREEN,1,4,0.0,100.0,5.71
+Seal Beach,CA,Blink Network,1,4,0.0,100.0,4.0
+Morgan Hill,CA,EV Connect,1,4,0.0,100.0,5.14
+Fortuna,CA,Tesla Destination,2,4,0.0,100.0,4.71
+Parlier,CA,ChargePoint Network,2,4,0.0,100.0,4.57
+Knights Landing,CA,ChargePoint Network,2,4,0.0,100.0,4.43
+Claremont,CA,eVgo Network,1,4,100.0,0.0,4.43
+Patterson,CA,ChargePoint Network,2,4,0.0,100.0,4.29
+Oakhurst,CA,Electrify America,1,4,100.0,0.0,4.0
+Pismo Beach,CA,STAY_N_CHARGE,2,4,0.0,100.0,4.0
+Escondido,CA,CHARGELAB,1,4,0.0,100.0,7.29
+Carmel,CA,Blink Network,2,4,0.0,100.0,4.0
+Compton,CA,eVgo Network,1,4,100.0,0.0,4.29
+Lakeport,CA,EV Connect,2,4,0.0,100.0,4.86
+Hemet,CA,ChargePoint Network,3,4,0.0,100.0,4.14
+Weed,CA,eVgo Network,1,4,100.0,0.0,4.14
+San Ramon,CA,Electrify America,1,4,75.0,25.0,4.0
+Martinez,CA,Electrify America,1,4,100.0,0.0,4.0
+Solvang,CA,Electrify America,1,4,100.0,0.0,4.0
+Stinson Beach,CA,RIVIAN_WAYPOINTS,1,4,0.0,100.0,18.8
+Antioch,CA,BP_PULSE,1,4,100.0,0.0,18.29
+Pasadena,CA,Electrify America,1,4,100.0,0.0,4.0
+Colton,CA,ChargePoint Network,3,4,0.0,100.0,4.0
+Half Moon Bay,CA,Electrify America,1,4,100.0,0.0,4.0
+Sunnyvale,CA,ENVIROSPARK,1,4,0.0,100.0,4.5
+Delano,CA,Non-Networked,1,4,100.0,0.0,4.71
+Whitethorn,CA,Tesla Destination,1,4,0.0,100.0,4.57
+Dunnigan,CA,Electrify America,1,4,100.0,0.0,4.0
+Inverness,CA,Tesla Destination,1,4,0.0,100.0,4.43
+Needles,CA,Electrify America,1,4,100.0,0.0,4.0
+Redwood City,CA,7CHARGE,1,4,100.0,0.0,6.0
+Palm Desert,CA,Electrify America,1,4,100.0,0.0,4.0
+Carson,CA,Electrify America,1,4,75.0,25.0,4.0
+Truckee,CA,Non-Networked,2,4,0.0,100.0,4.57
+Redwood City,CA,EPIC_CHARGING,1,4,0.0,100.0,17.0
+Temecula,CA,EV Connect,1,4,0.0,100.0,4.57
+Coronado,CA,eVgo Network,1,4,100.0,0.0,4.0
+Arcadia,CA,Non-Networked,1,4,100.0,0.0,4.43
+Auburn,CA,Electrify America,1,4,100.0,0.0,4.0
+Diamond Bar,CA,LOOP,1,4,0.0,100.0,4.71
+Dixon,CA,Blink Network,1,4,0.0,100.0,4.0
+Alhambra,CA,Tesla Destination,1,4,0.0,100.0,4.29
+Quincy,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+San Francisco,CA,SYNERGEV,1,4,0.0,100.0,6.71
+Fairfax,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Santa Barbara,CA,Electrify America,1,4,100.0,0.0,4.0
+Redlands,CA,Electrify America,1,4,100.0,0.0,4.0
+Irvine,CA,EVGATEWAY,1,4,0.0,100.0,5.71
+Clovis,CA,NOODOE,1,4,0.0,100.0,7.14
+Palm Desert,CA,CIRCLE_K,1,4,100.0,0.0,6.75
+Petaluma,CA,Electrify America,1,4,100.0,0.0,4.0
+Bel Air,CA,EVGATEWAY,1,4,0.0,100.0,5.43
+Berkeley,CA,Tesla Destination,2,4,0.0,100.0,4.14
+Soda Springs,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Mt. Shasta,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Laguna Woods,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Taft,CA,NOODOE,1,4,0.0,100.0,6.29
+Edwards Air Force Base,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Cayucos,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Lone,CA,OpConnect,1,4,0.0,100.0,10.43
+Indio,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Paso Robles,CA,Electrify America,1,4,100.0,0.0,4.0
+Clovis,CA,LOOP,1,4,0.0,100.0,4.57
+Riverside,CA,OpConnect,1,4,0.0,100.0,8.43
+Lakewood,CA,NOODOE,1,4,0.0,100.0,5.57
+Manteca,CA,EV Connect,1,4,100.0,0.0,4.43
+Merced,CA,EV Connect,1,4,0.0,100.0,4.29
+Fortuna,CA,SHELL_RECHARGE,1,4,50.0,50.0,6.0
+San Ramon,CA,ENVIROSPARK,1,4,0.0,100.0,4.33
+Carmel-by-the-Sea,CA,Non-Networked,1,4,0.0,100.0,4.29
+Marysville,CA,BP_PULSE,1,4,100.0,0.0,12.0
+Morgan Hill,CA,eVgo Network,1,4,100.0,0.0,4.0
+San Marcos,CA,eVgo Network,1,4,100.0,0.0,4.0
+Cathedral City,CA,EVRANGE,1,4,0.0,100.0,7.43
+Salinas,CA,Electrify America,1,4,100.0,0.0,4.0
+Riverside,CA,EPIC_CHARGING,1,4,0.0,100.0,13.75
+Brea,CA,SYNERGEV,1,4,0.0,100.0,5.71
+Monrovia,CA,Tesla Destination,1,4,0.0,100.0,4.0
+El Cajon,CA,SYNERGEV,1,4,0.0,100.0,4.86
+Pacific Grove,CA,Electrify America,1,4,100.0,0.0,4.0
+Santa Clarita,CA,Non-Networked,1,4,100.0,0.0,4.14
+Rutherford,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Laguna Beach,CA,LOOP,1,4,0.0,100.0,4.43
+Rosemead,CA,EV Connect,1,4,0.0,100.0,4.14
+Olancha,CA,Electrify America,1,4,100.0,0.0,4.0
+Calistoga,CA,EVRANGE,1,4,0.0,100.0,6.86
+Temecula,CA,CHARGELAB,1,4,0.0,100.0,6.71
+Victorville,CA,Electrify America,1,4,100.0,0.0,4.0
+Marysville,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Lancaster,CA,Non-Networked,3,4,0.0,100.0,4.0
+Anderson,CA,Electrify America,1,4,100.0,0.0,4.0
+El Centro,CA,Electrify America,1,4,100.0,0.0,4.0
+Banning,CA,EV Connect,1,4,50.0,50.0,4.0
+Miranda,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.86
+Brea,CA,Electrify America,1,4,100.0,0.0,4.0
+Julian,CA,ChargePoint Network,4,4,100.0,0.0,4.0
+Agoura Hills,CA,Electrify America,1,4,100.0,0.0,4.0
+Salinas,CA,BP_PULSE,1,4,100.0,0.0,9.14
+Pollock Pines,CA,ChargePoint Network,3,4,25.0,75.0,4.0
+Bellflower,CA,EVGATEWAY,1,4,0.0,100.0,5.14
+Eastvale,CA,LOOP,1,4,0.0,100.0,4.29
+Fountain Valley,CA,Electrify America,1,4,100.0,0.0,4.0
+Stockton,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Nipton,CA,Non-Networked,2,4,100.0,0.0,4.0
+Inyokern,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Hesperia,CA,TURNONGREEN,1,4,0.0,100.0,5.14
+Mojave,CA,Electrify America,1,4,100.0,0.0,4.0
+Goleta,CA,Blink Network,1,4,0.0,100.0,4.0
+Seal Beach,CA,eVgo Network,1,4,100.0,0.0,4.0
+Willows,CA,Electrify America,1,4,100.0,0.0,4.0
+Klamath,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Yreka,CA,Electrify America,1,4,100.0,0.0,4.0
+Covina,CA,7CHARGE,1,4,100.0,0.0,5.33
+Nevada City,CA,Non-Networked,1,4,0.0,100.0,4.0
+Lake Elsinore,CA,EVCS,1,4,100.0,0.0,4.86
+Monte Sereno,CA,ChargePoint Network,3,4,0.0,100.0,4.0
+Willow Creek,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Santa Ysabel,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Brentwood,CA,FORD_CHARGE,1,4,100.0,0.0,5.0
+Madera,CA,SYNERGEV,1,4,100.0,0.0,4.43
+San Gabriel,CA,NOODOE,1,4,0.0,100.0,5.0
+Soledad,CA,Electrify America,1,4,100.0,0.0,4.0
+Calabasas,CA,EV Connect,1,4,50.0,50.0,4.0
+Hayward,CA,LOOP,1,4,0.0,100.0,4.14
+Firebaugh,CA,EVGATEWAY,1,4,100.0,0.0,4.86
+Bishop,CA,Electrify America,1,4,100.0,0.0,4.0
+San Diego,CA,EVRANGE,1,4,0.0,100.0,6.29
+Groveland,CA,Electrify America,1,4,100.0,0.0,4.0
+Carlsbad,CA,SYNERGEV,1,4,0.0,100.0,4.14
+Spring Valley,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Newark,CA,eVgo Network,1,4,100.0,0.0,4.0
+Patterson,CA,eVgo Network,1,4,100.0,0.0,4.0
+Eureka,CA,FORD_CHARGE,1,4,100.0,0.0,4.67
+Los Gatos,CA,Electrify America,1,4,75.0,25.0,4.0
+Modesto,CA,Non-Networked,2,4,0.0,100.0,4.0
+Hanford,CA,Non-Networked,3,4,0.0,100.0,4.0
+Aptos,CA,Electrify America,1,4,100.0,0.0,4.0
+Smith River,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.57
+American Canyon,CA,EV Connect,1,4,0.0,100.0,4.0
+Palo Cedro,CA,EV Connect,1,4,0.0,100.0,4.0
+Los Alamitos,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Santa Cruz,CA,eVgo Network,1,4,100.0,0.0,4.0
+Perris,CA,CIRCLE_K,1,4,100.0,0.0,6.2
+Laguna Woods,CA,LOOP,1,4,0.0,100.0,4.0
+Imperial Beach,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Pittsburg,CA,Electrify America,1,4,100.0,0.0,4.0
+San Francisco,CA,ABM,2,4,0.0,100.0,14.67
+Lafayette,CA,Blink Network,1,4,0.0,100.0,4.0
+Glendale,CA,EVMATCH,1,4,0.0,100.0,11.71
+Loomis,CA,Non-Networked,1,4,0.0,100.0,4.0
+Lake Arrowhead,CA,Non-Networked,1,4,100.0,0.0,4.0
+Salinas,CA,SYNERGEV,1,4,0.0,100.0,4.0
+Manhattan Beach,CA,CHARGELAB,1,4,0.0,100.0,6.14
+Chico,CA,Electrify America,1,4,100.0,0.0,4.0
+Murrieta,CA,Non-Networked,1,4,0.0,100.0,4.0
+Sherman Oaks,CA,AMPUP,4,4,0.0,100.0,5.57
+Westley,CA,Non-Networked,2,4,100.0,0.0,4.0
+Jenner,CA,Tesla Destination,2,4,0.0,100.0,4.0
+San Bruno,CA,eVgo Network,1,4,100.0,0.0,4.0
+Morro City,CA,Electrify America,1,4,100.0,0.0,4.0
+Laguna Niguel,CA,Electrify America,1,4,100.0,0.0,4.0
+Graeagle,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Corona,CA,LOOP,1,4,0.0,100.0,4.0
+Cambria,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Aptos,CA,Blink Network,1,4,0.0,100.0,4.0
+Galt,CA,Blink Network,1,4,0.0,100.0,4.0
+Ventura,CA,EVCS,1,4,25.0,75.0,4.71
+Anza,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Searles Valley,CA,EVGATEWAY,1,4,100.0,0.0,4.57
+La Crescenta,CA,Electrify America,1,4,75.0,25.0,4.0
+Mission Viejo,CA,SYNERGEV,1,4,0.0,100.0,4.0
+Lafayette,CA,EVCS,1,4,0.0,100.0,4.57
+Los Alamitos,CA,eVgo Network,1,4,100.0,0.0,4.0
+Aptos,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Glen Ellen,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Chowchilla,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.29
+Crescent City,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.0
+Concord,CA,FORD_CHARGE,1,4,100.0,0.0,4.5
+Newark,CA,Electrify America,1,4,100.0,0.0,4.0
+Windsor,CA,Blink Network,1,4,0.0,100.0,4.0
+FULLERTON,CA,Electrify America,1,4,100.0,0.0,4.0
+Tracy,CA,Electrify America,1,4,100.0,0.0,4.0
+Huntington Beach,CA,OpConnect,1,4,0.0,100.0,6.71
+Livermore,CA,TURNONGREEN,1,4,0.0,100.0,4.71
+La Jolla,CA,EVMATCH,1,4,0.0,100.0,10.0
+Westlake Village,CA,Electrify America,1,4,100.0,0.0,4.0
+Colfax,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Visalia,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Pasadena,CA,EV Connect,1,4,100.0,0.0,4.0
+Campbell,CA,eVgo Network,1,4,100.0,0.0,4.0
+South Lake Tahoe,CA,EVRANGE,1,4,0.0,100.0,5.71
+San Dimas,CA,Electrify America,1,4,100.0,0.0,4.0
+Santa Maria,CA,Electrify America,1,4,100.0,0.0,4.0
+Santa Nella,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.0
+Paso Robles,CA,EV Connect,2,4,50.0,50.0,4.0
+Diamond Bar,CA,Electrify America,1,4,100.0,0.0,4.0
+Glen Ellen,CA,ChargePoint Network,3,4,25.0,75.0,4.0
+AtWater,CA,Electrify America,1,4,100.0,0.0,4.0
+San Dimas,CA,LOOP,1,4,0.0,100.0,4.0
+Davis,CA,Electrify America,1,4,100.0,0.0,4.0
+Shingle Springs,CA,Non-Networked,1,4,0.0,100.0,4.0
+Pico Rivera,CA,Blink Network,1,4,0.0,100.0,4.0
+Soledad,CA,EVRANGE,1,4,100.0,0.0,5.14
+Truckee,CA,Electrify America,1,4,100.0,0.0,4.0
+Blythe,CA,LOOP,1,4,0.0,100.0,4.0
+Sausalito,CA,INTERTIE,2,4,50.0,50.0,6.43
+Bakersfield,CA,FORD_CHARGE,1,4,100.0,0.0,4.4
+Victorville,CA,LOOP,1,4,0.0,100.0,4.0
+Pasadena,CA,OpConnect,2,4,0.0,100.0,5.14
+Carlsbad,CA,Electrify America,1,4,75.0,25.0,4.0
+Fountain Valley,CA,LOOP,1,4,0.0,100.0,4.0
+Pico Rivera,CA,Electrify America,1,4,100.0,0.0,4.0
+Madera,CA,Blink Network,1,4,0.0,100.0,4.0
+Inglewood,CA,Electrify America,1,4,100.0,0.0,4.0
+Olympic Valley,CA,Non-Networked,1,4,0.0,100.0,4.0
+Ojai,CA,Electrify America,1,4,100.0,0.0,4.0
+El Monte,CA,Non-Networked,2,4,25.0,75.0,4.0
+San Bruno,CA,Blink Network,1,4,0.0,100.0,4.0
+Murrieta,CA,EVCS,1,4,100.0,0.0,4.43
+Chowchilla,CA,EV Connect,1,4,100.0,0.0,4.0
+Rancho Mirage,CA,Blink Network,1,4,0.0,100.0,4.0
+Escalon,CA,Tesla Destination,1,4,0.0,100.0,4.0
+San Diego,CA,CIRCLE_K,1,4,100.0,0.0,5.83
+Santa Paula,CA,Electrify America,1,4,100.0,0.0,4.0
+Santa Ana,CA,GO_TO_U,1,4,0.0,100.0,8.0
+Yosemite West,CA,Non-Networked,1,4,0.0,100.0,4.0
+Los Gatos,CA,eVgo Network,1,4,100.0,0.0,4.0
+Malibu,CA,LOOP,1,4,0.0,100.0,4.0
+Calistoga,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Redlands,CA,Non-Networked,1,4,25.0,75.0,4.0
+Palmdale,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Woodland,CA,Blink Network,1,4,0.0,100.0,4.0
+Pismo Beach,CA,LOOP,1,4,0.0,100.0,4.0
+Orosi,CA,EVCS,1,4,0.0,100.0,4.29
+Culver City,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Dunnigan,CA,eVgo Network,1,4,100.0,0.0,4.0
+Morgan Hill,CA,7CHARGE,1,4,100.0,0.0,5.0
+San Marino,CA,LOOP,1,4,0.0,100.0,4.0
+Upland,CA,Electrify America,1,4,100.0,0.0,4.0
+Albany,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Castro Valley,CA,eVgo Network,1,4,100.0,0.0,4.0
+Malibu,CA,Non-Networked,2,4,0.0,100.0,4.0
+Fairfield,CA,TURNONGREEN,1,4,0.0,100.0,4.43
+Coleville,CA,EVRANGE,1,4,100.0,0.0,4.57
+Lathrop,CA,eVgo Network,1,4,100.0,0.0,4.0
+Bridgeport,CA,Electrify America,1,4,100.0,0.0,4.0
+Kettleman City,CA,Non-Networked,1,4,100.0,0.0,4.0
+North Edwards,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+GARDEN GROVE,CA,Electrify America,1,4,100.0,0.0,4.0
+South San Francisco,CA,OpConnect,1,4,0.0,100.0,4.57
+Monterey Park,CA,Electrify America,1,4,100.0,0.0,4.0
+Mission Viejo,CA,CIRCLE_K,1,4,100.0,0.0,5.57
+San Ramon,CA,7CHARGE,1,4,100.0,0.0,4.8
+Oakley,CA,eVgo Network,1,4,100.0,0.0,4.0
+Encinitas,CA,Electrify America,1,4,100.0,0.0,4.0
+Sacramento,CA,ABM,2,4,0.0,100.0,13.14
+Corona,CA,Non-Networked,2,4,50.0,50.0,4.0
+Rancho Santa Margarita,CA,Electrify America,1,4,75.0,25.0,4.0
+Pismo Beach,CA,Electrify America,1,4,100.0,0.0,4.0
+Redding,CA,Non-Networked,4,4,0.0,100.0,4.0
+San Pedro Hill,CA,LOOP,1,4,0.0,100.0,4.0
+Ramona,CA,eVgo Network,1,4,100.0,0.0,4.0
+Eastvale,CA,7CHARGE,1,4,100.0,0.0,4.67
+San Jose,CA,BP_PULSE,1,4,100.0,0.0,7.43
+Hayward,CA,Electrify America,1,4,100.0,0.0,4.0
+Amador City,CA,AMPUP,2,4,0.0,100.0,5.29
+Bellflower,CA,7CHARGE,1,4,100.0,0.0,4.57
+Tiburon,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Carson,CA,POWERFLEX,1,4,0.0,100.0,7.57
+Rancho Murieta,CA,SHELL_RECHARGE,1,4,100.0,0.0,4.0
+Sacramento,CA,FLASH,1,4,0.0,100.0,43.67
+Visalia,CA,FORD_CHARGE,1,4,100.0,0.0,4.33
+Seal Beach,CA,LOOP,1,4,0.0,100.0,4.0
+Riverside,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Indio,CA,Electrify America,1,4,100.0,0.0,4.0
+Yuba City,CA,eVgo Network,1,4,50.0,50.0,4.0
+Napa,CA,AMPUP,1,4,0.0,100.0,5.0
+Moreno Valley,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Citrus Heights,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+City of Industry,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Baldwin Park,CA,Electrify America,1,4,100.0,0.0,4.0
+Chatsworth,CA,Blink Network,1,4,0.0,100.0,4.0
+Yountville,CA,Blink Network,2,4,0.0,100.0,4.0
+Stevenson Ranch,CA,Electrify America,1,4,100.0,0.0,4.0
+Citrus Heights,CA,Non-Networked,1,4,0.0,100.0,4.0
+San Diego,CA,SWTCH,1,4,0.0,100.0,5.71
+Moraga,CA,Blink Network,2,4,0.0,100.0,4.0
+Redding,CA,NOODOE,1,4,0.0,100.0,4.57
+Mill Valley,CA,Electrify America,1,4,75.0,25.0,4.0
+Belmont,CA,Electrify America,1,4,75.0,25.0,4.0
+Union City,CA,Electrify America,1,4,75.0,25.0,4.0
+Ripon,CA,ChargePoint Network,2,4,100.0,0.0,4.0
+Montclair,CA,eVgo Network,1,4,100.0,0.0,4.0
+Corning,CA,ChargePoint Network,4,4,0.0,100.0,4.0
+French Camp,CA,EVCS,1,4,0.0,100.0,4.14
+Turlock,CA,Electrify America,1,4,100.0,0.0,4.0
+San Ysidro,CA,EVRANGE,1,4,100.0,0.0,4.0
+Imperial Beach,CA,Blink Network,2,4,0.0,100.0,4.0
+Santa Ana,CA,FLO,1,4,0.0,100.0,7.14
+Belmont,CA,eVgo Network,1,4,100.0,0.0,4.0
+Loma Linda,CA,eVgo Network,1,4,100.0,0.0,4.0
+Quartz Hill,CA,POWERFLEX,2,4,0.0,100.0,6.43
+King City,CA,eVgo Network,1,4,100.0,0.0,4.0
+Placerville,CA,Electrify America,1,4,100.0,0.0,4.0
+Baker,CA,Non-Networked,2,4,100.0,0.0,4.0
+Los Banos,CA,Electrify America,1,4,100.0,0.0,4.0
+Downey,CA,LOOP,1,4,0.0,100.0,4.0
+Richmond,CA,FLO,1,4,0.0,100.0,6.29
+Rowland Heights,CA,eVgo Network,1,4,100.0,0.0,4.0
+Healdsburg,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.0
+Sonora,CA,TURNONGREEN,1,4,0.0,100.0,4.29
+Monterey,CA,Blink Network,3,4,0.0,100.0,4.0
+Compton,CA,LOOP,1,4,0.0,100.0,4.0
+Palmdale,CA,OpConnect,1,4,0.0,100.0,4.14
+Palm Springs,CA,Electrify America,1,4,100.0,0.0,4.0
+Yucaipa,CA,ChargePoint Network,3,4,0.0,100.0,4.0
+Van Nuys,CA,Electrify America,1,4,75.0,25.0,4.0
+Sherman Oaks,CA,Electrify America,1,4,100.0,0.0,4.0
+Santa Clara,CA,CHAEVI,1,4,100.0,0.0,9.14
+Corte Madera,CA,RIVIAN_WAYPOINTS,1,4,0.0,100.0,16.33
+Firebaugh,CA,RED_E,1,4,100.0,0.0,4.5
+Willits,CA,SHELL_RECHARGE,1,4,50.0,50.0,4.0
+Upland,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Monrovia,CA,EV Connect,1,4,0.0,100.0,4.0
+Laytonville,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Pleasanton,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Escondido,CA,CIRCLE_K,1,4,100.0,0.0,5.0
+Reseda,CA,FLO,4,4,0.0,100.0,5.71
+South Gate,CA,Electrify America,1,4,75.0,25.0,4.0
+Patterson,CA,Electrify America,1,4,100.0,0.0,4.0
+Wildomar,CA,Electrify America,1,4,100.0,0.0,4.0
+Hollywood,CA,EVGATEWAY,1,4,0.0,100.0,4.29
+Fresno,CA,CIRCLE_K,1,4,100.0,0.0,4.43
+Pleasant Hill,CA,Electrify America,1,4,75.0,25.0,4.0
+Simi Valley,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Northridge,CA,eVgo Network,1,4,100.0,0.0,4.0
+Yorba Linda,CA,Electrify America,1,4,75.0,25.0,4.0
+Yorba Linda,CA,LOOP,1,4,0.0,100.0,4.0
+Visalia,CA,EVCS,1,4,0.0,100.0,4.0
+Hoopa,CA,Non-Networked,1,4,0.0,100.0,4.0
+Santa Cruz,CA,EVCS,1,4,0.0,100.0,4.0
+Citrus Heights,CA,EV Connect,1,4,0.0,100.0,4.0
+Woodland,CA,7CHARGE,1,4,100.0,0.0,4.0
+Santa Maria,CA,7CHARGE,1,4,100.0,0.0,4.0
+Sylmar,CA,eVgo Network,1,4,100.0,0.0,4.0
+WEST SACRAMENTO,CA,BP_PULSE,1,4,100.0,0.0,6.29
+Foothill Ranch,CA,Electrify America,1,4,75.0,25.0,4.0
+Irvine,CA,AUTEL,1,4,0.0,100.0,26.25
+Livermore,CA,EV Connect,1,4,0.0,100.0,4.0
+Fremont,CA,EVGATEWAY,1,4,0.0,100.0,4.0
+Lamont,CA,EVCS,1,4,0.0,100.0,4.0
+Lodi,CA,Blink Network,1,4,0.0,100.0,4.0
+Davis,CA,AMPUP,2,4,0.0,100.0,4.71
+Colma,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Morro Bay,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Palm Springs,CA,EV Connect,2,4,0.0,100.0,4.0
+San Clemente,CA,Electrify America,1,4,75.0,25.0,4.0
+Hayward,CA,BP_PULSE,1,4,100.0,0.0,5.14
+Oakdale,CA,EVGATEWAY,1,4,0.0,100.0,4.0
+Garberville,CA,Electrify America,1,4,100.0,0.0,4.0
+The Sea Ranch,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Palm Springs,CA,NOODOE,1,4,0.0,100.0,4.29
+Morgan Hill,CA,Blink Network,1,4,0.0,100.0,4.0
+Grand Terrace,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Moreno Valley,CA,LOOP,1,4,0.0,100.0,4.0
+Entcinitas,CA,Blink Network,1,4,0.0,100.0,4.0
+Santee,CA,Electrify America,1,4,75.0,25.0,4.0
+Kettleman City,CA,EVRANGE,1,4,100.0,0.0,4.0
+Pleasant Hill,CA,Tesla Destination,1,4,0.0,100.0,4.0
+Sonoma,CA,Electrify America,1,4,100.0,0.0,4.0
+Fairfield,CA,Blink Network,2,4,0.0,100.0,4.0
+Hayward,CA,ENVIROSPARK,1,4,0.0,100.0,4.25
+Woodland,CA,AMPUP,1,4,0.0,100.0,4.43
+Atascadero,CA,Electrify America,1,4,100.0,0.0,4.0
+South Lake Tahoe,CA,Electrify America,1,4,100.0,0.0,4.0
+Elk Grove,CA,EVCS,1,4,100.0,0.0,4.0
+Essex Fenner,CA,Electrify America,1,4,100.0,0.0,4.0
+Clovis,CA,Electrify America,1,4,100.0,0.0,4.0
+Los Alamos,CA,Electrify America,1,4,100.0,0.0,4.0
+Eureka,CA,Electrify America,1,4,100.0,0.0,4.0
+Crescent City,CA,ChargePoint Network,3,4,50.0,50.0,4.0
+Lomita,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Rancho Cordova,CA,BP_PULSE,1,4,100.0,0.0,4.0
+Tulare,CA,Electrify America,1,4,100.0,0.0,4.0
+Buena Park,CA,LOOP,1,4,0.0,100.0,4.0
+Healdsburg,CA,Electrify America,1,4,100.0,0.0,4.0
+La Puente,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Corte Madera,CA,ChargePoint Network,2,4,0.0,100.0,4.0
+Elk Grove,CA,Electrify America,1,4,75.0,25.0,4.0
+Yuba City,CA,Electrify America,1,4,100.0,0.0,4.0
+Vista,CA,Tesla Destination,2,4,0.0,100.0,4.0
+Fish Camp,CA,Non-Networked,2,4,0.0,100.0,4.0
+Newark,CA,EVCS,1,4,0.0,100.0,4.0
+Red Bluff,CA,MERCEDES_BENZ,1,4,100.0,0.0,4.0
+Buellton,CA,TURNONGREEN,1,4,0.0,100.0,4.14
+Pasadena,CA,SYNERGEV,1,3,0.0,100.0,3.86
+Placentia,CA,Non-Networked,2,3,0.0,100.0,3.86
+Roseville,CA,eVgo Network,1,3,100.0,0.0,3.86
+Clearlake Oaks,CA,Tesla Destination,1,3,0.0,100.0,3.86
+San Clemente,CA,TURNONGREEN,1,3,0.0,100.0,3.86
+Corona,CA,Blink Network,1,3,0.0,100.0,3.86
+Victorville,CA,Tesla Destination,1,3,0.0,100.0,3.71
+Gardena,CA,Non-Networked,3,3,0.0,100.0,3.71
+Hawthorne,CA,LOOP,1,3,0.0,100.0,3.86
+Inyokern,CA,EV Connect,1,3,33.33,66.67,3.86
+Rio Vista,CA,EV Connect,1,3,33.33,66.67,3.71
+El Cajon,CA,Blink Network,2,3,0.0,100.0,3.71
+Monte Rio,CA,ChargePoint Network,2,3,0.0,100.0,3.86
+Lakehead,CA,ChargePoint Network,2,3,33.33,66.67,3.71
+Rancho Murieta,CA,Tesla Destination,1,3,0.0,100.0,3.57
+Montebello,CA,Electrify America,1,3,100.0,0.0,3.86
+West Sacramento,CA,OpConnect,1,3,0.0,100.0,3.86
+Belvedere,CA,EV Connect,1,3,0.0,100.0,3.57
+Long Beach,CA,EVRANGE,1,3,0.0,100.0,3.86
+Huntington Beach,CA,Non-Networked,3,3,0.0,100.0,3.57
+Davis,CA,eVgo Network,1,3,66.67,33.33,3.71
+Calabasas,CA,LOOP,1,3,0.0,100.0,3.71
+Woodland Hills,CA,eVgo Network,1,3,66.67,33.33,3.57
+Sherman Oaks,CA,Non-Networked,2,3,33.33,66.67,3.43
+Weed,CA,ChargePoint Network,2,3,33.33,66.67,3.57
+Rutherford,CA,Blink Network,1,3,0.0,100.0,3.57
+Acton,CA,Tesla Destination,1,3,0.0,100.0,3.43
+Big Bear Lake,CA,LOOP,1,3,100.0,0.0,3.57
+San Jose,CA,EVCS,2,3,100.0,0.0,3.86
+Williams,CA,Non-Networked,2,3,33.33,66.67,3.29
+Canoga Park,CA,Non-Networked,3,3,0.0,100.0,3.14
+Clearlake,CA,Non-Networked,1,3,0.0,100.0,3.0
+Rancho Cucamonga,CA,Non-Networked,3,3,0.0,100.0,3.0
+Santa Fe Springs,CA,LOOP,1,3,0.0,100.0,3.43
+Brooks,CA,Tesla Destination,1,3,0.0,100.0,3.29
+Mill Valley,CA,eVgo Network,1,3,100.0,0.0,3.43
+Sunnyvale,CA,NOODOE,1,3,0.0,100.0,3.86
+Boron,CA,ChargePoint Network,3,3,66.67,33.33,3.43
+South Gate,CA,Non-Networked,2,3,0.0,100.0,3.0
+North Highland,CA,Electrify America,1,3,100.0,0.0,3.71
+Carmel-by-the-Sea,CA,Blink Network,1,3,0.0,100.0,3.43
+Simi Valley,CA,eVgo Network,1,3,66.67,33.33,3.29
+Grover Beach,CA,ChargePoint Network,3,3,0.0,100.0,3.29
+Rolling Hills Estates,CA,Electrify America,1,3,100.0,0.0,3.57
+Burbank,CA,Blink Network,1,3,0.0,100.0,3.29
+Panorama City,CA,AMPUP,3,3,0.0,100.0,4.0
+Temecula,CA,eVgo Network,2,3,100.0,0.0,3.14
+Chatsworth,CA,FLO,3,3,0.0,100.0,5.0
+Desert Hot Springs,CA,FLO,1,3,0.0,100.0,4.29
+Woodside,CA,ChargePoint Network,2,3,0.0,100.0,3.14
+Victorville,CA,EV Connect,1,3,66.67,33.33,3.43
+La Mesa,CA,Tesla Destination,1,3,0.0,100.0,3.14
+Smith River,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Orange,CA,eVgo Network,1,3,66.67,33.33,3.0
+Bakersfield,CA,Tesla Destination,1,3,0.0,100.0,3.0
+El Cajon,CA,Non-Networked,1,3,0.0,100.0,3.0
+Playa Vista,CA,OpConnect,1,3,0.0,100.0,3.71
+Forestville,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Downey,CA,Electrify America,1,3,100.0,0.0,3.43
+San Ysidro,CA,eVgo Network,1,3,66.67,33.33,3.0
+San Gabriel,CA,Non-Networked,1,3,100.0,0.0,3.0
+St Helena,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Sea Ranch,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Creston,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Turlock,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Beverly Hills,CA,ABM,1,3,0.0,100.0,10.29
+West Sacramento,CA,Electrify America,1,3,100.0,0.0,3.29
+Merced,CA,Non-Networked,3,3,0.0,100.0,3.0
+Susanville,CA,Non-Networked,2,3,0.0,100.0,3.0
+Lotus,CA,Non-Networked,1,3,0.0,100.0,3.0
+Salinas,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Tulare,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Pacifica,CA,ChargePoint Network,3,3,0.0,100.0,3.0
+Napa,CA,Non-Networked,2,3,0.0,100.0,3.0
+Pacific Grove,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Carpinteria,CA,LOOP,1,3,0.0,100.0,3.29
+Fort Bragg,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Sylmar,CA,Non-Networked,2,3,0.0,100.0,3.0
+San Carlos,CA,eVgo Network,1,3,66.67,33.33,3.0
+Walnut Creek,CA,7CHARGE,1,3,100.0,0.0,3.86
+Suisun City,CA,Blink Network,1,3,0.0,100.0,3.14
+Eureka,CA,Non-Networked,3,3,0.0,100.0,3.0
+Novato,CA,AUTEL,1,3,100.0,0.0,21.6
+Malibu,CA,Electrify America,1,3,100.0,0.0,3.14
+Culver City,CA,POWERFLEX,1,3,0.0,100.0,5.43
+Castro Valley,CA,Electrify America,1,3,100.0,0.0,3.0
+Ontario,CA,eVgo Network,1,3,66.67,33.33,3.0
+Windsor,CA,AUTEL,3,3,0.0,100.0,18.5
+Orange,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Banning,CA,EVCS,1,3,33.33,66.67,3.71
+Coachella,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Ladera Ranch,CA,ABM,1,3,0.0,100.0,7.43
+Millbrae,CA,Tesla Destination,1,3,0.0,100.0,3.0
+El Granada,CA,ChargePoint Network,2,3,0.0,100.0,3.0
+Encino,CA,FLO,3,3,0.0,100.0,3.71
+Concord,CA,Blink Network,2,3,66.67,33.33,3.0
+Dublin,CA,eVgo Network,1,3,66.67,33.33,3.0
+Hanford,CA,Blink Network,2,3,0.0,100.0,3.0
+El Monte,CA,EV Connect,3,3,0.0,100.0,3.29
+Anderson,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Glendale,CA,Non-Networked,2,3,0.0,100.0,3.0
+Carpinteria,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Mission Viejo,CA,eVgo Network,1,3,66.67,33.33,3.0
+Oroville,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Arroyo Grande,CA,LOOP,1,3,0.0,100.0,3.14
+Oakland,CA,Electrify America,1,3,100.0,0.0,3.0
+Olancha,CA,RIVIAN_ADVENTURE,1,3,100.0,0.0,5.43
+Red Bluff,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Ross,CA,ChargePoint Network,2,3,0.0,100.0,3.0
+Upland,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Thousand Oaks,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Vallejo,CA,Blink Network,1,3,0.0,100.0,3.0
+Shoshone,CA,RIVIAN_WAYPOINTS,1,3,0.0,100.0,14.43
+Cypress,CA,Electrify America,1,3,66.67,33.33,3.0
+Menifee,CA,eVgo Network,1,3,66.67,33.33,3.0
+San Bernardino,CA,Non-Networked,1,3,0.0,100.0,3.0
+Tahoe City,CA,Tesla Destination,3,3,0.0,100.0,3.0
+Norwalk,CA,POWERFLEX,1,3,0.0,100.0,4.43
+Sacramento,CA,AUTEL,1,3,0.0,100.0,16.29
+Paicines,CA,Non-Networked,2,3,0.0,100.0,3.0
+Solvang,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Montclair,CA,Non-Networked,2,3,33.33,66.67,3.0
+Tujunga,CA,ChargePoint Network,2,3,0.0,100.0,3.0
+Granite Bay,CA,Non-Networked,2,3,0.0,100.0,3.0
+Philo,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Sausalito,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Santa Maria,CA,EV Connect,1,3,0.0,100.0,3.14
+Arcadia,CA,POWERFLEX,1,3,0.0,100.0,3.86
+Dunsmuir,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+City of Industry,CA,Non-Networked,1,3,33.33,66.67,3.0
+Hawaiian Gardens,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Exeter,CA,OpConnect,1,3,0.0,100.0,3.57
+Redondo Beach,CA,Non-Networked,2,3,0.0,100.0,3.0
+Chowchilla,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Arcadia,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Hartle Ct,CA,ChargePoint Network,2,3,0.0,100.0,3.0
+Shafter,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Winters,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Acampo,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Midpines,CA,Tesla Destination,1,3,0.0,100.0,3.0
+Lodi,CA,Tesla Destination,1,3,0.0,100.0,3.0
+North Hollywood,CA,AMPUP,3,3,0.0,100.0,3.71
+San Luis Obispo,CA,eVgo Network,1,3,66.67,33.33,3.0
+Dunnigan,CA,ChargePoint Network,2,3,33.33,66.67,3.0
+Escondido,CA,NOODOE,1,3,0.0,100.0,3.71
+Dinuba,CA,LOOP,1,3,0.0,100.0,3.0
+Groveland,CA,Tesla Destination,2,3,0.0,100.0,3.0
+Clovis,CA,eVgo Network,1,3,66.67,33.33,3.0
+Solvang,CA,Non-Networked,1,2,0.0,100.0,2.86
+Newark,CA,NOODOE,1,2,0.0,100.0,3.43
+Berkeley,CA,AMPUP,1,2,0.0,100.0,3.43
+Manteca,CA,Tesla Destination,1,2,0.0,100.0,2.86
+Monrovia,CA,Blink Network,1,2,0.0,100.0,2.86
+New Cuyama,CA,Tesla Destination,1,2,0.0,100.0,2.71
+Point Arena,CA,ChargePoint Network,1,2,0.0,100.0,2.86
+Bishop,CA,OpConnect,1,2,100.0,0.0,3.29
+Willits,CA,Tesla Destination,1,2,0.0,100.0,2.57
+TRACY,CA,ChargePoint Network,1,2,0.0,100.0,2.71
+Sutter Creek,CA,ChargePoint Network,1,2,0.0,100.0,2.57
+Kenwood,CA,EVCS,1,2,100.0,0.0,3.43
+Twin Bridges,CA,Non-Networked,1,2,0.0,100.0,2.71
+Menifee,CA,ChargePoint Network,1,2,0.0,100.0,2.43
+Van Nuys,CA,Non-Networked,2,2,0.0,100.0,2.57
+Agoura Hills,CA,eVgo Network,1,2,100.0,0.0,2.86
+Sanger,CA,Electrify America,1,2,0.0,100.0,2.86
+Ferndale,CA,Tesla Destination,2,2,0.0,100.0,2.43
+Lincoln,CA,Electrify America,1,2,0.0,100.0,2.71
+Pacific Palisades,CA,SYNERGEV,1,2,0.0,100.0,3.57
+San Luis Obispo,CA,FLIPTURN,1,2,100.0,0.0,6.0
+El Segundo,CA,eVgo Network,1,2,100.0,0.0,2.71
+Half Moon Bay,CA,STAY_N_CHARGE,1,2,0.0,100.0,3.0
+Rocklin,CA,SWTCH,2,2,0.0,100.0,5.14
+Gardena,CA,EVCS,1,2,100.0,0.0,3.14
+Felton,CA,Blink Network,1,2,0.0,100.0,2.71
+Tujunga,CA,EVGATEWAY,1,2,0.0,100.0,3.71
+Laguna Beach,CA,EV Connect,1,2,0.0,100.0,2.86
+Torrance,CA,CHARGEUP,1,2,0.0,100.0,2.0
+Dublin,CA,Tesla Destination,1,2,0.0,100.0,2.29
+Buena Park,CA,eVgo Network,1,2,100.0,0.0,2.57
+Lemon Grove,CA,Blink Network,1,2,0.0,100.0,2.57
+Van Nuys,CA,FLO,2,2,0.0,100.0,3.29
+Fremont,CA,EVCS,1,2,100.0,0.0,2.86
+Guerneville,CA,ChargePoint Network,1,2,0.0,100.0,2.29
+Clio,CA,Tesla Destination,1,2,0.0,100.0,2.14
+Auburn,CA,OpConnect,1,2,0.0,100.0,3.0
+Long Beach,CA,AMPUP,1,2,0.0,100.0,3.14
+Lake City,CA,Tesla Destination,1,2,0.0,100.0,2.0
+"Walnut, California",CA,ChargePoint Network,1,2,0.0,100.0,2.14
+Martinez,CA,eVgo Network,1,2,100.0,0.0,2.43
+Simi Valley,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Oroville,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+San Francisco,CA,ITSELECTRIC,1,2,0.0,100.0,2.0
+East Palo Alto,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+Antioch,CA,Non-Networked,1,2,50.0,50.0,2.43
+Julian,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Hemet,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Chowchilla,CA,eVgo Network,1,2,100.0,0.0,2.29
+Fillmore,CA,AMPUP,1,2,0.0,100.0,2.86
+Escondido,CA,Non-Networked,1,2,0.0,100.0,2.29
+Encinitas,CA,Tesla Destination,1,2,0.0,100.0,2.0
+West Hills,CA,Non-Networked,1,2,0.0,100.0,2.14
+El Centro,CA,Blink Network,1,2,0.0,100.0,2.43
+Bakerfield,CA,Electrify America,1,2,0.0,100.0,2.57
+Colma,CA,eVgo Network,1,2,100.0,0.0,2.14
+Eastvale,CA,EVOKE,1,2,0.0,100.0,2.0
+Chatsworth,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Roseville,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Hollister,CA,NOODOE,1,2,100.0,0.0,3.14
+Beverly Hills,CA,EVGATEWAY,1,2,0.0,100.0,3.43
+San Bernardino,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Folsom,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Commerce,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Castro Valley,CA,Blink Network,1,2,0.0,100.0,2.29
+Fullerton,CA,Non-Networked,1,2,100.0,0.0,2.0
+Philo,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,9.86
+Rohnert Park,CA,GO_TO_U,1,2,0.0,100.0,6.0
+Fremont,CA,EV Connect,1,2,100.0,0.0,2.71
+Bellflower,CA,EV Connect,1,2,0.0,100.0,2.57
+Oakland,CA,EVCS,1,2,100.0,0.0,2.57
+Shingletown,CA,Tesla Destination,1,2,0.0,100.0,2.0
+San Clemente,CA,VIALYNK,1,2,0.0,100.0,22.57
+Colfax,CA,RED_E,1,2,100.0,0.0,3.67
+Walnut,CA,NOODOE,1,2,0.0,100.0,2.86
+Middletown,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Lake Forest,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Emeryville,CA,eVgo Network,1,2,100.0,0.0,2.0
+Watsonville,CA,eVgo Network,1,2,100.0,0.0,2.0
+Selma,CA,ChargePoint Network,2,2,100.0,0.0,2.0
+Susanville,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Inyokern,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,7.0
+Santa,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Isla Vista,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+South Gate,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Napa,CA,7CHARGE,1,2,100.0,0.0,3.57
+Mill Valley,CA,Non-Networked,1,2,0.0,100.0,2.0
+Lake Forest,CA,CHAEVI,1,2,100.0,0.0,7.14
+Camarillo,CA,eVgo Network,1,2,100.0,0.0,2.0
+Huron,CA,Electrify America,1,2,0.0,100.0,2.43
+Avila Beach,CA,STAY_N_CHARGE,1,2,0.0,100.0,2.67
+Hidden Hills,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Empire,CA,EV Connect,1,2,0.0,100.0,2.43
+National City,CA,EVCS,1,2,100.0,0.0,2.29
+Woodland Hills,CA,AMPUP,2,2,0.0,100.0,2.57
+Marina,CA,EVRANGE,1,2,0.0,100.0,3.57
+Three Rivers,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Sanger,CA,Non-Networked,1,2,0.0,100.0,2.0
+Exeter,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+Huntington Beach,CA,EVCS,1,2,100.0,0.0,2.14
+Richmond,CA,Non-Networked,1,2,50.0,50.0,2.0
+El Portal,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,4.43
+Larkspur,CA,Non-Networked,1,2,0.0,100.0,2.0
+Santa Barbara,CA,EVGATEWAY,1,2,0.0,100.0,3.14
+South San Francisco,CA,EVRANGE,1,2,100.0,0.0,3.29
+Lakeport,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Alturas,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Pismo Beach,CA,AMPUP,1,2,0.0,100.0,2.29
+Byron,CA,Non-Networked,1,2,0.0,100.0,2.0
+Lake Balboa,CA,FLO,2,2,0.0,100.0,3.0
+Venice,CA,eVgo Network,2,2,100.0,0.0,2.0
+Lompoc,CA,EVCS,1,2,100.0,0.0,2.0
+Alhambra,CA,NOODOE,1,2,0.0,100.0,2.57
+Long Beach,CA,7CHARGE,1,2,100.0,0.0,3.29
+Ventura,CA,eVgo Network,1,2,50.0,50.0,2.0
+Redwood City,CA,CHARGELAB,1,2,0.0,100.0,5.29
+Yuba City,CA,Blink Network,1,2,0.0,100.0,2.14
+Carson,CA,TURNONGREEN,1,2,0.0,100.0,3.57
+Orange Cove,CA,Electrify America,1,2,0.0,100.0,2.29
+West Hollywood,CA,POWERFLEX,1,2,0.0,100.0,3.43
+Sausalito,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Trinidad,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Dinuba,CA,EVCS,1,2,0.0,100.0,2.0
+Pittsburgh,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Dinuba,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Lake Arrowhead,CA,LOOP,1,2,0.0,100.0,2.86
+Galt,CA,eVgo Network,1,2,100.0,0.0,2.0
+Wawona,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Norco,CA,Non-Networked,1,2,100.0,0.0,2.0
+Palmdale,CA,Non-Networked,1,2,0.0,100.0,2.0
+Galt,CA,ChargePoint Network,2,2,100.0,0.0,2.0
+Anza,CA,Tesla Destination,1,2,0.0,100.0,2.0
+San Francisco,CA,AMPUP,1,2,0.0,100.0,2.14
+Twain Harte,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Prather,CA,NOODOE,1,2,0.0,100.0,2.29
+Carson,CA,CHAEVI,1,2,100.0,0.0,5.71
+Porterville,CA,Non-Networked,1,2,100.0,0.0,2.0
+Pollock Pines,CA,eVgo Network,1,2,100.0,0.0,2.0
+Rolling Hills Estates,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Corona,CA,EVRANGE,1,2,100.0,0.0,3.0
+Lakewood,CA,XEAL,1,2,0.0,100.0,2.0
+Lucerne Valley,CA,Tesla Destination,1,2,0.0,100.0,2.0
+La Habra,CA,RED_E,1,2,100.0,0.0,3.25
+Banning,CA,Non-Networked,1,2,0.0,100.0,2.0
+Anza,CA,Blink Network,1,2,0.0,100.0,2.0
+Lewiston,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Escalon,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Van Nuys,CA,Blink Network,1,2,0.0,100.0,2.0
+Studio City,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Burbank,CA,SWTCH,1,2,0.0,100.0,4.57
+Indian Wells,CA,EV Connect,1,2,0.0,100.0,2.29
+Covina,CA,EV Connect,1,2,50.0,50.0,2.14
+Kettleman City,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Occidental,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Reedly,CA,Electrify America,1,2,0.0,100.0,2.14
+Placentia,CA,EVGATEWAY,1,2,0.0,100.0,2.86
+Grass Valley,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Fresno,CA,EV Connect,1,2,0.0,100.0,2.0
+Arroyo Grande,CA,Tesla Destination,2,2,0.0,100.0,2.0
+Vallejo,CA,Non-Networked,2,2,0.0,100.0,2.0
+Rio Dell,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Bakersfield,CA,OpConnect,1,2,100.0,0.0,2.71
+South Pasadena,CA,Non-Networked,1,2,100.0,0.0,2.0
+Corona del Mar,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Modesto,CA,eVgo Network,1,2,100.0,0.0,2.0
+Cupertino,CA,Non-Networked,1,2,0.0,100.0,2.0
+corona,CA,Blink Network,1,2,0.0,100.0,2.0
+Carlsbad,CA,EV Connect,1,2,0.0,100.0,2.0
+Moorpark,CA,Blink Network,2,2,0.0,100.0,2.0
+Pomona,CA,EVRANGE,1,2,0.0,100.0,2.71
+Banning,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Hemet,CA,EVCS,1,2,100.0,0.0,2.0
+Yorba Linda,CA,Non-Networked,1,2,0.0,100.0,2.0
+Philo,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Mariposa,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Angels Camp,CA,Blink Network,1,2,0.0,100.0,2.0
+San Juan Capistrano,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Cabazon,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Redwood Valley,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Rancho Cordova,CA,Electrify America,1,2,0.0,100.0,2.0
+Porterville,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Santa Cruz,CA,LOOP,1,2,0.0,100.0,2.71
+Bertsch-Oceanview,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Walnut Creek,CA,CHAEVI,1,2,100.0,0.0,4.57
+Selma,CA,Non-Networked,2,2,0.0,100.0,2.0
+Lake Elsinore,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Foster City,CA,TURNONGREEN,1,2,0.0,100.0,3.29
+Ridgecrest,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+San Dimas,CA,eVgo Network,1,2,100.0,0.0,2.0
+Lynwood,CA,POWERFLEX,1,2,0.0,100.0,3.0
+Suisun City,CA,7CHARGE,1,2,100.0,0.0,3.0
+Van Nuys,CA,EV Connect,1,2,0.0,100.0,2.0
+Littlerock,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+China Lake,CA,CHARGELAB,1,2,0.0,100.0,4.43
+Mira loma,CA,Blink Network,1,2,0.0,100.0,2.0
+North Hollywood,CA,NOODOE,1,2,0.0,100.0,2.14
+Dunsmuir,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Victorville,CA,Blink Network,1,2,0.0,100.0,2.0
+Gardena,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Long Beach,CA,MERCEDES_BENZ,1,2,100.0,0.0,3.0
+Orangevale,CA,7CHARGE,1,2,100.0,0.0,2.71
+Del Rey,CA,Non-Networked,1,2,0.0,100.0,2.0
+Napa,CA,eVgo Network,1,2,100.0,0.0,2.0
+Walnut,CA,POWERFLEX,1,2,0.0,100.0,2.71
+Seaside,CA,eVgo Network,1,2,100.0,0.0,2.0
+Rancho Santa Fe,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Tiburon,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Marina del Rey,CA,EVRANGE,1,2,0.0,100.0,2.43
+Moreno Valley,CA,Electrify America,1,2,0.0,100.0,2.0
+Philo,CA,Non-Networked,1,2,50.0,50.0,2.0
+Gilroy,CA,EVMATCH,1,2,0.0,100.0,8.0
+Folsom,CA,NOODOE,1,2,0.0,100.0,2.0
+Alameda,CA,ITSELECTRIC,1,2,0.0,100.0,2.0
+Parlier,CA,Electrify America,1,2,0.0,100.0,2.0
+Red Bluff,CA,Non-Networked,2,2,0.0,100.0,2.0
+Independence,CA,Non-Networked,1,2,100.0,0.0,2.0
+Oakville,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Plumas Lake,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Hermosa Beach,CA,eVgo Network,1,2,100.0,0.0,2.0
+Ontario,CA,EV Connect,1,2,0.0,100.0,2.0
+Camarillo,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Playa Vista,CA,eVgo Network,1,2,50.0,50.0,2.0
+Venice,CA,AMPUP,2,2,0.0,100.0,2.0
+Mill Valley,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,2.71
+Cameron Park,CA,Non-Networked,1,2,0.0,100.0,2.0
+North Hollywood,CA,Non-Networked,2,2,0.0,100.0,2.0
+Berkeley,CA,NOODOE,1,2,100.0,0.0,2.0
+Indian Wells,CA,Non-Networked,1,2,0.0,100.0,2.0
+Mission Viejo,CA,Blink Network,1,2,0.0,100.0,2.0
+Downieville,CA,Tesla Destination,2,2,0.0,100.0,2.0
+Mi Wuk Village,CA,CHARGELAB,1,2,0.0,100.0,3.57
+Gilroy,CA,eVgo Network,1,2,100.0,0.0,2.0
+California City,CA,Non-Networked,1,2,0.0,100.0,2.0
+Morongo Valley,CA,Blink Network,1,2,0.0,100.0,2.0
+Rowland Heights,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Loleta,CA,NOODOE,1,2,0.0,100.0,2.0
+Campo,CA,Non-Networked,1,2,0.0,100.0,2.0
+Yucca Valley,CA,LOOP,1,2,100.0,0.0,2.57
+Montecito,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Mariposa,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Temecula,CA,Electrify America,1,2,0.0,100.0,2.0
+Alamo,CA,Blink Network,1,2,0.0,100.0,2.0
+Irwindale,CA,AMPUP,1,2,0.0,100.0,2.0
+Garden Grove,CA,RED_E,1,2,100.0,0.0,3.0
+Topanga,CA,POWERFLEX,1,2,0.0,100.0,2.43
+Pacific Grove,CA,RIVIAN_WAYPOINTS,2,2,0.0,100.0,2.43
+Highland,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Georgetown,CA,Non-Networked,1,2,0.0,100.0,2.0
+San Juan Capistrano,CA,Non-Networked,1,2,0.0,100.0,2.0
+Arcadia,CA,EVCS,1,2,100.0,0.0,2.0
+Avenal,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+Belvedere,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+Tracy,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,2.14
+Bear Valley,CA,Tesla Destination,1,2,0.0,100.0,2.0
+City of Industry,CA,CHARGESMART_EV,1,2,100.0,0.0,2.0
+Pacific Palisades,CA,Blink Network,1,2,0.0,100.0,2.0
+Westminster,CA,EV Connect,1,2,0.0,100.0,2.0
+Fallbrook,CA,Blink Network,1,2,0.0,100.0,2.0
+Patterson,CA,Non-Networked,1,2,0.0,100.0,2.0
+Sacramento,CA,CHARGELAB,1,2,0.0,100.0,2.86
+Kerman,CA,Electrify America,1,2,0.0,100.0,2.0
+Sebastopol,CA,Tesla Destination,1,2,0.0,100.0,2.0
+El Segundo,CA,RED_E,1,2,0.0,100.0,2.83
+Fairfield,CA,EVGATEWAY,1,2,0.0,100.0,2.57
+El Segundo,CA,Blink Network,1,2,0.0,100.0,2.0
+Fort Bragg,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,2.0
+Auburn,CA,EVCS,1,2,100.0,0.0,2.0
+Deer Park,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Playa Vista,CA,Blink Network,1,2,0.0,100.0,2.0
+Fountain Valley,CA,Non-Networked,1,2,0.0,100.0,2.0
+Corona,CA,eVgo Network,1,2,100.0,0.0,2.0
+Carpinteria,CA,Blink Network,1,2,0.0,100.0,2.0
+Newport Beach,CA,eVgo Network,1,2,100.0,0.0,2.0
+O'Neals,CA,Blink Network,1,2,100.0,0.0,2.0
+Oakhurst,CA,Non-Networked,1,2,0.0,100.0,2.0
+Huron,CA,ChargePoint Network,2,2,0.0,100.0,2.0
+Aptos,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+El Cajon,CA,EV Connect,1,2,100.0,0.0,2.0
+Hillsborough,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Kingsburg,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Livermore,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Hawthorne,CA,OpConnect,1,2,0.0,100.0,2.43
+Ceres,CA,AMPUP,1,2,0.0,100.0,2.0
+Sebastopol,CA,eVgo Network,1,2,100.0,0.0,2.0
+Sepulveda,CA,Non-Networked,1,2,0.0,100.0,2.0
+Temple City,CA,POWERFLEX,1,2,0.0,100.0,2.29
+Mount Shasta,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,2.0
+Oroville,CA,Non-Networked,1,2,0.0,100.0,2.0
+San Jacinto,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Aliso Viejo,CA,eVgo Network,1,2,100.0,0.0,2.0
+Fillmore,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Fowler,CA,Electrify America,1,2,0.0,100.0,2.0
+Monterey Park,CA,POWERFLEX,1,2,0.0,100.0,2.14
+Northridge,CA,FLO,2,2,0.0,100.0,2.71
+Central San Jose,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Berkeley,CA,INTERTIE,1,2,0.0,100.0,5.29
+St Helena,CA,AMPUP,1,2,0.0,100.0,2.0
+Blackhawk,CA,LOOP,1,2,0.0,100.0,2.43
+Yorba Linda,CA,eVgo Network,1,2,100.0,0.0,2.0
+Porterville,CA,FLO,1,2,0.0,100.0,2.43
+San Ramon,CA,eVgo Network,1,2,100.0,0.0,2.0
+Modesto,CA,Electrify America,1,2,0.0,100.0,2.0
+Downey,CA,EVCS,1,2,100.0,0.0,2.0
+Twentynine Palms,CA,LOOP,1,2,0.0,100.0,2.29
+Tulelake,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Danville,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Mission Hills,CA,Non-Networked,2,2,0.0,100.0,2.0
+Sacramento,CA,RIVIAN_WAYPOINTS,1,2,0.0,100.0,2.0
+Pleasant Hill,CA,EPIC_CHARGING,1,2,0.0,100.0,11.4
+Visalia,CA,Blink Network,1,2,0.0,100.0,2.0
+Felton,CA,Non-Networked,2,2,0.0,100.0,2.0
+Hemet,CA,Blink Network,1,2,100.0,0.0,2.0
+Pinole,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Bloomington,CA,FLASH,1,2,0.0,100.0,37.71
+West Covina,CA,Blink Network,1,2,0.0,100.0,2.0
+Bellflower,CA,FLO,1,2,0.0,100.0,2.29
+Clovis,CA,Blink Network,1,2,0.0,100.0,2.0
+Visalia,CA,Non-Networked,1,2,50.0,50.0,2.0
+Capitola,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Sonora,CA,Non-Networked,1,2,0.0,100.0,2.0
+San Rafael,CA,eVgo Network,1,2,100.0,0.0,2.0
+Lawndale,CA,Non-Networked,1,2,0.0,100.0,2.0
+Calexico,CA,AMPUP,1,2,0.0,100.0,2.0
+Norco,CA,ChargePoint Network,2,2,100.0,0.0,2.0
+Calipatria,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Bay Point,CA,ChargePoint Network,2,2,100.0,0.0,2.0
+Kerman,CA,LOOP,1,2,0.0,100.0,2.14
+Jurupa Valley,CA,EVCS,1,2,100.0,0.0,2.0
+San Bernardino,CA,RED_E,1,2,100.0,0.0,2.71
+Stanton,CA,RED_E,1,2,100.0,0.0,2.29
+Panorama City,CA,Non-Networked,1,2,0.0,100.0,2.0
+Woodland Hills,CA,FLO,2,2,0.0,100.0,2.14
+Lakewood,CA,Non-Networked,1,2,0.0,100.0,2.0
+Huron,CA,Non-Networked,1,2,0.0,100.0,2.0
+Elk,CA,Non-Networked,1,2,0.0,100.0,2.0
+Little River,CA,Blink Network,1,2,0.0,100.0,2.0
+Hanford,CA,EVCS,1,2,100.0,0.0,2.0
+Campbell,CA,SYNERGEV,1,2,0.0,100.0,3.29
+Tahoe Vista,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Los Angeles,CA,RED_E,1,2,100.0,0.0,2.0
+Oregon House,CA,OpConnect,1,2,0.0,100.0,2.29
+Long Beach,CA,EVCS,1,2,100.0,0.0,2.0
+Palm Springs,CA,TURNONGREEN,1,2,0.0,100.0,3.0
+Joshua Tree,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Lake Forest,CA,RED_E,1,2,100.0,0.0,2.0
+Chowchilla,CA,Non-Networked,1,2,100.0,0.0,2.0
+Studio City,CA,FLO,2,2,0.0,100.0,2.0
+Fair Oaks,CA,Non-Networked,1,2,0.0,100.0,2.0
+Guatay,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Foothill Ranch,CA,EVGATEWAY,1,2,0.0,100.0,2.29
+Fair Oaks,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Saint Helena,CA,Blink Network,1,2,0.0,100.0,2.0
+Windsor,CA,Non-Networked,1,2,0.0,100.0,2.0
+Hughson,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Pacifica,CA,eVgo Network,1,2,100.0,0.0,2.0
+South Pasadena,CA,eVgo Network,1,2,100.0,0.0,2.0
+Rancho Palos Verdes,CA,Blink Network,1,2,0.0,100.0,2.0
+Markleeville,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Brawley,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Lake Elsinore,CA,eVgo Network,1,2,100.0,0.0,2.0
+Gardena,CA,LOOP,1,2,0.0,100.0,2.0
+Cayucos,CA,Non-Networked,1,2,0.0,100.0,2.0
+Visalia,CA,eVgo Network,1,2,100.0,0.0,2.0
+Lake Arrowhead,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Sun Valley,CA,AMPUP,2,2,0.0,100.0,2.0
+Perris,CA,EVGATEWAY,1,2,100.0,0.0,2.0
+Gridley,CA,FORD_CHARGE,1,2,100.0,0.0,4.0
+Sierra Madre,CA,LOOP,1,2,0.0,100.0,2.0
+Susanville,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Angwin,CA,Tesla Destination,1,2,0.0,100.0,2.0
+El Dorado Hills,CA,eVgo Network,1,2,100.0,0.0,2.0
+Hacienda Heights,CA,eVgo Network,1,2,100.0,0.0,2.0
+Gilbert,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Buellton,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Soda Springs,CA,Non-Networked,1,2,0.0,100.0,2.0
+Cerritos,CA,Blink Network,1,2,0.0,100.0,2.0
+Pacoima,CA,FLO,2,2,0.0,100.0,2.0
+Lathrop,CA,FLASH,1,2,0.0,100.0,16.29
+Baldwin Park,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Blythe,CA,EVCS,1,2,100.0,0.0,2.0
+Death Valley,CA,Non-Networked,1,2,0.0,100.0,2.0
+Santa Barbara,CA,FLO,1,2,0.0,100.0,2.0
+Newark,CA,EV Connect,1,2,100.0,0.0,2.0
+Amer Cyn,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Monterey,CA,EVCS,1,2,100.0,0.0,2.0
+Waterford,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Idyllwild - Pine Cove,CA,EVCS,1,2,0.0,100.0,2.0
+Needles,CA,Non-Networked,1,2,100.0,0.0,2.0
+Watsonville,CA,EVCS,1,2,100.0,0.0,2.0
+Eagle Rock,CA,AMPUP,2,2,0.0,100.0,2.0
+Vista,CA,Non-Networked,1,2,0.0,100.0,2.0
+Chula Vista,CA,CHARGELAB,1,2,0.0,100.0,2.57
+Woodside,CA,Tesla Destination,1,2,0.0,100.0,2.0
+San Anselmo,CA,LOOP,1,2,0.0,100.0,2.0
+Idyllwild-Pine Cove,CA,Blink Network,1,2,0.0,100.0,2.0
+La Crescenta,CA,POWERFLEX,1,2,0.0,100.0,2.0
+Hope Valley,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Idyllwild,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Buena Park,CA,EVCS,1,2,100.0,0.0,2.0
+Hayward,CA,Non-Networked,1,2,0.0,100.0,2.0
+San Pedro,CA,eVgo Network,1,2,100.0,0.0,2.0
+Palm Springs,CA,EVGATEWAY,1,2,100.0,0.0,2.0
+Fairfield,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Los Angeles,CA,OpConnect,1,2,0.0,100.0,2.14
+Stockton,CA,AMPUP,1,2,0.0,100.0,2.0
+Trinidad,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Woodland,CA,FORD_CHARGE,1,2,100.0,0.0,3.43
+Orleans,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Point Reyes Station,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Hawaiian Gardens,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Paso Robles,CA,STAY_N_CHARGE,1,2,0.0,100.0,2.5
+Redondo Beach,CA,Tesla Destination,1,2,0.0,100.0,2.0
+El Centro,CA,UNIVERSAL,1,2,0.0,100.0,6.0
+Torrance,CA,ABM,1,2,0.0,100.0,4.86
+Rolling Hills Estates,CA,eVgo Network,1,2,100.0,0.0,2.0
+Napa,CA,SWTCH,1,2,0.0,100.0,4.0
+West Covina,CA,SYNERGEV,1,2,0.0,100.0,3.0
+Riverside,CA,LOOP,1,2,0.0,100.0,2.0
+Oakley,CA,BP_PULSE,1,2,100.0,0.0,3.71
+Ferndale,CA,ChargePoint Network,1,2,0.0,100.0,2.0
+Upper Lake,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Paramount,CA,AMPUP,1,2,0.0,100.0,2.0
+Hesperia,CA,Blink Network,1,2,0.0,100.0,2.0
+Port Hueneme,CA,EV Connect,1,2,0.0,100.0,2.0
+San Rafael,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Calabasas,CA,Non-Networked,1,2,0.0,100.0,2.0
+Nipton,CA,VIALYNK,1,2,0.0,100.0,15.14
+Encino,CA,AMPUP,2,2,0.0,100.0,2.0
+Dublin,CA,Blink Network,1,2,0.0,100.0,2.0
+Clovis,CA,EV Connect,1,2,0.0,100.0,2.0
+Avenal,CA,CHAEVI,1,2,100.0,0.0,3.71
+Mendota,CA,Electrify America,1,2,0.0,100.0,2.0
+Jenner,CA,Non-Networked,1,2,0.0,100.0,2.0
+Hollister,CA,Tesla Destination,1,2,0.0,100.0,2.0
+Walnut,CA,Blink Network,1,2,0.0,100.0,2.0
+Reedley,CA,Non-Networked,1,1,0.0,100.0,1.86
+Bridgeport,CA,Tesla Destination,1,1,0.0,100.0,1.86
+Palm Desert,CA,eVgo Network,1,1,100.0,0.0,1.86
+Kettleman City,CA,ChargePoint Network,1,1,0.0,100.0,1.86
+Hawthorn,CA,EVCS,1,1,100.0,0.0,1.86
+Goleta,CA,Non-Networked,1,1,0.0,100.0,1.71
+La Mirada,CA,LOOP,1,1,0.0,100.0,1.86
+Brisbane,CA,TURNONGREEN,1,1,0.0,100.0,2.57
+Winnetka,CA,AMPUP,1,1,0.0,100.0,1.86
+Rio Vista,CA,Non-Networked,1,1,0.0,100.0,1.57
+Coffee Creek,CA,Non-Networked,1,1,0.0,100.0,1.43
+Rosemead,CA,Tesla Destination,1,1,0.0,100.0,1.71
+Lockeford,CA,Tesla Destination,1,1,0.0,100.0,1.57
+Woodland Hills,CA,Non-Networked,1,1,0.0,100.0,1.29
+Lemon Grove,CA,Non-Networked,1,1,0.0,100.0,1.14
+National City,CA,Non-Networked,1,1,0.0,100.0,1.0
+Cardiff by the Sea,CA,TURNONGREEN,1,1,0.0,100.0,2.14
+Danville,CA,Non-Networked,1,1,0.0,100.0,1.0
+Loyalton,CA,Non-Networked,1,1,0.0,100.0,1.0
+Newport Coast,CA,eVgo Network,1,1,100.0,0.0,1.71
+Pismo Beach,CA,EV Connect,1,1,100.0,0.0,1.86
+Carpinteria,CA,EVRANGE,1,1,0.0,100.0,2.0
+Coronado,CA,EVCS,1,1,100.0,0.0,1.71
+Point Reyes Station,CA,Non-Networked,1,1,0.0,100.0,1.0
+Torrance,CA,Tesla Destination,1,1,0.0,100.0,1.43
+Carmel-by-the-Sea,CA,Tesla Destination,1,1,0.0,100.0,1.29
+Coffee Creek,CA,Tesla Destination,1,1,0.0,100.0,1.14
+Santa Rosa,CA,NOODOE,1,1,0.0,100.0,1.86
+Goleta,CA,Tesla Destination,1,1,0.0,100.0,1.0
+West Hills,CA,Blink Network,1,1,0.0,100.0,1.86
+Del Mar,CA,Non-Networked,1,1,0.0,100.0,1.0
+La Quinta,CA,ChargePoint Network,1,1,100.0,0.0,1.71
+Upland,CA,Non-Networked,1,1,0.0,0.0,1.0
+Tarzana,CA,AMPUP,1,1,0.0,100.0,1.71
+Wildomar,CA,ChargePoint Network,1,1,0.0,100.0,1.57
+Jackson,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Lucerne Valley,CA,Non-Networked,1,1,0.0,100.0,1.0
+Coalinga,CA,Non-Networked,1,1,0.0,0.0,1.0
+Mendota,CA,Non-Networked,1,1,0.0,100.0,1.0
+San Simeon,CA,Non-Networked,1,1,0.0,100.0,1.0
+Wilmington,CA,FLO,1,1,0.0,100.0,1.86
+San Diego,CA,RIVIAN_WAYPOINTS,1,1,0.0,100.0,1.86
+Willow Creek,CA,Non-Networked,1,1,100.0,0.0,1.0
+Blue Jay,CA,EVCS,1,1,100.0,0.0,1.57
+Arnold,CA,Non-Networked,1,1,100.0,0.0,1.0
+Laguna Hills,CA,EVCS,1,1,100.0,0.0,1.43
+Essex,CA,Tesla Destination,1,1,0.0,100.0,1.0
+San Pedro,CA,Blink Network,1,1,0.0,100.0,1.71
+Sea Ranch,CA,ChargePoint Network,1,1,0.0,100.0,1.43
+North Ridge,CA,FLO,1,1,0.0,100.0,1.71
+Oakland,CA,AMPUP,1,1,0.0,100.0,1.57
+Kenwood,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Oxnard,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Studio City,CA,AMPUP,1,1,0.0,100.0,1.43
+Roseville,CA,SHELL_RECHARGE,1,1,100.0,0.0,3.57
+La Jolla,CA,Non-Networked,1,1,0.0,100.0,1.0
+Paradise,CA,SWTCH,1,1,0.0,100.0,3.29
+Fullerton,CA,EVCS,1,1,100.0,0.0,1.29
+Oak Glen,CA,Non-Networked,1,1,0.0,100.0,1.0
+Anaheim,CA,AMPUP,1,1,0.0,100.0,1.29
+Kerman,CA,Non-Networked,1,1,0.0,100.0,1.0
+Gaviota,CA,Non-Networked,1,1,0.0,100.0,1.0
+Jamestown,CA,TURNONGREEN,1,1,0.0,100.0,1.71
+Oak View,CA,Non-Networked,1,1,0.0,100.0,1.0
+Acampo,CA,Blink Network,1,1,0.0,100.0,1.57
+Toluca Lake,CA,AMPUP,1,1,0.0,100.0,1.14
+Santa Barbara,CA,DIRT_ROAD,1,1,0.0,100.0,13.8
+Chatsworth,CA,AMPUP,1,1,0.0,100.0,1.0
+Granada Hills,CA,FLO,1,1,0.0,100.0,1.57
+Castro Valley,CA,Non-Networked,1,1,0.0,100.0,1.0
+Reseda,CA,AMPUP,1,1,0.0,100.0,1.0
+Santa Fe Springs,CA,Blink Network,1,1,0.0,100.0,1.43
+Richmond,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Somis,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Santa Clarita,CA,Blink Network,1,1,0.0,100.0,1.29
+Jurupa Valley,CA,ChargePoint Network,1,1,100.0,0.0,1.29
+Lake Balboa,CA,AMPUP,1,1,0.0,100.0,1.0
+Signal Hill,CA,eVgo Network,1,1,100.0,0.0,1.57
+Torrance,CA,AMPUP,1,1,0.0,100.0,1.0
+Shandon,CA,ChargePoint Network,1,1,100.0,0.0,1.14
+SACRAMENTO,CA,EV Connect,1,1,0.0,100.0,1.71
+Dixon,CA,Non-Networked,1,1,0.0,0.0,1.0
+Colfax,CA,Non-Networked,1,1,0.0,100.0,1.0
+San jose,CA,EVRANGE,1,1,0.0,100.0,1.71
+Tulare,CA,EVCS,1,1,100.0,0.0,1.14
+Whittier,CA,Blink Network,1,1,100.0,0.0,1.14
+Burlingame,CA,Non-Networked,1,1,0.0,100.0,1.0
+Monterey Park,CA,eVgo Network,1,1,100.0,0.0,1.43
+Highland Park,CA,AMPUP,1,1,0.0,100.0,1.0
+Canoga Park,CA,AMPUP,1,1,0.0,100.0,1.0
+Del Mar,CA,eVgo Network,1,1,100.0,0.0,1.29
+Tulare,CA,Non-Networked,1,1,100.0,0.0,1.0
+Burbank,CA,Non-Networked,1,1,0.0,100.0,1.0
+Sherman Oaks,CA,FLO,1,1,0.0,100.0,1.43
+Westminster,CA,eVgo Network,1,1,100.0,0.0,1.14
+Taft,CA,Non-Networked,1,1,0.0,100.0,1.0
+Hermosa Beach,CA,LOOP,1,1,0.0,100.0,1.71
+Garberville,CA,Non-Networked,1,1,0.0,100.0,1.0
+Ventura,CA,ABM,1,1,0.0,100.0,3.57
+Escondido,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Elk Grove,CA,EV Connect,1,1,0.0,100.0,1.57
+Crestline,CA,AMPUP,1,1,0.0,100.0,1.0
+Sunnyvale,CA,STAY_N_CHARGE,1,1,0.0,100.0,2.2
+La Mirada,CA,eVgo Network,1,1,100.0,0.0,1.0
+Kelseyville,CA,Blink Network,1,1,0.0,100.0,1.0
+Sun Valley,CA,Non-Networked,1,1,0.0,100.0,1.0
+Jamestown,CA,EV Connect,1,1,100.0,0.0,1.43
+Aliso Viejo,CA,CHARGELAB,1,1,0.0,100.0,2.14
+Wrightwood,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Capitola,CA,Blink Network,1,1,0.0,100.0,1.0
+Fresno,CA,EVGATEWAY,1,1,0.0,100.0,1.86
+Olivehurst,CA,ChargePoint Network,1,1,0.0,100.0,1.0
+Wilmington,CA,AMPUP,1,1,0.0,100.0,1.0
+Yosemite National Park,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Mountain View,CA,Non-Networked,1,1,0.0,0.0,1.0
+Burlingame,CA,NOODOE,1,1,0.0,100.0,1.71
+Stanton,CA,Non-Networked,1,1,0.0,100.0,1.0
+Big Bear Lake,CA,CHARGELAB,1,1,0.0,100.0,1.71
+Los Angeles,CA,TURNONGREEN,1,1,0.0,100.0,1.43
+Santa Monica,CA,FLO,1,1,0.0,100.0,1.29
+Fresno,CA,FLO,1,1,100.0,0.0,1.14
+Monte Sereno,CA,Non-Networked,1,1,0.0,100.0,1.0
+Oceanside,CA,EVCS,1,1,100.0,0.0,1.0
+Redwood City,CA,Non-Networked,1,1,0.0,100.0,1.0
+Lancaster,CA,AMPUP,1,1,0.0,100.0,1.0
+Del Monte Forest,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Playa Del Rey,CA,FLO,1,1,0.0,100.0,1.0
+Auburn,CA,Blink Network,1,1,0.0,100.0,1.0
+El Cajon,CA,IN_CHARGE,1,1,100.0,0.0,1.0
+LA,CA,CHARGELAB,1,1,0.0,100.0,1.57
+Desert Hot Springs,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Antelope,CA,Non-Networked,1,1,0.0,100.0,1.0
+Newcastle,CA,Non-Networked,1,1,0.0,100.0,1.0
+North Hills,CA,Non-Networked,1,1,0.0,100.0,1.0
+Newark,CA,Non-Networked,1,1,0.0,100.0,1.0
+Sutter Creek,CA,Non-Networked,1,1,0.0,100.0,1.0
+Atascadero,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Newhall,CA,NOODOE,1,1,0.0,100.0,1.57
+San Joaquin,CA,Non-Networked,1,1,0.0,100.0,1.0
+Kingsburg,CA,Non-Networked,1,1,0.0,100.0,1.0
+Moss Beach,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Tracy,CA,Non-Networked,1,1,0.0,100.0,1.0
+Elk,CA,Tesla Destination,1,1,0.0,100.0,1.0
+San Diego,CA,SYNERGEV,1,1,100.0,0.0,2.57
+Valley Village,CA,FLO,1,1,0.0,100.0,1.0
+Bishop,CA,Non-Networked,1,1,100.0,0.0,1.0
+Fair Play,CA,Non-Networked,1,1,0.0,100.0,1.0
+Rocklin,CA,Non-Networked,1,1,0.0,100.0,1.0
+Parlier,CA,Non-Networked,1,1,0.0,100.0,1.0
+Wasco,CA,ChargePoint Network,1,1,100.0,0.0,1.0
+Walnut,CA,Non-Networked,1,1,0.0,100.0,1.0
+Rancho Cucamonga,CA,eVgo Network,1,1,100.0,0.0,1.0
+La Jolla,CA,ABM,1,1,100.0,0.0,2.57
+San Fernando,CA,Non-Networked,1,1,0.0,100.0,1.0
+Ridgecrest,CA,EVCS,1,1,100.0,0.0,1.0
+Chula Vista,CA,IN_CHARGE,1,1,100.0,0.0,1.0
+Campbell,CA,NOODOE,1,1,0.0,100.0,1.43
+Cerritos,CA,Tesla Destination,1,1,0.0,100.0,1.0
+RED BLUFF,CA,EV Connect,1,1,100.0,0.0,1.29
+Modesto,CA,Blink Network,1,1,0.0,100.0,1.0
+Encinitas,CA,EVCS,1,1,100.0,0.0,1.0
+Santa Monica,CA,EPIC_CHARGING,1,1,0.0,100.0,9.67
+Citrus Heights,CA,Blink Network,1,1,0.0,100.0,1.0
+Burbank,CA,POWERFLEX,1,1,0.0,100.0,1.86
+Sunnyvale,CA,FLO,1,1,0.0,100.0,1.0
+Dillon Beach,CA,Blink Network,1,1,0.0,100.0,1.0
+Van Nuys,CA,SYNERGEV,1,1,0.0,100.0,2.14
+los Angeles,CA,FLO,1,1,0.0,100.0,1.0
+Sonoma,CA,OpConnect,1,1,0.0,100.0,1.86
+Thermal,CA,ChargePoint Network,1,1,100.0,0.0,1.0
+San Francisco,CA,EVGATEWAY,1,1,0.0,100.0,1.71
+Ferndale,CA,Non-Networked,1,1,0.0,100.0,1.0
+Indio,CA,Non-Networked,1,1,100.0,0.0,1.0
+Pismo Beach,CA,Non-Networked,1,1,0.0,100.0,1.0
+Studio City,CA,Non-Networked,1,1,0.0,100.0,1.0
+North Highlands,CA,ChargePoint Network,1,1,0.0,100.0,1.0
+Duarte,CA,Non-Networked,1,1,0.0,100.0,1.0
+Orange Cove,CA,Non-Networked,1,1,0.0,100.0,1.0
+Westlake Village,CA,Non-Networked,1,1,0.0,100.0,1.0
+Atascadero,CA,EVCS,1,1,100.0,0.0,1.0
+Carmichael,CA,Non-Networked,1,1,0.0,100.0,1.0
+Coto De Caza,CA,Non-Networked,1,1,0.0,100.0,1.0
+Unit B City of Industry,CA,NOODOE,1,1,0.0,100.0,1.29
+East Palo Alto,CA,Blink Network,1,1,0.0,100.0,1.0
+Hanford,CA,EV Connect,1,1,100.0,0.0,1.14
+Chico,CA,IN_CHARGE,1,1,100.0,0.0,1.0
+Soledad,CA,EVCS,1,1,100.0,0.0,1.0
+Firebaugh,CA,Non-Networked,1,1,0.0,100.0,1.0
+Novato,CA,Blink Network,1,1,0.0,100.0,1.0
+Palm Springs,CA,eVgo Network,1,1,100.0,0.0,1.0
+Solvang,CA,eVgo Network,1,1,100.0,0.0,1.0
+Montebello,CA,CHARGESMART_EV,1,1,0.0,100.0,1.5
+Sunnyvale,CA,EVCS,1,1,100.0,0.0,1.0
+Granada Hills,CA,AMPUP,1,1,0.0,100.0,1.0
+Torrance,CA,FLO,1,1,0.0,100.0,1.0
+Oxnard,CA,EV Connect,1,1,100.0,0.0,1.0
+Olema,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Elk Grove,CA,Blink Network,1,1,0.0,100.0,1.0
+Middletown,CA,Non-Networked,1,1,0.0,100.0,1.0
+Burlingame,CA,Tesla Destination,1,1,0.0,100.0,1.0
+Bradley,CA,ChargePoint Network,1,1,100.0,0.0,1.0
+Three Rivers,CA,AMPUP,1,1,0.0,100.0,1.0
+Tarzana,CA,FLO,1,1,0.0,100.0,1.0

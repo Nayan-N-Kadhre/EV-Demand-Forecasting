@@ -8,7 +8,7 @@
     "trained_at": "2026-06-01 06:01:05",
     "mae": 184.69,
     "rmse": 226.4,
-    "evaluated_at": "2026-06-01 05:50:57"
+    "evaluated_at": "2026-06-02 00:01:53"
   },
   {
     "label": "Los_Angeles_ChargePoint_Network",
@@ -19,7 +19,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 104.32,
     "rmse": 123.77,
-    "evaluated_at": "2026-06-01 05:50:57"
+    "evaluated_at": "2026-06-02 00:01:53"
   },
   {
     "label": "Irvine_ChargePoint_Network",
@@ -30,7 +30,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 68.76,
     "rmse": 80.17,
-    "evaluated_at": "2026-06-01 05:50:57"
+    "evaluated_at": "2026-06-02 00:01:53"
   },
   {
     "label": "San_Diego_ChargePoint_Network",
@@ -41,7 +41,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 57.05,
     "rmse": 71.13,
-    "evaluated_at": "2026-06-01 05:50:57"
+    "evaluated_at": "2026-06-02 00:01:53"
   },
   {
     "label": "San_Jose_ChargePoint_Network",
@@ -52,7 +52,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 49.37,
     "rmse": 61.07,
-    "evaluated_at": "2026-06-01 06:02:25"
+    "evaluated_at": "2026-06-02 00:01:53"
   },
   {
     "label": "San_Francisco_ChargePoint_Network",
@@ -63,7 +63,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 31.22,
     "rmse": 38.62,
-    "evaluated_at": "2026-06-01 06:02:25"
+    "evaluated_at": "2026-06-02 00:01:54"
   },
   {
     "label": "Santa_Clara_ChargePoint_Network",
@@ -74,7 +74,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 31.39,
     "rmse": 37.98,
-    "evaluated_at": "2026-06-01 05:50:58"
+    "evaluated_at": "2026-06-02 00:01:54"
   },
   {
     "label": "Sacramento_ChargePoint_Network",
@@ -85,7 +85,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 40.9,
     "rmse": 47.34,
-    "evaluated_at": "2026-06-01 05:50:58"
+    "evaluated_at": "2026-06-02 00:01:54"
   },
   {
     "label": "Menlo_Park_ChargePoint_Network",
@@ -96,7 +96,7 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 22.35,
     "rmse": 27.03,
-    "evaluated_at": "2026-06-01 05:50:58"
+    "evaluated_at": "2026-06-02 00:01:54"
   },
   {
     "label": "San_Diego_POWERFLEX",
@@ -107,6 +107,6 @@
     "trained_at": "2026-06-01 05:49:38",
     "mae": 37.25,
     "rmse": 42.7,
-    "evaluated_at": "2026-06-01 05:50:58"
+    "evaluated_at": "2026-06-02 00:01:54"
   }
 ]
