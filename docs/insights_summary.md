@@ -8,11 +8,14 @@ followed by Tesla-branded networks (Tesla Destination + Tesla Supercharger combi
 tail of smaller operators (Blink, LOOP, FLO, EVgo, Electrify America). This concentration means
 grid capacity planning largely depends on a single operator's infrastructure decisions.
 
-## 2. The DC Fast Charging Gap
-Across nearly every major network, DC Fast chargers represent under 3% of total ports — the vast
-majority of California's charging infrastructure is Level 2 (slow, 4-8 hour charging). This is a
-significant gap relative to driver expectations for fast charging, and represents a clear
-opportunity for networks like Tesla to differentiate through Supercharger expansion.
+## 2. A Bifurcated Charging Market: Tesla vs. Everyone Else
+Tesla's charging network is built almost entirely on DC Fast infrastructure — 33,700 DC Fast
+ports and zero Level 2 ports across the dataset. In contrast, ChargePoint Network, the largest
+operator by station count (13,528 stations), is overwhelmingly Level 2 (22,730 Level 2 ports
+vs. 4,653 DC Fast). This creates a bifurcated charging experience: Tesla owners have fast-charging
+by default, while drivers on other networks largely rely on slower, multi-hour Level 2 charging.
+This gap represents a clear differentiation point and expansion opportunity for fast-charging
+network operators.
 
 ## 3. Explosive Recent Growth
 EV charging infrastructure in California grew minimally from 1995 to roughly 2010 — fewer than
