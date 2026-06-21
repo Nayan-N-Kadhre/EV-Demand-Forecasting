@@ -1,9 +1,9 @@
 # California EV Charging Infrastructure Analytics & Capacity Forecasting Pipeline
 
 ## Business Problem
-California's EV charging network is growing rapidly, but infrastructure gaps in DC Fast charging 
-and uneven network distribution create grid planning challenges. This pipeline ingests, transforms, 
-and analyzes 19,432 real EV charging stations across California to surface actionable insights on 
+California's EV charging network is growing rapidly, but infrastructure gaps in DC Fast charging
+and uneven network distribution create grid planning challenges. This pipeline ingests, transforms,
+and analyzes 19,432 real EV charging stations across California to surface actionable insights on
 infrastructure growth, network market share, and capacity demand forecasting.
 
 ![Airflow DAGs](docs/airflow_screenshot.png)
@@ -31,10 +31,13 @@ infrastructure growth, network market share, and capacity demand forecasting.
 | raw | dq_log | Automated data quality check results |
 
 ## Key Insights
-- ChargePoint dominates California with 70%+ of total stations
-- DC Fast charging infrastructure remains below 3% across all major networks — a significant gap
+- ChargePoint dominates California by station count (13,528 stations), the largest single network
+- A bifurcated charging market: Tesla's network is ~100% DC Fast (33,700 ports, 0 Level 2), while
+  ChargePoint is overwhelmingly Level 2 (22,730 vs. 4,653 DC Fast) — two very different charging
+  experiences depending on network
 - EV infrastructure grew exponentially post-2019, with 5,000+ new stations opened in 2021 alone
-- Los Angeles has the highest port capacity (8,000+ ports) but lowest DC Fast penetration
+- Los Angeles has the highest port capacity (8,000+ ports) but also the highest forecast error,
+  suggesting large/dense markets need segmented rather than citywide forecasting models
 - Prophet models achieve MAE as low as 22.35 ports (Menlo Park) vs 289 (Los Angeles)
 
 ## Airflow DAGs
@@ -50,17 +53,22 @@ infrastructure growth, network market share, and capacity demand forecasting.
    git clone https://github.com/Nayan-N-Kadhre/ev-demand-forecasting.git
    cd ev-demand-forecasting
 ```
-2. Start Postgres and Airflow
+2. Create a `.env` file with your own credentials
+```bash
+   cp .env.example .env
+   # then edit .env with your NREL_API_KEY and DB_PASSWORD
+```
+3. Start Postgres and Airflow
 ```bash
    docker-compose up -d
 ```
-3. Create virtual environment
+4. Create virtual environment
 ```bash
    python3.12 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
 ```
-4. Run pipeline manually
+5. Run pipeline manually
 ```bash
    python src/extract/fetch_sessions.py
    python src/load/load_raw.py
@@ -75,9 +83,10 @@ infrastructure growth, network market share, and capacity demand forecasting.
 - 3,057 city-network combinations analyzed
 - 10 Prophet forecasting models trained and evaluated
 - Best model MAE: 22.35 (Menlo Park - ChargePoint)
-- 8-chart Tableau dashboard published
+- 6-panel Tableau dashboard published to Tableau Public
+- Credentials managed via environment variables (no secrets committed to version control)
 
 ## Dashboard
 ![EV Charging Infrastructure Dashboard](docs/tableau_dashboard.png)
 
-[View on Tableau Public](https://public.tableau.com/views/EVChargingInfrastructureAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View live on Tableau Public](https://public.tableau.com/views/EVChargingInfrastructureAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
