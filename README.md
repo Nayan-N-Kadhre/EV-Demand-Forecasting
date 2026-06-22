@@ -47,6 +47,15 @@ infrastructure growth, network market share, and capacity demand forecasting.
 | transform_dag | Daily | run_transforms (staging + mart) |
 | retrain_dag | Weekly | train_models → evaluate_models |
 
+## Raw Data
+
+Raw JSON files are not committed to this repository due to file size (110MB+).
+
+To regenerate: run `python src/extract/fetch_sessions.py` — this fetches fresh
+data from the NLR API and saves a date-stamped JSON to this folder.
+
+API endpoint: https://developer.nlr.gov/api/alt-fuel-stations/v1.json
+
 ## How to Run Locally
 1. Clone the repo
 ```bash
