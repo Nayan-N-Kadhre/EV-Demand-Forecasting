@@ -1,0 +1,11 @@
+label,city,ev_network,total_ports,mae,rmse,evaluated_at
+Los_Angeles_LOOP,Los Angeles,LOOP,3564,184.69,226.4,2026-06-21 21:47:09
+Los_Angeles_ChargePoint_Network,Los Angeles,ChargePoint Network,1584,78.69,95.26,2026-06-21 21:47:09
+Irvine_ChargePoint_Network,Irvine,ChargePoint Network,1306,57.84,70.9,2026-06-21 21:47:09
+San_Diego_ChargePoint_Network,San Diego,ChargePoint Network,1185,53.59,64.75,2026-06-21 21:47:09
+San_Jose_ChargePoint_Network,San Jose,ChargePoint Network,993,40.95,51.48,2026-06-21 21:47:10
+San_Francisco_ChargePoint_Network,San Francisco,ChargePoint Network,827,31.22,38.62,2026-06-21 21:47:10
+Santa_Clara_ChargePoint_Network,Santa Clara,ChargePoint Network,672,20.86,26.8,2026-06-21 21:47:10
+Sacramento_ChargePoint_Network,Sacramento,ChargePoint Network,648,26.81,33.51,2026-06-21 21:47:10
+Menlo_Park_ChargePoint_Network,Menlo Park,ChargePoint Network,540,22.35,27.03,2026-06-21 21:47:10
+San_Diego_POWERFLEX,San Diego,POWERFLEX,520,37.25,42.7,2026-06-21 21:47:10
